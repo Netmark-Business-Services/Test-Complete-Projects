@@ -1,0 +1,60 @@
+2025-01-22 11:00:20,973 - INFO - Starting SOAP client in Prod environment
+2025-01-22 11:00:20,975 - INFO - Reading data from c:\Test complete\Netmark\Projects\Community Support\Spreadsheet Claims\Ventura Harbor - Waters Edge - TAT\01-11-25 to 01-17-25 WE claims Master WE MSF Inv#475.xlsx
+2025-01-22 11:00:22,432 - INFO - Process completed. Check logs at:
+2025-01-22 11:00:22,432 - INFO - Requests: c:\Test complete\Netmark\Projects\Community Support\logs\01-11-25 to 01-17-25 WE claims Master WE MSF Inv#475 Claim-Submit-Prod-Requests.txt
+2025-01-22 11:00:22,432 - INFO - Responses: c:\Test complete\Netmark\Projects\Community Support\logs\01-11-25 to 01-17-25 WE claims Master WE MSF Inv#475 Claim-Submit-Prod-Responses.txt 
+2025-01-22 11:00:22,477 - INFO - Successful claims written to Excel at c:\Test complete\Netmark\Projects\Community Support\logs\(Claims Created) 01-11-25 to 01-17-25 WE claims Master WE MSF Inv#475.xlsx
+2025-01-22 11:00:22,477 - INFO - No unsuccessful claims to write.
+2025-01-22 11:00:22,477 - INFO - Claims responses written to Excel at c:\Test complete\Netmark\Projects\Community Support\logs\(Claims Created) 01-11-25 to 01-17-25 WE claims Master WE MSF Inv#475.xlsx
+2025-01-22 11:00:22,477 - INFO - Error claims written to Excel at c:\Test complete\Netmark\Projects\Community Support\logs\(Claims Not Created) 01-11-25 to 01-17-25 WE claims Master WE MSF Inv#475.xlsx
+2025-01-22 11:00:23,357 - INFO - Claim 2024337009036 Status: Final
+2025-01-22 11:00:23,574 - INFO - Claim 2024337009037 Status: Final
+2025-01-22 11:00:23,780 - INFO - Claim 2024337009038 Status: Final
+2025-01-22 11:00:24,647 - INFO - Claim 2024337009039 Status: Final
+2025-01-22 11:00:24,860 - INFO - Claim 2024337009040 Status: Final
+2025-01-22 11:00:25,069 - INFO - Claim 2024337009041 Status: Final
+2025-01-22 11:00:25,274 - INFO - Claim 2024337009042 Status: Final
+2025-01-22 11:00:25,467 - INFO - Claim 2024337009043 Status: Needs Repair
+2025-01-22 11:00:25,664 - INFO - Claim 2024337009044 Status: Final
+2025-01-22 11:00:25,877 - INFO - Claim 2024337009045 Status: Final
+2025-01-22 11:00:26,070 - INFO - Claim 2024337009046 Status: Needs Repair
+2025-01-22 11:00:26,275 - INFO - Claim 2024337009047 Status: Final
+2025-01-22 11:00:26,471 - INFO - Claim 2024337009048 Status: Final
+2025-01-22 11:00:26,669 - INFO - Claim 2024337009049 Status: Final
+2025-01-22 11:00:26,872 - INFO - Claim 2024337009050 Status: Final
+2025-01-22 11:00:27,081 - INFO - Claim 2024337009051 Status: Final
+2025-01-22 11:00:27,279 - INFO - Claim 2024337009052 Status: Final
+2025-01-22 11:00:27,480 - INFO - Claim 2024337009053 Status: Final
+2025-01-22 11:00:27,685 - INFO - Claim 2024337009054 Status: Final
+2025-01-22 11:00:27,884 - INFO - Claim 2024337009055 Status: Final
+2025-01-22 11:00:28,095 - INFO - Claim 2024337009056 Status: Final
+2025-01-22 11:00:28,291 - INFO - Claim 2024337009057 Status: Final
+2025-01-22 11:00:28,508 - INFO - Claim 2024337009058 Status: Final
+2025-01-22 11:00:28,701 - INFO - Claim 2024337009059 Status: Final
+2025-01-22 11:00:28,905 - INFO - Claim 2024337009060 Status: Final
+2025-01-22 11:00:29,102 - INFO - Claim 2024337009061 Status: Final
+2025-01-22 11:00:29,305 - INFO - Claim 2024337009062 Status: Final
+2025-01-22 11:00:29,514 - INFO - Claim 2024337009063 Status: Final
+2025-01-22 11:00:29,717 - INFO - Claim 2024337009064 Status: Final
+2025-01-22 11:00:29,919 - INFO - Claim 2024337009065 Status: Final
+2025-01-22 11:00:30,115 - INFO - Claim 2024337009066 Status: Final
+2025-01-22 11:00:30,312 - INFO - Claim 2024337009067 Status: Final
+2025-01-22 11:00:30,504 - INFO - Claim 2024337009068 Status: Denied
+2025-01-22 11:00:30,715 - INFO - Claim 2024337009069 Status: Final
+2025-01-22 11:00:30,914 - INFO - Claim 2024337009070 Status: Final
+2025-01-22 11:00:31,097 - INFO - Claim 2024337009071 Status: Final
+2025-01-22 11:00:31,319 - INFO - Claim 2024337009072 Status: Final
+2025-01-22 11:00:31,521 - INFO - Claim 2024337009073 Status: Final
+2025-01-22 11:00:31,736 - INFO - Claim 2024337009074 Status: Final
+2025-01-22 11:00:31,956 - INFO - Claim 2024337009075 Status: Final
+2025-01-22 11:00:32,173 - INFO - Claim 2024337009076 Status: Final
+2025-01-22 11:00:32,378 - INFO - Claim 2024337009077 Status: Final
+2025-01-22 11:00:32,590 - INFO - Claim 2024337009078 Status: Final
+2025-01-22 11:00:32,793 - INFO - Claim 2024337009079 Status: Final
+2025-01-22 11:00:32,998 - INFO - Claim 2024337009080 Status: Final
+2025-01-22 11:00:33,210 - INFO - Claim 2024337009081 Status: Final
+2025-01-22 11:00:33,403 - INFO - Claim 2024337009082 Status: Final
+2025-01-22 11:00:33,603 - INFO - Claim 2024337009083 Status: Final
+2025-01-22 11:00:33,804 - INFO - Claim 2024337009084 Status: Final
+2025-01-22 11:00:33,828 - INFO - Updated claim statuses written to c:\Test complete\Netmark\Projects\Community Support\logs\(Claims Created) 01-11-25 to 01-17-25 WE claims Master WE MSF Inv#475.xlsx
+2025-01-22 11:00:33,831 - INFO - Claim statuses updated in c:\Test complete\Netmark\Projects\Community Support\logs\(Claims Created) 01-11-25 to 01-17-25 WE claims Master WE MSF Inv#475.xlsx

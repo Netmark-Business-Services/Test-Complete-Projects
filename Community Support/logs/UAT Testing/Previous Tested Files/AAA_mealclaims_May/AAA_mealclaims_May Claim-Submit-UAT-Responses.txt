@@ -1,0 +1,82 @@
+
+Response for ANTHONY HARPER (90023161G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 19 Dec 2024 22:32:04 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-ut01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '589', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>1513079</claimIdentifier><hccClaimNumber>2024337004640</hccClaimNumber><cvcId>24049601</cvcId><attachmentSetId>10446931</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for DIANNE FORTE (90050942C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 19 Dec 2024 22:32:06 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-ut01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>691572</claimIdentifier><hccClaimNumber>2024337004641</hccClaimNumber><cvcId>24049602</cvcId><attachmentSetId>10446932</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for SCOTT SKOLNIK (90075802E):
+Status Code: 500
+Response Headers: {'Date': 'Thu, 19 Dec 2024 22:32:09 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Content-Length': '1049', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><soap:Fault><faultcode>soap:Server</faultcode><faultstring>Validation failed for: com.sun.org.apache.xerces.internal.jaxp.validation.XMLSchema@4810a63a
+errors: [
+org.xml.sax.SAXParseException: cvc-enumeration-valid: Value 'M ' is not facet-valid with respect to enumeration '[Male, Female, Unknown, Unspecified, M, F, U, X]'. It must be a value from the enumeration., Line : 12, Column : 40
+org.xml.sax.SAXParseException: cvc-type.3.1.3: The value 'M ' of element 'genderCode' is not valid., Line : 12, Column : 40
+org.xml.sax.SAXParseException: cvc-enumeration-valid: Value 'M ' is not facet-valid with respect to enumeration '[Male, Female, Unknown, Unspecified, M, F, U, X]'. It must be a value from the enumeration., Line : 22, Column : 40
+org.xml.sax.SAXParseException: cvc-type.3.1.3: The value 'M ' of element 'genderCode' is not valid., Line : 22, Column : 40
+]. Exchange[43B9A21B4B57C13-0000000000000C60]</faultstring></soap:Fault></soap:Body></soap:Envelope>
+
+
+Response for PAULINA OROZCO (90105145E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 19 Dec 2024 22:32:12 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-ut01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>627472</claimIdentifier><hccClaimNumber>2024337004642</hccClaimNumber><cvcId>24049607</cvcId><attachmentSetId>10446933</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for ALISHA KHAN (90109472F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 19 Dec 2024 22:32:15 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-ut01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>991448</claimIdentifier><hccClaimNumber>2024337004643</hccClaimNumber><cvcId>24049612</cvcId><attachmentSetId>10446934</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for CAROLE VIRDEN (90118305F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 19 Dec 2024 22:32:17 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-ut01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>506376</claimIdentifier><hccClaimNumber>2024337004644</hccClaimNumber><cvcId>24049613</cvcId><attachmentSetId>10446935</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for CHARLES SANFILIPPO (90129236G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 19 Dec 2024 22:32:20 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-ut01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '589', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>1762053</claimIdentifier><hccClaimNumber>2024337004645</hccClaimNumber><cvcId>24049614</cvcId><attachmentSetId>10446936</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for ADRIANA MONTERRUBIO (90131348D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 19 Dec 2024 22:32:23 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-ut01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>860730</claimIdentifier><hccClaimNumber>2024337004646</hccClaimNumber><cvcId>24049615</cvcId><attachmentSetId>10446937</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for RAUL AVALOS (90134451D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 19 Dec 2024 22:32:25 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-ut01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>507246</claimIdentifier><hccClaimNumber>2024337004647</hccClaimNumber><cvcId>24049616</cvcId><attachmentSetId>10446938</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for EDITH CERVANTES (90136059C):
+Status Code: 500
+Response Headers: {'Date': 'Thu, 19 Dec 2024 22:32:28 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Content-Length': '1049', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><soap:Fault><faultcode>soap:Server</faultcode><faultstring>Validation failed for: com.sun.org.apache.xerces.internal.jaxp.validation.XMLSchema@4810a63a
+errors: [
+org.xml.sax.SAXParseException: cvc-enumeration-valid: Value 'F ' is not facet-valid with respect to enumeration '[Male, Female, Unknown, Unspecified, M, F, U, X]'. It must be a value from the enumeration., Line : 12, Column : 40
+org.xml.sax.SAXParseException: cvc-type.3.1.3: The value 'F ' of element 'genderCode' is not valid., Line : 12, Column : 40
+org.xml.sax.SAXParseException: cvc-enumeration-valid: Value 'F ' is not facet-valid with respect to enumeration '[Male, Female, Unknown, Unspecified, M, F, U, X]'. It must be a value from the enumeration., Line : 22, Column : 40
+org.xml.sax.SAXParseException: cvc-type.3.1.3: The value 'F ' of element 'genderCode' is not valid., Line : 22, Column : 40
+]. Exchange[43B9A21B4B57C13-0000000000000C67]</faultstring></soap:Fault></soap:Body></soap:Envelope>
+

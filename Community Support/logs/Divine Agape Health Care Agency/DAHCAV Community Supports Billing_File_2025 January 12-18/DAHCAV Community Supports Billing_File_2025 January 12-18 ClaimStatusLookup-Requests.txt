@@ -1,0 +1,2145 @@
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018826
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018826</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018827
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018827</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018828
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018828</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018829
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018829</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018830
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018830</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018831
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018831</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018832
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018832</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018833
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018833</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018834
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018834</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018835
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018835</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018836
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018836</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018837
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018837</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018838
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018838</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018839
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018839</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018840
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018840</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018841
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018841</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018842
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018842</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018843
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018843</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018844
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018844</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018845
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018845</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018846
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018846</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018847
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018847</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018848
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018848</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018849
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018849</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018850
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018850</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018851
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018851</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018852
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018852</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018853
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018853</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018854
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018854</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018855
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018855</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018856
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018856</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018857
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018857</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018858
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018858</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018859
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018859</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018860
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018860</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018861
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018861</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018862
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018862</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018863
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018863</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018864
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018864</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018865
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018865</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018866
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018866</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018867
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018867</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018868
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018868</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018869
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018869</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018870
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018870</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018871
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018871</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018872
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018872</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018873
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018873</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018874
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018874</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018875
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018875</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018876
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018876</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018877
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018877</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018878
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018878</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018879
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018879</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018880
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018880</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018881
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018881</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018882
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018882</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018883
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018883</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018884
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018884</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018885
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018885</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018886
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018886</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018887
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018887</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018888
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018888</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018889
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018889</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018890
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018890</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018891
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018891</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018892
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018892</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018893
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018893</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018894
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018894</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018895
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018895</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018896
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018896</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018897
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018897</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018898
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018898</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018899
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018899</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018900
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018900</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018901
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018901</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018902
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018902</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018903
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018903</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018904
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018904</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018905
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018905</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018906
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018906</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018907
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018907</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018908
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018908</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018909
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018909</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018910
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018910</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018911
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018911</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018912
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018912</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018913
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018913</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018914
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018914</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018915
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018915</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018916
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018916</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018917
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018917</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018918
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018918</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018919
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018919</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018920
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018920</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018921
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018921</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018922
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018922</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018923
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018923</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018924
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018924</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018925
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018925</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018926
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018926</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018927
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018927</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018928
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018928</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018929
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018929</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018930
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018930</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018931
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018931</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018932
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018932</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018933
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018933</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018934
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018934</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018935
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018935</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018936
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018936</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018937
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018937</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018938
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018938</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018939
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018939</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018940
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018940</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018941
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018941</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018942
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018942</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018943
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018943</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018944
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018944</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018945
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018945</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018946
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018946</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018947
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018947</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018948
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018948</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018949
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018949</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018950
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018950</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018951
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018951</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018952
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018952</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018953
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018953</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018954
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018954</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018955
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018955</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018956
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018956</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018957
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018957</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018958
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018958</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018959
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018959</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018960
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018960</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018961
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018961</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018962
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018962</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018963
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018963</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018964
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018964</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018965
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018965</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018966
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018966</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018967
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018967</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+================================================================================
+Request for Claim Status - Claim Number: 2025021018968
+================================================================================
+Request Body:
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stat="http://www.healthedge.com/connector/schema/claim/status">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stat:claimStatusLookupCriteria resourceURI="http://healthedge.com/getAll" version="8.1">
+         <hccClaimNumber>2025021018968</hccClaimNumber>
+      </stat:claimStatusLookupCriteria>
+   </soapenv:Body>
+</soapenv:Envelope>
+

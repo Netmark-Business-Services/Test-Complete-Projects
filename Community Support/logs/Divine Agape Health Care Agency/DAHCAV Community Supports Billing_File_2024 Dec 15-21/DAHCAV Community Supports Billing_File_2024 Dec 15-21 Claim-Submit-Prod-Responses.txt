@@ -1,0 +1,966 @@
+
+Response for Pauline Gibson (90073299A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:02 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240131</claimIdentifier><hccClaimNumber>2024358008669</hccClaimNumber><cvcId>51815820</cvcId><attachmentSetId>11368119</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Scott Skolnik (90075802E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:04 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230045</claimIdentifier><hccClaimNumber>2024358008670</hccClaimNumber><cvcId>51815821</cvcId><attachmentSetId>11368120</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Margarita Volkov (90101520F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:07 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230079</claimIdentifier><hccClaimNumber>2024358008671</hccClaimNumber><cvcId>51815822</cvcId><attachmentSetId>11368121</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Maria Hernandez (90175094A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:09 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240232</claimIdentifier><hccClaimNumber>2024358008672</hccClaimNumber><cvcId>51815823</cvcId><attachmentSetId>11368122</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Carol Thomas (90196170A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:12 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240154</claimIdentifier><hccClaimNumber>2024358008673</hccClaimNumber><cvcId>51815824</cvcId><attachmentSetId>11368123</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Maria Aceves (90197214C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:14 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240275</claimIdentifier><hccClaimNumber>2024358008674</hccClaimNumber><cvcId>51815825</cvcId><attachmentSetId>11368124</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Carol Scherr (90267207A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:17 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230126</claimIdentifier><hccClaimNumber>2024358008675</hccClaimNumber><cvcId>51815826</cvcId><attachmentSetId>11368125</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Maria Guadalupe Torres (90288429C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:19 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240282</claimIdentifier><hccClaimNumber>2024358008676</hccClaimNumber><cvcId>51815827</cvcId><attachmentSetId>11368126</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Miguel Rengifo (90342597E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:21 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230092</claimIdentifier><hccClaimNumber>2024358008677</hccClaimNumber><cvcId>51815828</cvcId><attachmentSetId>11368127</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Josefina Ramirez (90610555D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:24 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240258</claimIdentifier><hccClaimNumber>2024358008678</hccClaimNumber><cvcId>51815829</cvcId><attachmentSetId>11368128</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for David Mahoney (90649004C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:26 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240322</claimIdentifier><hccClaimNumber>2024358008679</hccClaimNumber><cvcId>51815830</cvcId><attachmentSetId>11368129</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Marcos Lopez Magallon (90705283F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:28 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230089</claimIdentifier><hccClaimNumber>2024358008680</hccClaimNumber><cvcId>51815831</cvcId><attachmentSetId>11368130</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Zander Mills (90764774G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:31 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240146</claimIdentifier><hccClaimNumber>2024358008681</hccClaimNumber><cvcId>51815832</cvcId><attachmentSetId>11368131</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Frank Almaguer (91011551A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:33 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240201</claimIdentifier><hccClaimNumber>2024358008682</hccClaimNumber><cvcId>51815833</cvcId><attachmentSetId>11368132</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Cecilio Limas (91012324C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:36 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240178</claimIdentifier><hccClaimNumber>2024358008683</hccClaimNumber><cvcId>51815834</cvcId><attachmentSetId>11368133</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Michelle Shadi (91015984F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:38 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230069</claimIdentifier><hccClaimNumber>2024358008684</hccClaimNumber><cvcId>51815835</cvcId><attachmentSetId>11368134</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Maria Celis (91072915C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:40 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240329</claimIdentifier><hccClaimNumber>2024358008685</hccClaimNumber><cvcId>51815838</cvcId><attachmentSetId>11368137</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Ana Ramos (91221843A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:42 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240284</claimIdentifier><hccClaimNumber>2024358008686</hccClaimNumber><cvcId>51815851</cvcId><attachmentSetId>11368150</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Adela Muniz De Zarate (91330166C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:45 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230047</claimIdentifier><hccClaimNumber>2024358008687</hccClaimNumber><cvcId>51815864</cvcId><attachmentSetId>11368163</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Amelia Hernandez (91405015A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:47 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240199</claimIdentifier><hccClaimNumber>2024358008688</hccClaimNumber><cvcId>51815876</cvcId><attachmentSetId>11368175</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Maria Delgadillo (91446617A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:50 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240307</claimIdentifier><hccClaimNumber>2024358008689</hccClaimNumber><cvcId>51815885</cvcId><attachmentSetId>11368184</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Antonio Luna (91581408A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:52 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240268</claimIdentifier><hccClaimNumber>2024358008690</hccClaimNumber><cvcId>51815886</cvcId><attachmentSetId>11368185</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Gail Bush (91705390A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:54 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230100</claimIdentifier><hccClaimNumber>2024358008691</hccClaimNumber><cvcId>51815887</cvcId><attachmentSetId>11368186</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Josette Matthews (91779482G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:56 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240217</claimIdentifier><hccClaimNumber>2024358008692</hccClaimNumber><cvcId>51815888</cvcId><attachmentSetId>11368187</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Silvia Lazaro (91867522C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:00:59 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230106</claimIdentifier><hccClaimNumber>2024358008693</hccClaimNumber><cvcId>51815889</cvcId><attachmentSetId>11368188</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Barbara Pink (91887552A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:01 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240150</claimIdentifier><hccClaimNumber>2024358008694</hccClaimNumber><cvcId>51815890</cvcId><attachmentSetId>11368189</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Gary Bodkins (91894813C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:03 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240187</claimIdentifier><hccClaimNumber>2024358008695</hccClaimNumber><cvcId>51815891</cvcId><attachmentSetId>11368190</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Howard Carpenter (91919333E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:06 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240189</claimIdentifier><hccClaimNumber>2024358008696</hccClaimNumber><cvcId>51815892</cvcId><attachmentSetId>11368191</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Marciano Reynoso (91943007D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:08 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240310</claimIdentifier><hccClaimNumber>2024358008697</hccClaimNumber><cvcId>51815893</cvcId><attachmentSetId>11368192</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Patrick Kenny (91955759C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:10 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240144</claimIdentifier><hccClaimNumber>2024358008698</hccClaimNumber><cvcId>51815894</cvcId><attachmentSetId>11368193</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Jessie Donaghy (92118711G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:13 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230081</claimIdentifier><hccClaimNumber>2024358008699</hccClaimNumber><cvcId>51815895</cvcId><attachmentSetId>11368194</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Amelina Aguayo De Romero (92149150F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:15 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240213</claimIdentifier><hccClaimNumber>2024358008700</hccClaimNumber><cvcId>51815896</cvcId><attachmentSetId>11368195</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Maria Yepez (92187667A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:17 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240247</claimIdentifier><hccClaimNumber>2024358008701</hccClaimNumber><cvcId>51815897</cvcId><attachmentSetId>11368196</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Hernan Hernandez (92202403C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:20 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240261</claimIdentifier><hccClaimNumber>2024358008702</hccClaimNumber><cvcId>51815898</cvcId><attachmentSetId>11368197</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Yolanda Acosta (92266566D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:22 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240173</claimIdentifier><hccClaimNumber>2024358008703</hccClaimNumber><cvcId>51815899</cvcId><attachmentSetId>11368198</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Arlene Covarrubias (92396163A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:24 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240320</claimIdentifier><hccClaimNumber>2024358008704</hccClaimNumber><cvcId>51815900</cvcId><attachmentSetId>11368199</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Maria De Munoz (92470598A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:26 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240254</claimIdentifier><hccClaimNumber>2024358008705</hccClaimNumber><cvcId>51816701</cvcId><attachmentSetId>11368200</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Maria Guardiola De Garcia (92470670A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:29 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240262</claimIdentifier><hccClaimNumber>2024358008706</hccClaimNumber><cvcId>51816702</cvcId><attachmentSetId>11368201</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Christiane Dilucchaio (92612855A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:31 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240133</claimIdentifier><hccClaimNumber>2024358008707</hccClaimNumber><cvcId>51816703</cvcId><attachmentSetId>11368202</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Christopher Martinez (92636906D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:33 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240206</claimIdentifier><hccClaimNumber>2024358008708</hccClaimNumber><cvcId>51816704</cvcId><attachmentSetId>11368203</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Beverly Warren (92653892A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:36 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240182</claimIdentifier><hccClaimNumber>2024358008709</hccClaimNumber><cvcId>51816705</cvcId><attachmentSetId>11368204</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Luz Estrada (92816631D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:38 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240193</claimIdentifier><hccClaimNumber>2024358008710</hccClaimNumber><cvcId>51816706</cvcId><attachmentSetId>11368205</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Carol Braff (92875591C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:40 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240306</claimIdentifier><hccClaimNumber>2024358008711</hccClaimNumber><cvcId>51816707</cvcId><attachmentSetId>11368206</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Thomas Lepore (92904671G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:43 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230086</claimIdentifier><hccClaimNumber>2024358008712</hccClaimNumber><cvcId>51816708</cvcId><attachmentSetId>11368207</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Julia Perez (93012099G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:45 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230052</claimIdentifier><hccClaimNumber>2024358008713</hccClaimNumber><cvcId>51816709</cvcId><attachmentSetId>11368208</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Steven Foss (93051459D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:47 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230098</claimIdentifier><hccClaimNumber>2024358008714</hccClaimNumber><cvcId>51816710</cvcId><attachmentSetId>11368209</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Lakisha Banales (93105414C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:49 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230087</claimIdentifier><hccClaimNumber>2024358008715</hccClaimNumber><cvcId>51816711</cvcId><attachmentSetId>11368210</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Laura Hyde (93142177G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:52 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240245</claimIdentifier><hccClaimNumber>2024358008716</hccClaimNumber><cvcId>51816712</cvcId><attachmentSetId>11368211</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Amanda Fuentes (93221056F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:54 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240297</claimIdentifier><hccClaimNumber>2024358008717</hccClaimNumber><cvcId>51816713</cvcId><attachmentSetId>11368212</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Emilia Arguello Montes (93267549G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:56 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240267</claimIdentifier><hccClaimNumber>2024358008718</hccClaimNumber><cvcId>51816714</cvcId><attachmentSetId>11368213</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Imelda Maria Lopez Lugo (93366438A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:01:59 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240153</claimIdentifier><hccClaimNumber>2024358008719</hccClaimNumber><cvcId>51816715</cvcId><attachmentSetId>11368214</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Celia Merino (93445258A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:01 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240134</claimIdentifier><hccClaimNumber>2024358008720</hccClaimNumber><cvcId>51816716</cvcId><attachmentSetId>11368215</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Shawn Hightower (93462722C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:03 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230049</claimIdentifier><hccClaimNumber>2024358008721</hccClaimNumber><cvcId>51816717</cvcId><attachmentSetId>11368216</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for David Hynes (93586673A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:06 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230084</claimIdentifier><hccClaimNumber>2024358008722</hccClaimNumber><cvcId>51816718</cvcId><attachmentSetId>11368217</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Helen Aguilera (93633814C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:08 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240313</claimIdentifier><hccClaimNumber>2024358008723</hccClaimNumber><cvcId>51816719</cvcId><attachmentSetId>11368218</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Nancy Shirley (93656003G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:10 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230083</claimIdentifier><hccClaimNumber>2024358008724</hccClaimNumber><cvcId>51816720</cvcId><attachmentSetId>11368219</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Sherry Mcfall (93671162D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:13 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230080</claimIdentifier><hccClaimNumber>2024358008725</hccClaimNumber><cvcId>51816721</cvcId><attachmentSetId>11368220</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Richard Shirley (93856003G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:15 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230112</claimIdentifier><hccClaimNumber>2024358008726</hccClaimNumber><cvcId>51816722</cvcId><attachmentSetId>11368221</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Sosima Medina (93913373A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:17 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240200</claimIdentifier><hccClaimNumber>2024358008727</hccClaimNumber><cvcId>51816723</cvcId><attachmentSetId>11368222</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Hector Esquivel (93915540D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:20 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240135</claimIdentifier><hccClaimNumber>2024358008728</hccClaimNumber><cvcId>51816724</cvcId><attachmentSetId>11368223</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Roberto Magana (93924857A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:22 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240194</claimIdentifier><hccClaimNumber>2024358008729</hccClaimNumber><cvcId>51816725</cvcId><attachmentSetId>11368224</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Dayana Lopez Magallon (93950514G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:24 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230108</claimIdentifier><hccClaimNumber>2024358008730</hccClaimNumber><cvcId>51816726</cvcId><attachmentSetId>11368225</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Daniel Lopez Martinez (94011342H):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:26 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240248</claimIdentifier><hccClaimNumber>2024358008731</hccClaimNumber><cvcId>51816727</cvcId><attachmentSetId>11368226</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Ruben Guardado (94041106A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:29 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230101</claimIdentifier><hccClaimNumber>2024358008732</hccClaimNumber><cvcId>51816728</cvcId><attachmentSetId>11368227</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Malcom Ruffin (94043082H):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:31 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240269</claimIdentifier><hccClaimNumber>2024358008733</hccClaimNumber><cvcId>51816729</cvcId><attachmentSetId>11368228</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Guadalupe Molina (94137938A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:33 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230065</claimIdentifier><hccClaimNumber>2024358008734</hccClaimNumber><cvcId>51816730</cvcId><attachmentSetId>11368229</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Ralph Callaway (94302575D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:36 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230054</claimIdentifier><hccClaimNumber>2024358008735</hccClaimNumber><cvcId>51816731</cvcId><attachmentSetId>11368230</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Margarita Servin (94331680D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:38 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230055</claimIdentifier><hccClaimNumber>2024358008736</hccClaimNumber><cvcId>51816732</cvcId><attachmentSetId>11368231</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Dolores Villa (94357935D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:41 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230056</claimIdentifier><hccClaimNumber>2024358008737</hccClaimNumber><cvcId>51816733</cvcId><attachmentSetId>11368232</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Felipe De Jesus Celis (94371391G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:43 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240330</claimIdentifier><hccClaimNumber>2024358008738</hccClaimNumber><cvcId>51816734</cvcId><attachmentSetId>11368233</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Fabian Murillo (94446520D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:46 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240273</claimIdentifier><hccClaimNumber>2024358008739</hccClaimNumber><cvcId>51816735</cvcId><attachmentSetId>11368234</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Eric Cohen (94644038E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:48 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240196</claimIdentifier><hccClaimNumber>2024358008740</hccClaimNumber><cvcId>51816736</cvcId><attachmentSetId>11368235</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Zoey Mills (94664774G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:50 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240145</claimIdentifier><hccClaimNumber>2024358008741</hccClaimNumber><cvcId>51816737</cvcId><attachmentSetId>11368236</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Benito Ramos (94759772D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:53 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230091</claimIdentifier><hccClaimNumber>2024358008742</hccClaimNumber><cvcId>51816738</cvcId><attachmentSetId>11368237</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Albertina Zaravia (94873677D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:55 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240255</claimIdentifier><hccClaimNumber>2024358008743</hccClaimNumber><cvcId>51816739</cvcId><attachmentSetId>11368238</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Karla Lopez (95037766D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:57 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230068</claimIdentifier><hccClaimNumber>2024358008744</hccClaimNumber><cvcId>51816740</cvcId><attachmentSetId>11368239</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Patrick Camargo (95134098F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:02:59 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240250</claimIdentifier><hccClaimNumber>2024358008745</hccClaimNumber><cvcId>51816741</cvcId><attachmentSetId>11368240</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Jennifer Williams (95210937C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:02 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240271</claimIdentifier><hccClaimNumber>2024358008746</hccClaimNumber><cvcId>51816742</cvcId><attachmentSetId>11368241</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Rafael Tachiquin (95344286A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:04 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230023</claimIdentifier><hccClaimNumber>2024358008747</hccClaimNumber><cvcId>51816743</cvcId><attachmentSetId>11368242</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Juliana Otero (95346453E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:06 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230032</claimIdentifier><hccClaimNumber>2024358008748</hccClaimNumber><cvcId>51816744</cvcId><attachmentSetId>11368243</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Maria Valencia (95372306E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:09 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240180</claimIdentifier><hccClaimNumber>2024358008749</hccClaimNumber><cvcId>51816745</cvcId><attachmentSetId>11368244</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Scott Linden (95393722A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:11 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240158</claimIdentifier><hccClaimNumber>2024358008750</hccClaimNumber><cvcId>51816746</cvcId><attachmentSetId>11368245</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Alfred Myers (95485320C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:13 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240246</claimIdentifier><hccClaimNumber>2024358008751</hccClaimNumber><cvcId>51816747</cvcId><attachmentSetId>11368246</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Gustavo Rodriguez (95519881D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:16 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230110</claimIdentifier><hccClaimNumber>2024358008752</hccClaimNumber><cvcId>51816748</cvcId><attachmentSetId>11368247</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Angelica Salas (95600887E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:18 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240240</claimIdentifier><hccClaimNumber>2024358008753</hccClaimNumber><cvcId>51816749</cvcId><attachmentSetId>11368248</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Michael Young (95673669F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:20 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230078</claimIdentifier><hccClaimNumber>2024358008754</hccClaimNumber><cvcId>51816750</cvcId><attachmentSetId>11368249</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Mayson Burton (95675180G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:23 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240304</claimIdentifier><hccClaimNumber>2024358008755</hccClaimNumber><cvcId>51816751</cvcId><attachmentSetId>11368250</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Imelda Reyes (95723126A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:25 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230085</claimIdentifier><hccClaimNumber>2024358008756</hccClaimNumber><cvcId>51816752</cvcId><attachmentSetId>11368251</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Irene Jacobo (95808262A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:27 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230127</claimIdentifier><hccClaimNumber>2024358008757</hccClaimNumber><cvcId>51816753</cvcId><attachmentSetId>11368252</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Daize Pasquarella (95847133E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:29 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230076</claimIdentifier><hccClaimNumber>2024358008758</hccClaimNumber><cvcId>51816754</cvcId><attachmentSetId>11368253</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Darlene Woodlum Pena (95850464A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:32 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240296</claimIdentifier><hccClaimNumber>2024358008759</hccClaimNumber><cvcId>51816755</cvcId><attachmentSetId>11368254</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Joseph Mitchell (95942541C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:34 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230043</claimIdentifier><hccClaimNumber>2024358008760</hccClaimNumber><cvcId>51816756</cvcId><attachmentSetId>11368255</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Mercedes Vasquez (95959841E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:36 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240138</claimIdentifier><hccClaimNumber>2024358008761</hccClaimNumber><cvcId>51816757</cvcId><attachmentSetId>11368256</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Janet Wooten (96078580F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:39 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240214</claimIdentifier><hccClaimNumber>2024358008762</hccClaimNumber><cvcId>51816758</cvcId><attachmentSetId>11368257</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Monica Preciutti (96099885E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:41 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240277</claimIdentifier><hccClaimNumber>2024358008763</hccClaimNumber><cvcId>51816759</cvcId><attachmentSetId>11368258</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Maria Montano (96128661C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:43 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240257</claimIdentifier><hccClaimNumber>2024358008764</hccClaimNumber><cvcId>51816760</cvcId><attachmentSetId>11368259</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Darien Gonzalez (96357727G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:46 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240242</claimIdentifier><hccClaimNumber>2024358008765</hccClaimNumber><cvcId>51816761</cvcId><attachmentSetId>11368260</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Termeh Azim (96363787E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:48 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240274</claimIdentifier><hccClaimNumber>2024358008766</hccClaimNumber><cvcId>51816762</cvcId><attachmentSetId>11368261</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Joana Bonilla Hernandez (96375332C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:50 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240148</claimIdentifier><hccClaimNumber>2024358008767</hccClaimNumber><cvcId>51816763</cvcId><attachmentSetId>11368262</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Peggy Arnold (96493962H):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:53 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240270</claimIdentifier><hccClaimNumber>2024358008768</hccClaimNumber><cvcId>51816764</cvcId><attachmentSetId>11368263</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Maria Martinez (96648667A):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:55 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240289</claimIdentifier><hccClaimNumber>2024358008769</hccClaimNumber><cvcId>51816765</cvcId><attachmentSetId>11368264</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Luisa Magana (96880638D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:03:57 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240298</claimIdentifier><hccClaimNumber>2024358008770</hccClaimNumber><cvcId>51816766</cvcId><attachmentSetId>11368265</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Saul Cruz (96919807E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:00 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240218</claimIdentifier><hccClaimNumber>2024358008771</hccClaimNumber><cvcId>51816767</cvcId><attachmentSetId>11368266</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Julio Rodriguez-Alapizco (96924035F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:02 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230104</claimIdentifier><hccClaimNumber>2024358008772</hccClaimNumber><cvcId>51816768</cvcId><attachmentSetId>11368267</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Ma Elena Murillo Rodriquez (97123146D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:04 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240312</claimIdentifier><hccClaimNumber>2024358008773</hccClaimNumber><cvcId>51816769</cvcId><attachmentSetId>11368268</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Xiomara Centeno (97219269E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:06 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240272</claimIdentifier><hccClaimNumber>2024358008774</hccClaimNumber><cvcId>51816770</cvcId><attachmentSetId>11368269</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for John Herrera (97447688E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:09 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230062</claimIdentifier><hccClaimNumber>2024358008775</hccClaimNumber><cvcId>51816771</cvcId><attachmentSetId>11368270</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Reuben Porras (97450548F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:11 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240252</claimIdentifier><hccClaimNumber>2024358008776</hccClaimNumber><cvcId>51816772</cvcId><attachmentSetId>11368271</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Kathleen Pancio (97499188G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:13 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240319</claimIdentifier><hccClaimNumber>2024358008777</hccClaimNumber><cvcId>51816773</cvcId><attachmentSetId>11368272</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Ana Maria Lopez de Lugo (97528492C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:16 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230093</claimIdentifier><hccClaimNumber>2024358008778</hccClaimNumber><cvcId>51816774</cvcId><attachmentSetId>11368273</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Magdalena Lopez (97532564C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:18 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240266</claimIdentifier><hccClaimNumber>2024358008779</hccClaimNumber><cvcId>51816775</cvcId><attachmentSetId>11368274</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Belinda Croswhite (97604398E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:20 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230064</claimIdentifier><hccClaimNumber>2024358008780</hccClaimNumber><cvcId>51816776</cvcId><attachmentSetId>11368275</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Parker Bradley (97653324F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:23 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240212</claimIdentifier><hccClaimNumber>2024358008781</hccClaimNumber><cvcId>51816777</cvcId><attachmentSetId>11368276</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Maria Placencia Gonzalez (97662183E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:25 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230099</claimIdentifier><hccClaimNumber>2024358008782</hccClaimNumber><cvcId>51816778</cvcId><attachmentSetId>11368277</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Tanya Silva (97686501E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:27 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240190</claimIdentifier><hccClaimNumber>2024358008783</hccClaimNumber><cvcId>51816779</cvcId><attachmentSetId>11368278</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Sebastian Hurtado (98090332G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:30 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230022</claimIdentifier><hccClaimNumber>2024358008784</hccClaimNumber><cvcId>51816780</cvcId><attachmentSetId>11368279</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Earlene Visco (98152039F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:32 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240244</claimIdentifier><hccClaimNumber>2024358008785</hccClaimNumber><cvcId>51816781</cvcId><attachmentSetId>11368280</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Marcia Newman (98154538E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:34 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240276</claimIdentifier><hccClaimNumber>2024358008786</hccClaimNumber><cvcId>51816782</cvcId><attachmentSetId>11368281</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Richard Polansky (98242676F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:37 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240234</claimIdentifier><hccClaimNumber>2024358008787</hccClaimNumber><cvcId>51816783</cvcId><attachmentSetId>11368282</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Marlen Ramirez (98472668E):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:39 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240281</claimIdentifier><hccClaimNumber>2024358008788</hccClaimNumber><cvcId>51816784</cvcId><attachmentSetId>11368283</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Will Moody (98511260G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:41 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230042</claimIdentifier><hccClaimNumber>2024358008789</hccClaimNumber><cvcId>51816785</cvcId><attachmentSetId>11368284</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Emma Tovar (98605266G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:44 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240256</claimIdentifier><hccClaimNumber>2024358008790</hccClaimNumber><cvcId>51816786</cvcId><attachmentSetId>11368285</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Rodrigo Rincon Pamatz (98676501D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:46 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230024</claimIdentifier><hccClaimNumber>2024358008791</hccClaimNumber><cvcId>51816787</cvcId><attachmentSetId>11368286</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Pablo Garcia (98706169C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:48 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230095</claimIdentifier><hccClaimNumber>2024358008792</hccClaimNumber><cvcId>51816788</cvcId><attachmentSetId>11368287</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Mark Ackerman (98988499G):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:51 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240264</claimIdentifier><hccClaimNumber>2024358008793</hccClaimNumber><cvcId>51816789</cvcId><attachmentSetId>11368288</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Jeanne Foster (98993110D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:53 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240211</claimIdentifier><hccClaimNumber>2024358008794</hccClaimNumber><cvcId>51816790</cvcId><attachmentSetId>11368289</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Christina McCord (99073749C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:55 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240290</claimIdentifier><hccClaimNumber>2024358008795</hccClaimNumber><cvcId>51816791</cvcId><attachmentSetId>11368290</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for J Cruz Garcia Sandoval (99140894F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:04:57 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240293</claimIdentifier><hccClaimNumber>2024358008796</hccClaimNumber><cvcId>51816792</cvcId><attachmentSetId>11368291</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Alfredo Esparza (99226333C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:05:00 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230041</claimIdentifier><hccClaimNumber>2024358008797</hccClaimNumber><cvcId>51816793</cvcId><attachmentSetId>11368292</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Peri Farris (99325711D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:05:02 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230114</claimIdentifier><hccClaimNumber>2024358008798</hccClaimNumber><cvcId>51816794</cvcId><attachmentSetId>11368293</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Norma Mosko (99352083F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:05:04 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240237</claimIdentifier><hccClaimNumber>2024358008799</hccClaimNumber><cvcId>51816795</cvcId><attachmentSetId>11368294</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Connor Torrey (99486789D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:05:07 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240167</claimIdentifier><hccClaimNumber>2024358008800</hccClaimNumber><cvcId>51816796</cvcId><attachmentSetId>11368295</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Elizabeth Zuniga (99500997C):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:05:09 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240209</claimIdentifier><hccClaimNumber>2024358008801</hccClaimNumber><cvcId>51816797</cvcId><attachmentSetId>11368296</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Elise McNeal (99576285D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:05:12 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240230</claimIdentifier><hccClaimNumber>2024358008802</hccClaimNumber><cvcId>51816798</cvcId><attachmentSetId>11368297</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Linda Crabill (99661472D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:05:14 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230058</claimIdentifier><hccClaimNumber>2024358008803</hccClaimNumber><cvcId>51816799</cvcId><attachmentSetId>11368298</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Daniel Rogers (99758066F):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:05:16 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230077</claimIdentifier><hccClaimNumber>2024358008804</hccClaimNumber><cvcId>51816800</cvcId><attachmentSetId>11368299</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Philip Kurman (99873613D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:05:18 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>240253</claimIdentifier><hccClaimNumber>2024358008805</hccClaimNumber><cvcId>51817501</cvcId><attachmentSetId>11368300</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
+
+Response for Arlene Schwartz (99916572D):
+Status Code: 200
+Response Headers: {'Date': 'Thu, 16 Jan 2025 21:05:21 GMT', 'Content-Type': 'text/xml;charset=utf-8', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Basic Y29ubmVjdG9yOkNvbm5lY3RvcjEyMw==', 'Host': 'gchp-con-pr01.gchp.local:9193', 'SOAPAction': '"http://healthedge.com/submit"', 'User-Agent': 'python-requests/2.32.3', 'Content-Length': '588', 'Server': 'Jetty(9.4.50.v20221201)'}
+Response Body:
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><ns4:professionalClaimResponse xmlns:ns2="http://www.healthedge.com/connector/schema/basetypes" xmlns:ns3="http://www.healthedge.com/connector/schema/claimtypes" xmlns:ns4="http://www.healthedge.com/connector/schema/claimresponse"><claimResponseInfo><status>SUCCESS</status><claimIdentifier>230046</claimIdentifier><hccClaimNumber>2024358008806</hccClaimNumber><cvcId>51817502</cvcId><attachmentSetId>11368301</attachmentSetId></claimResponseInfo></ns4:professionalClaimResponse></soap:Body></soap:Envelope>
+
