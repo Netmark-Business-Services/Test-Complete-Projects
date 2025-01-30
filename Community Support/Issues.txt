@@ -1,8 +1,0 @@
-file = Medical Kitchen "MKP Sep 10-16 09182024.xlsx"
-2024287000552  (member not found due to name issue) 
-In HRP = (90023161G)  ANTHONY J HARPER
-Given  = (90023161G)  Anthony Harper
-
-claim creating but showing member not found exception and went to Needs Repair status
-
- 
