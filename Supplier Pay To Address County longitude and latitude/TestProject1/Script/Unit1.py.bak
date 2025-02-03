@@ -1,0 +1,61 @@
+﻿def Test1():
+  TestedApps.HealthEdge.Run()
+  healthEdge_Manager = Aliases.HealthEdge_Manager
+  loginForm = healthEdge_Manager.LoginForm
+  textBoxMaskBox = loginForm.textEditUserName.TextBoxMaskBox
+  textBoxMaskBox.Click(111, 11)
+  textBoxMaskBox.SetText("vpatiba")
+  textBoxMaskBox.Keys("[NumLock][ScrollLock][ScrollLock][NumLock]")
+  textBoxMaskBox.SetText("vpatibandla")
+  textBoxMaskBox = loginForm.textEditPassword.TextBoxMaskBox
+  textBoxMaskBox.Click(76, 8)
+  textBoxMaskBox.SetText(Project.Variables.Password1)
+  loginForm.lookUpEditServers.Click(60, 10)
+  healthEdge_Manager.PopupLookUpEditForm.Click(57, 100)
+  loginForm.simpleButtonSubmit.ClickButton()
+  
+  
+  
+  homeForm = healthEdge_Manager.HomeForm
+  homeForm.panelControlDetail.homeTab1.WidgetsHost.WidgetContainer.ProviderWidgetControl.xtraScrollableControlProviders.TaskRow.panelControlTop.panelControlTaskLinks.SimpleButtonSearch.ClickButton()
+  searchDialog = healthEdge_Manager.SearchDialog
+  textEdit = searchDialog.panelTop.panelSearchCriteria.tabControlSearchCriteria.tabPageGeneral.SimpleSupplierSearchCriteria.entityPanelSupplierSearchInput.autoEditSupplierHccIdentifier.panelControlAutoEdit.TextEdit
+  textEdit.SetText("15840")
+  textEdit.TextBoxMaskBox.Keys("[Enter]")
+  
+  gridControl = searchDialog.panelControl1.panelResults.BaseResultGrid.gridControlResults
+  gridControl.DblClickCellXY(0, "Supplier Name", 77, 6)
+  
+  homeForm.BarDockControl.DockedBarControl.ClickItem("Open for Edit")
+  asOfDate = healthEdge_Manager.AsOfDate
+  
+  asOfDate.panelControlTop.radioGroupReprocessClaims.ClickItem("Do Not Reprocess Claims")
+  asOfDate.panelControlBottom.simpleButtonOK.ClickButton()
+  
+  
+  xtraTabControl = healthEdge_Manager.EntityEditForm.panelBottom.xtraTabControlEdit.xtraTabPageEdit.SupplierEditControl.supplierDetails.xtraTabControlSupplier
+  xtraTabControl.ClickTab("Contact")
+  
+  headerGroupControl = xtraTabControl.xtraTabPageSupplierContact.supplierDetailsContact.entityPanelSupplier.repeaterPanelOtherAddress.RepeatableSupplierCorrespondenceInformation.headerGroupControlOtherCorrespondence
+  headerGroupControl.HeaderGroupHyperLinkEdit.Click(8, 7)
+  
+  subEntityPanel = headerGroupControl.CorrespondenceInformationPanel.entityPanelCorrespondenceInformation.headerGroupControlCorrespondenceInformation.subEntityPanelAddressInformation.address1.subEntityPanelPostalAddress
+  
+  referenceMenuButton = subEntityPanel.referenceMenuButtonCounty
+  referenceMenuButton.Click(6, 6)
+  referenceMenuButton.PopupMenu.Click("Look up")
+  resolveDialog = healthEdge_Manager.ResolveDialog
+  textEdit = resolveDialog.panelControlLeft.panelControlSearchCriteria.xtraScrollableControlSearchCriteria.CountySearchCriteria.entityPanelSearchInput.autoEditCountyCode.panelControlAutoEdit.TextEdit
+  textBoxMaskBox = textEdit.TextBoxMaskBox
+  textBoxMaskBox.Click(60, 8)
+  textEdit.SetText("53077")
+  textBoxMaskBox.Keys("[Enter]")
+  resolveDialog.panelControlBottom.simpleButtonOK.ClickButton()
+  textBoxMaskBox = subEntityPanel.textEditCounty.TextBoxMaskBox
+  textBoxMaskBox.Click(67, 5)
+  textBoxMaskBox.Keys("^a^c")
+  
+  excel7 = Aliases.EXCEL.wndXLMAIN.XLDESK.EXCEL7
+  excel7.Click(320, 74)
+  excel7.Click(320, 74)
+  excel7.Keys("^v")
