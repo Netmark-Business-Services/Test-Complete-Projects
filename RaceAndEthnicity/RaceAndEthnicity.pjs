@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{07C7FC37-BE90-4712-8171-6636C5CC6E52}">
+	<children>
+		<child name="RaceAndEthnicity" key="{84DD6D0C-ADAC-42D5-97AF-031D2D2F456A}" path="RaceAndEthnicity\RaceAndEthnicity.mds" />
+	</children>
+	<testItems key="{EA209F6E-1BFD-43FD-BD22-2E932EAE1E7E}">
+		<children>
+			<testItem key="{84DD6D0C-ADAC-42D5-97AF-031D2D2F456A}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{092CF89C-72AA-49BA-96B6-002494725DC8}" />
+	<analysis key="{9718643C-FFC6-48DD-A7D0-94D737D72BB5}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
