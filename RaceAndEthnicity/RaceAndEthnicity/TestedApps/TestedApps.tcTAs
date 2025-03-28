@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{5569102C-B93C-4817-9ED0-6D9683B169C1}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{546BFB1E-1A3E-47FA-A6BF-9E92D26E9F0D}">
+			<config nodeName="HealthEdge" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Users\nishw\OneDrive\Documents\TestComplete 15 Projects\RaceAndEthnicity" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Users\nishw\OneDrive\Documents\TestComplete 15 Projects\RaceAndEthnicity" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Users\nishw\OneDrive\Documents\TestComplete 15 Projects\RaceAndEthnicity" />
+					<param name="Simple" fileName="HealthEdge.Manager.exe" filePath="C:\Program Files (x86)\HealthEdge\24.1.1\HealthEdgeManager\" parameters="" workFolder="C:\Users\nishw\OneDrive\Documents\TestComplete 15 Projects\RaceAndEthnicity" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

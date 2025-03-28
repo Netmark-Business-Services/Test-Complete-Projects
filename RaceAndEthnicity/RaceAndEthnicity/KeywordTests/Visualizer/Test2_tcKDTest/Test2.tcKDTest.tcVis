@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{D0F27091-F72A-4212-BF31-47BDCD7E86AB}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45534.8527546296" objectName="Aliases.HealthEdge_Manager.SearchDialog.BarDockControl.DockedBarControl" objectLeft="6" objectTop="60" objectRight="1476" objectBottom="126" clickPointX="744" clickPointY="98" imageFileName="tcvi286248171720520.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45534.8527893519" objectName="Aliases.HealthEdge_Manager.HomeForm.panelControlDetail.homeTab1.WidgetsHost.WidgetContainer2.ProviderWidgetControl.xtraScrollableControlProviders.TaskRow.panelControlTop.panelControlTaskLinks.SimpleButtonSearch" objectLeft="580" objectTop="1168" objectRight="612" objectBottom="1200" clickPointX="590" clickPointY="1180" imageFileName="tcvi286251281720521.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45534.8528240741" objectName="Aliases.HealthEdge_Manager.SearchDialog.panelTop.panelSearchCriteria.tabControlSearchCriteria.tabPageGeneral.SimplePractitionerSearchCriteria.entityPanelSearchInput.autoEditHccIdentifier.panelControlAutoEdit.TextEdit.TextBoxMaskBox" objectLeft="46" objectTop="246" objectRight="274" objectBottom="274" clickPointX="256" clickPointY="258" imageFileName="tcvi286254593720522.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
