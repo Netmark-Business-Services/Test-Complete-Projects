@@ -1,0 +1,67 @@
+﻿from HealthEdgeAutomation import HealthEdgeAutomation
+from login import login_to_health_edge
+import logging
+
+def Populate_claim(app, claim_id):
+    """
+    Process a single claim using the provided HealthEdgeAutomation instance.
+    
+    Args:
+    app: Instance of HealthEdgeAutomation class.
+    claim_id: Claim ID to be processed.
+    
+    Returns:
+    bool: True if processing is successful, False otherwise.
+    """
+    if claim_id:
+        try:
+            # Update claim ID for the c urrent process
+            app.navigate_to_workbasket()
+            app.search_claim_in_workbasket(claim_id)  # Search for the claim
+
+            logging.info(f"Successfully processed Claim ID: {claim_id}")
+            return True
+
+        except Exception as e:
+            logging.warning(f"Failed to process Claim ID: {claim_id}. Error: {str(e)}")
+            return False
+
+    return True
+
+
+
+def TestDriver():
+    """
+    Main driver function to iterate through claims in an Excel file and process them.
+    """
+    # Initialize the Excel driver
+    Driver = DDT.ExcelDriver(r"D:\Robotic Process Automation\Supplier Invoice\Supplier Invoice Repair Results_prod-2.xlsx", "Sheet1")
+
+    # Initialize the HealthEdgeAutomation instance and login
+    username = "rthotakura"
+    password = Project.Variables.Password1
+    app = HealthEdgeAutomation(username=username, password=password)
+
+    app.login()  # Log in to the HealthEdge system
+
+    processed_claim_ids = set()
+
+    # Loop through all rows in the Excel file
+    while not Driver.EOF():
+        claim_id = Driver.Value[0]  # Assuming the Claim ID is in the first column
+        if claim_id not in processed_claim_ids:
+          Populate_claim(app, claim_id)
+          logging.info(f"Processed Claim ID: {claim_id}")
+          processed_claim_ids.add(claim_id)
+           
+        Driver.Next()  # Move to the next row in the Excel file
+
+    #app.close_workbasket()  # Close the workbasket after processing all claims
+    DDT.CloseDriver(Driver.Name)
+
+    logging.info("All claims have been processed successfully.")
+
+
+# Run the TestDriver function
+if __name__ == "__main__":
+    TestDriver()

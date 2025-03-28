@@ -1,0 +1,66 @@
+﻿from datetime import datetime
+def Test1():
+  TestedApps.HealthEdge_Manager.Run(1, True)
+  healthEdge_Manager = Aliases.HealthEdge_Manager
+  loginForm = healthEdge_Manager.LoginForm
+  textBoxMaskBox = loginForm.textEditUserName.TextBoxMaskBox
+  textBoxMaskBox.Click(130, 11)
+  textBoxMaskBox.SetText("rthotakura")
+  textBoxMaskBox = loginForm.textEditPassword.TextBoxMaskBox
+  textBoxMaskBox.Click(139, 5)
+  textBoxMaskBox.SetText(Project.Variables.Password1)
+  loginForm.lookUpEditServers.Click(209, 6)
+  popupLookUpEditForm = healthEdge_Manager.PopupLookUpEditForm
+  popupLookUpEditForm.Click(73, 105)
+  loginForm.simpleButtonSubmit.ClickButton()
+  
+
+def Test2():
+  healthEdge_Manager = Aliases.HealthEdge_Manager
+  healthEdge_Manager.HomeForm.BarDockControl2.DockedBarControl.ClickItem("Workbasket|Supplier Invoice Repair")
+  resultGridSupplierInvoiceRepair = healthEdge_Manager.WorkbasketForm.panelControlRight.panelControlBaseResults.panelControlResults.ResultGridSupplierInvoiceRepair
+  textEdit = resultGridSupplierInvoiceRepair.panelControlCustomPanel.SupplierInvoiceRepairWorkbasketSearchCriteria.entityPanelSearchInput.panelControlCommonSearch.autoEditClaimHccId.panelControlAutoEdit.TextEdit
+  textBoxMaskBox = textEdit.TextBoxMaskBox
+  textBoxMaskBox.Click(60, 8)
+  textEdit.SetText("0011456807")
+  textBoxMaskBox.Keys("[Enter]")
+  resultGridSupplierInvoiceRepair.BarDockControl.DockedBarControl.ClickItem("Match Claim")
+  panelControl = healthEdge_Manager.MatchSupplierInvoiceWizard.xtraTabControlWizard.xtraTabPageWizard.wizardControl.wizardClaimCriteriaPage.WizardClaimCriteria.panelControl
+  textEdit = panelControl.xtraScrollableControlSearch.MatchSupplierInvoiceClaimSearch.xtraTabControl.xtraTabPageClaim.SimpleClaimSearchCriteria.entityPanelSearchInput.autoEditClaimId.panelControlAutoEdit.TextEdit
+  textEdit.TextBoxMaskBox.Click(75, 13)
+  textEdit.SetText("0011456807")
+  panelControl.standaloneBarDockControlClaimSearch.DockedBarControl.ClickItem("Search")
+  gridControl = panelControl.panelResults.claimSearchResultGrid.gridControlResults
+  row_count = gridControl.wRowCount
+  matchSupplierInvoiceClaimSelection = Aliases.HealthEdge_Manager.MatchSupplierInvoiceWizard.xtraTabControlWizard.xtraTabPageWizard.wizardControl.wizardClaimCriteriaPage.WizardClaimCriteria
+  gridControl = matchSupplierInvoiceClaimSelection.panelControl.panelResults.claimSearchResultGrid.gridControlResults
+  gridControl.ClickColumnHeaderXY("Last Changed On", 42, 16)
+  gridControl.ClickColumnHeaderRXY("Last Changed On", 126, 17)
+
+  matchSupplierInvoiceClaimSelection.XtraPopupMenu.Check("Sort Descending", True)
+
+
+
+
+    # Click on the cell at row i in the "Last Changed On" column (10th column or adjust if needed)
+  gridControl.ClickCellXY(0, "Last Changed On", 77, 12)
+    
+  wizardControl = Aliases.HealthEdge_Manager.MatchSupplierInvoiceWizard.xtraTabControlWizard.xtraTabPageWizard.wizardControl
+  wizardControl.WizardButton.ClickButton()
+  matchSupplierInvoiceAuditLog = wizardControl.wizardPageAuditLog.WizardPageAuditLogPage
+  matchSupplierInvoiceAuditLog.lookUpEditDenialReasonCodes.Click(816, 11)
+  popupLookUpEditForm = healthEdge_Manager.PopupLookUpEditForm
+  popupLookUpEditForm.Click(702, 46)
+  matchSupplierInvoiceAuditLog.lookUpEditAssignReason.Click(819, 12)
+  popupLookUpEditForm.Click(762, 28)
+  wizardControl.wizardButton.ClickButton()
+  wizardControl.WizardButton2.ClickButton()
+  healthEdge_Manager.WorkbasketForm.BarDockControl.DockedBarControl.ClickItem("Close")
+  homeForm = healthEdge_Manager.HomeForm
+  homeForm.BarDockControl2.DockedBarControl.ClickItem("Home")
+
+
+
+  
+
+

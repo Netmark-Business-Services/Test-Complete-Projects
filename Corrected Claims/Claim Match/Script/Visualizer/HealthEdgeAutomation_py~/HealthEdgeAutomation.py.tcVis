@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{932540CB-F96F-4902-B5C6-B22724DE8F82}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="82" kind="0" dateTime="45559.673587963" objectName="Aliases.HealthEdge_Manager.MatchSupplierInvoiceWizard.xtraTabControlWizard.xtraTabPageWizard.wizardControl.wizardClaimCriteriaPage.WizardClaimCriteria.panelControl.panelResults.claimSearchResultGrid.gridControlResults" objectLeft="62" objectTop="526" objectRight="1208" objectBottom="775" clickPointX="963" clickPointY="577" imageFileName="tcvi459059375253640.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="83" kind="0" dateTime="45559.6736226852" objectName="Aliases.HealthEdge_Manager.MatchSupplierInvoiceWizard.xtraTabControlWizard.xtraTabPageWizard.wizardControl.WizardButton" objectLeft="1042" objectTop="825" objectRight="1136" objectBottom="853" clickPointX="1066" clickPointY="847" imageFileName="tcvi459061625253641.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

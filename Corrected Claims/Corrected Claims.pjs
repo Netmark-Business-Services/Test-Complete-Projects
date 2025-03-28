@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{C759715A-754B-41F7-9DCB-C499F27527E1}">
+	<children>
+		<child name="Claim Renewal" key="{F14BEC2B-4A22-4BEF-BD92-45C405E06EA7}" path="Claim Correction\Claim Renewal.mds" />
+		<child name="Claim Match" key="{B84895CF-2B0E-4083-ABAA-C2CA2605DBD9}" path="Claim Match\Claim Match.mds" />
+	</children>
+	<testItems key="{82ABBF3F-03A7-4A17-B72D-BB33FC733B37}">
+		<children>
+			<testItem key="{F14BEC2B-4A22-4BEF-BD92-45C405E06EA7}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{B84895CF-2B0E-4083-ABAA-C2CA2605DBD9}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{6F86AA76-62E8-4610-8F47-F5CB87E7C650}" />
+	<analysis key="{657CC9AB-BE62-428C-9DDE-CBF4ACE379E1}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

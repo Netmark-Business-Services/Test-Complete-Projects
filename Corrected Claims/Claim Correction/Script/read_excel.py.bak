@@ -1,0 +1,64 @@
+﻿from HealthEdgeAutomation import HealthEdgeAutomation
+
+def Populate_claim(claim_id):
+    # Initialize the HealthEdgeAutomation class
+    app = HealthEdgeAutomation()
+    
+    if claim_id:
+        try:
+            # Process the claim using the HealthEdgeAutomation methods
+            app.search_claim(claim_id)
+            if app.renew_claim(claim_id):
+              app.handle_reason_code()
+            else:
+              Log.Message(f"Skipping claim ID: {claim_id} as it is not in 'Final' status.")
+              return False
+        except Exception as e:
+            # Log the exception and continue with the next claim
+            Log.Warning(f"Failed to process Claim ID: {claim_id}. Error: {str(e)}")
+            return False
+
+    return True
+
+def TestDriver():
+    # Initialize the Excel driver
+    Driver = DDT.ExcelDriver(r"D:\Robotic Process Automation\Supplier Invoice\Supplier Invoice Repair Results_prod-2.xlsx", "Sheet1")
+    
+    # Initialize the HealthEdgeAutomation instance and login
+    app = HealthEdgeAutomation()
+    username = "rthotakura"
+    password = Project.Variables.Password1
+    app.login(username, password)
+    
+    # Create a set to store already processed claim IDs
+    processed_claim_ids = set()
+
+    # Loop through all rows in the Excel file
+    while not Driver.EOF():
+        # Extract the Claim ID from the first column
+        claim_id = Driver.Value[0]  # Assuming the Claim ID is in the first column
+
+        # Check if the claim ID has already been processed
+        if claim_id in processed_claim_ids:
+            Log.Message(f"Claim ID: {claim_id} has already been processed. Skipping...")
+        else:
+            # Process the distinct claim ID
+            if Populate_claim(claim_id):
+                # Log the claim ID processed
+                Log.Message(f"Processed Claim ID: {claim_id}")
+                # Add the claim ID to the set to prevent duplicate processing
+                processed_claim_ids.add(claim_id)
+            else:
+                Log.Warning(f"Failed to process Claim ID: {claim_id}")
+
+        # Move to the next row in the Excel file
+        Driver.Next()
+
+    # Close the Excel driver after processing all rows
+    DDT.CloseDriver(Driver.Name)
+
+    Log.Message("All claims have been processed successfully.")
+
+# Run the TestDriver function
+if __name__ == "__main__":
+    TestDriver()

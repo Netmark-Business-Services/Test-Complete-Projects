@@ -1,0 +1,80 @@
+﻿def Test1():
+  TestedApps.HealthEdge_Manager.Run(1, True)
+  healthEdge_Manager = Aliases.HealthEdge_Manager
+  loginForm = healthEdge_Manager.LoginForm
+  textBoxMaskBox = loginForm.textEditUserName.TextBoxMaskBox
+  textBoxMaskBox.Click(99, 8)
+  textBoxMaskBox.SetText("rthotakura")
+  textBoxMaskBox = loginForm.textEditPassword.TextBoxMaskBox
+  textBoxMaskBox.Click(110, 0)
+  textBoxMaskBox.SetText(Project.Variables.Password1)
+  loginForm.lookUpEditServers.Click(137, 4)
+  popupLookUpEditForm = healthEdge_Manager.PopupLookUpEditForm
+  popupLookUpEditForm.Click(55, 73)
+  loginForm.simpleButtonSubmit.ClickButton()
+  homeForm = healthEdge_Manager.HomeForm
+  dockedBarControl = homeForm.BarDockControl.DockedBarControl
+  dockedBarControl.ClickItem("Search")
+  searchDialog = healthEdge_Manager.SearchDialog
+  dockedBarControl2 = searchDialog.BarDockControl.DockedBarControl
+  dockedBarControl2.ClickItem("Search For|Claim")
+  textEdit = searchDialog.panelTop.panelSearchCriteria.tabControlSearchCriteria.tabPageGeneral.SimpleClaimSearchCriteria.entityPanelSearchInput.autoEditClaimId.panelControlAutoEdit.TextEdit
+  textEdit.TextBoxMaskBox.Click(63, 9)
+  textEdit.SetText("0016857437")
+  dockedBarControl2.ClickItem("Search")
+  dockedBarControl3 = searchDialog.panelControl1.standaloneBarDockControlTasks.DockedBarControl
+  dockedBarControl3.ClickItem("View")
+  aqUtils.Delay(10000)
+  homeForm.panelControlSummary.ConvertedClaimSummary.BarDockControl.DockedBarControl.ClickItem("Renew Claim")
+  healthEdge_Manager.ClaimEditor.BarDockControl.DockedBarControl.ClickItem("Submit")
+  promptForReasonCode = healthEdge_Manager.PromptForReasonCode
+  promptForReasonCode.panelReason.lookUpEditReasonCode.Click(241, 14)
+  popupLookUpEditForm.Click(93, 78)
+  promptForReasonCode.panelControlBottom.simpleButtonOK.ClickButton()
+  aqUtils.Delay(10000)
+  dockedBarControl.ClickItem("Home")
+  dockedBarControl.ClickItem("Workbasket|Supplier Invoice Repair")
+  workbasketForm = healthEdge_Manager.WorkbasketForm
+  resultGridSupplierInvoiceRepair = workbasketForm.panelControlRight.panelControlBaseResults.panelControlResults.ResultGridSupplierInvoiceRepair
+  textEdit2 = resultGridSupplierInvoiceRepair.panelControlCustomPanel.SupplierInvoiceRepairWorkbasketSearchCriteria.entityPanelSearchInput.panelControlCommonSearch.autoEditClaimHccId.panelControlAutoEdit.TextEdit
+  textBoxMaskBox = textEdit2.TextBoxMaskBox
+  textBoxMaskBox.Click(88, 1)
+  textEdit2.SetText("0016857437")
+  textBoxMaskBox.Keys("[Enter]")
+  resultGridSupplierInvoiceRepair.BarDockControl.DockedBarControl.ClickItem("Match Claim")
+  wizardControl = healthEdge_Manager.MatchSupplierInvoiceWizard.xtraTabControlWizard.xtraTabPageWizard.wizardControl
+  panelControl = wizardControl.wizardClaimCriteriaPage.WizardClaimCriteria.panelControl
+  textEdit2 = panelControl.xtraScrollableControlSearch.MatchSupplierInvoiceClaimSearch.xtraTabControl.xtraTabPageClaim.SimpleClaimSearchCriteria.entityPanelSearchInput.autoEditClaimId.panelControlAutoEdit.TextEdit
+  textEdit2.TextBoxMaskBox.Click(67, 7)
+  textEdit2.SetText("0016857424")
+  panelControl.standaloneBarDockControlClaimSearch.DockedBarControl.ClickItem("Search")
+  gridControl = panelControl.panelResults.claimSearchResultGrid.gridControlResults
+  gridControl.ClickColumnHeaderXY("Status", 31, 16)
+  gridControl.ClickColumnHeaderXY("Status", 37, 18)
+  gridControl.ClickColumnHeaderXY("Status", 20, 7)
+  gridControl.ClickColumnHeaderXY("Status", 20, 7)
+  gridControl.ClickCellXY(0, "Status", 27, 8)
+  wizardButton = wizardControl.WizardButton
+  wizardButton.ClickButton()
+  matchSupplierInvoiceAuditLog = wizardControl.wizardPageAuditLog.WizardPageAuditLogPage
+  lookUpEdit = matchSupplierInvoiceAuditLog.lookUpEditDenialReasonCodes
+  textBoxMaskBox = lookUpEdit.TextBoxMaskBox
+  textBoxMaskBox.Click(722, 11)
+  lookUpEdit.Click(817, 5)
+  textBoxMaskBox.SetText("Cor")
+  textBoxMaskBox.Drag(333, 1, -357, -15)
+  textBoxMaskBox.SetText("Ad")
+  popupLookUpEditForm.Click(149, 48)
+  matchSupplierInvoiceAuditLog.memoEditDenialComment.TextBoxMaskBox.Click(145, 40)
+  lookUpEdit = matchSupplierInvoiceAuditLog.lookUpEditAssignReason
+  lookUpEdit.Click(190, 17)
+  lookUpEdit.Click(811, 4)
+  healthEdge_Manager.PopupLookUpEditForm2.Click(701, 25)
+  wizardButton.ClickButton()
+  wizardControl.WizardButton2.ClickButton()
+  workbasketForm.BarDockControl.DockedBarControl.ClickItem("Close")
+  homeForm.Activate()
+  dockedBarControl.ClickItem("Search")
+  textEdit.SetText("0016857424")
+  dockedBarControl2.ClickItem("Search")
+  dockedBarControl3.ClickItem("View")

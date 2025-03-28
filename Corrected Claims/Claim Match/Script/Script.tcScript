@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="login" key="{9B545A67-A213-4C89-89AB-83BB3B7CD242}" path="login.py" />
+		<child name="read_excel" key="{BC365B87-5A22-46F9-A7EB-BB07F47CDFB8}" path="read_excel.py" />
+		<child name="HealthEdgeAutomation_backup" key="{FF2C5290-7913-4773-B59C-9146B7DA42BE}" path="HealthEdgeAutomation_backup.py" />
+		<child name="HealthEdgeAutomation" key="{E2B7BBB1-EAFF-4B8C-8B69-D244AEB54917}" path="HealthEdgeAutomation.py" />
+	</children>
+</Root>
