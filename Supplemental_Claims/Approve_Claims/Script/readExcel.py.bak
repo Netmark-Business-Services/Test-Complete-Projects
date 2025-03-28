@@ -1,0 +1,15 @@
+﻿
+
+class ExcelReader:
+    def __init__(self, file_path, sheet_name):
+        self.driver = DDT.ExcelDriver(file_path, sheet_name)
+
+    def get_claim_ids(self):
+        claim_ids = []
+        while not self.driver.EOF():
+            claim_id = self.driver.Value[0]  # Assuming Claim ID is in column 1
+            claim_ids.append(claim_id)
+            self.driver.Next()
+        
+        DDT.CloseDriver(self.driver.Name)
+        return claim_ids

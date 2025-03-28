@@ -1,0 +1,91 @@
+﻿from TestComplete import Log, Project, DDT, Aliases
+
+class HealthEdgeAutomation:
+    def __init__(self):
+        self.healthEdge_Manager = Aliases.HealthEdge_Manager
+        self.loginForm = self.healthEdge_Manager.LoginForm
+        self.dockedBarControl = self.healthEdge_Manager.HomeForm.BarDockControl.DockedBarControl
+
+    def login(self, username, password):
+        try:
+            self.loginForm.textEditUserName.TextBoxMaskBox.Click(30, 4)
+            self.loginForm.textEditUserName.TextBoxMaskBox.SetText(username)
+
+            self.loginForm.textEditPassword.TextBoxMaskBox.Click(51, 10)
+            self.loginForm.textEditPassword.TextBoxMaskBox.SetText(password)
+
+            self.loginForm.lookUpEditServers.Click(88, 8)
+            self.healthEdge_Manager.PopupLookUpEditForm.Click(46, 74)
+
+            self.loginForm.simpleButtonSubmit.ClickButton()
+            Log.Message("Login successful")
+        except Exception as e:
+            Log.Warning(f"Login failed: {str(e)}")
+
+    def search_claim(self, claim_id):
+        try:
+            self.dockedBarControl.ClickItem("Search")
+            searchDialog = self.healthEdge_Manager.SearchDialog
+
+            textEdit = searchDialog.panelTop.panelSearchCriteria.tabControlSearchCriteria.tabPageGeneral \
+                .SimpleClaimSearchCriteria.entityPanelSearchInput.autoEditClaimId.panelControlAutoEdit.TextEdit
+
+            textEdit.TextBoxMaskBox.Click(86, 8)
+            textEdit.SetText(claim_id)
+
+            searchDialog.BarDockControl.DockedBarControl.ClickItem("Search")
+            searchDialog.panelControl1.standaloneBarDockControlTasks.DockedBarControl.ClickItem("View")
+
+            Log.Message(f"Claim {claim_id} searched successfully")
+        except Exception as e:
+            Log.Warning(f"Error searching claim {claim_id}: {str(e)}")
+
+    def approve_claim(self, claim_id):
+        try:
+            self.dockedBarControl.ClickItem("Open for Edit")
+            self.healthEdge_Manager.ClaimEditor.BarDockControl.DockedBarControl.ClickItem("Approve")
+
+            promptForReasonCode = self.healthEdge_Manager.PromptForReasonCode
+            promptForReasonCode.panelReason.lookUpEditReasonCode.Click(241, 6)
+            self.healthEdge_Manager.PopupLookUpEditForm2.Click(193, 26)
+            promptForReasonCode.panelControlBottom.simpleButtonOK.ClickButton()
+
+            selectReviewCodes = self.healthEdge_Manager.SelectReviewCodes
+            selectReviewCodes.panelControlMessage.gridControlCodes.ClickCellXY(0, "Approve", 35, 6)
+            selectReviewCodes.flowLayoutPanel1.simpleButtonOK.ClickButton()
+
+            Log.Message(f"Claim {claim_id} approved successfully")
+        except Exception as e:
+            Log.Warning(f"Error approving claim {claim_id}: {str(e)}")
+
+    def process_claim(self, claim_id):
+        self.search_claim(claim_id)
+        self.approve_claim(claim_id)
+        self.dockedBarControl.ClickItem("Home")
+        Log.Message(f"Processed Claim ID: {claim_id}")
+
+
+def main():
+    app = HealthEdgeAutomation()
+    username = "rthotakura"
+    password = Project.Variables.Password1
+
+    app.login(username, password)
+
+    from excel_reader import ExcelReader
+    reader = ExcelReader(r"C:\Users\rthotakura\Documents\Supplier_Invoice\Supplier Invoice Repair Results_03_03_3.xlsx", "Sheet1")
+
+    processed_claim_ids = set()
+    
+    for claim_id in reader.get_claim_ids():
+        if claim_id in processed_claim_ids:
+            Log.Message(f"Skipping already processed Claim ID: {claim_id}")
+        else:
+            app.process_claim(claim_id)
+            processed_claim_ids.add(claim_id)
+
+    Log.Message("All claims have been processed successfully.")
+
+
+if __name__ == "__main__":
+    main()

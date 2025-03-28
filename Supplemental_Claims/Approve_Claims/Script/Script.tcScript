@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="HealthEdgeAutomation" key="{9CD35170-2967-4A18-A2B6-F7D96B5A884F}" path="HealthEdgeAutomation.py" />
+		<child name="readExcel" key="{A86E42A6-4790-4CBE-9E8E-896671B3F520}" path="readExcel.py" />
+	</children>
+</Root>

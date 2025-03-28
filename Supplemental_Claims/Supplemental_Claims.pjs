@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{292FBEFB-F108-4378-876D-BFD922F62C70}">
+	<children>
+		<child name="Approve_Claims" key="{7B87887E-E367-4BB5-AC17-3DE90E3A5519}" path="Approve_Claims\Approve_Claims.mds" />
+	</children>
+	<testItems key="{1C602781-1284-4734-8422-DED5571C7FC5}">
+		<children>
+			<testItem key="{7B87887E-E367-4BB5-AC17-3DE90E3A5519}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{018E3128-4FEE-4256-A0DE-74FEC0DD3636}" />
+	<analysis key="{89DE88B4-E79B-4091-871C-EFC1EE1C31B1}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

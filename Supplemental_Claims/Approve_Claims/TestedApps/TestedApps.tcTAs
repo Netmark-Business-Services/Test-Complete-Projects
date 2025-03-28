@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{BE7B4C90-3415-4868-A7FD-4EACF3EA79BF}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{C1A0FE81-F364-4E61-A0AF-9A2DD7CA8763}">
+			<config nodeName="HealthEdge_Manager" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Users\rthotakura\Desktop" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Users\rthotakura\Desktop" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Users\rthotakura\Desktop" />
+					<param name="Simple" fileName="HealthEdge.Manager.exe" filePath="C:\Program Files (x86)\HealthEdge\24.1.1\HealthEdgeManager\" parameters="" workFolder="C:\Users\rthotakura\Desktop" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>
