@@ -1,0 +1,20 @@
+2024-07-07 12:00:45,403 - INFO - Starting workbasket automation process.
+2024-07-07 12:00:45,407 - INFO - Starting the HealthEdge Manager application.
+2024-07-07 12:00:47,696 - INFO - Entering username.
+2024-07-07 12:00:49,075 - INFO - Entering password.
+2024-07-07 12:00:49,300 - INFO - Selecting server.
+2024-07-07 12:00:49,702 - INFO - Submitting login form.
+2024-07-07 12:00:59,842 - INFO - Logged in to HealthEdge Manager successfully.
+2024-07-07 12:00:59,847 - INFO - Navigating to workbasket.
+2024-07-07 12:00:59,848 - INFO - Navigating to the Enrollment Review Repair Workbasket.
+2024-07-07 12:01:25,014 - ERROR - An error occurred: 
+Traceback (most recent call last):
+  File "<aq:Main>", line 32, in automate_workbasket_process
+  File "<aq:HealthEdgeManager>", line 24, in navigate_to_workbasket
+  File "C:\Program Files (x86)\SmartBear\TestComplete 15\x64\Bin\Extensions\Python\Python311\Lib\bdb.py", line 90, in trace_dispatch
+    return self.dispatch_line(frame)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\SmartBear\TestComplete 15\x64\Bin\Extensions\Python\Python311\Lib\bdb.py", line 115, in dispatch_line
+    if self.quitting: raise BdbQuit
+                      ^^^^^^^^^^^^^
+bdb.BdbQuit

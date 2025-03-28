@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="HealthEdgeManager" key="{C19CCB9B-58A1-4C66-9015-8D880697228C}" path="HealthEdgeManager.py" />
+		<child name="Login" key="{200EFFCD-2C82-4C0C-8DA2-C799B3FB7439}" path="Login.py" />
+		<child name="Main" key="{A464BF41-4FF1-4DF4-BD1A-5C11B4E1657C}" path="Main.py" />
+	</children>
+</Root>

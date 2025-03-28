@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="folders"/>
+		<Node name="logs">
+			<Node name="log idx=0000">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5641950231"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{2FE72F11-C7C2-4BBF-9ECE-B4B393453948}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_32 PM_26_450\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0001">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5646585764"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{9D379C1A-1B54-44E6-8D86-11AAE0EE1E63}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_33 PM_06_501\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0002">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5648576736"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{BA28E636-945B-4DDC-BCBA-AFFB5FEE6A69}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_33 PM_23_703\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0003">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5652736458"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{64D8A9FC-C39A-4DF8-859A-D4ADB62148B3}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_33 PM_59_643\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0004">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5671527315"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{4DF00BCF-0378-4B49-AD0F-42661236D6F0}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_36 PM_41_996\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0005">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5690595718"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{2F1150D7-8378-49F3-B155-B35CF45E02F9}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_39 PM_26_747\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0006">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5691960995"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{1B1D9116-DF64-46F9-8136-D54CCDA579F3}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_39 PM_38_543\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0007">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5707506018"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{F93C1F2C-BC9D-4366-A2BE-23D3A6E3D566}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_41 PM_52_852\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0008">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5717480208"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{C0BFC849-DAEE-48F8-932B-164238EBC5B2}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_43 PM_19_29\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0009">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5725941319"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{54EBFC51-67EF-4717-99D5-E5B842C61449}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_44 PM_32_133\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0010">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5732514815"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{94383A81-E02D-4D75-8AC0-56484A7CB1D6}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_45 PM_28_928\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0011">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5735657523"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{B3F23836-9F61-428B-A24E-9899A0A6F7A1}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_45 PM_56_81\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0012">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5754346875"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{447700CE-E0D3-43AA-80EF-313574E33B4E}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_48 PM_37_557\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0013">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5760981944"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{6119BB21-0777-4BE9-A8A7-4441B33D4F0D}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_49 PM_34_884\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0014">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5776915625"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{5307B4B8-3D86-4574-A3B1-329A4FAFAB2E}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_51 PM_52_551\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0015">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5778773843"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{A1C93E2E-E463-4335-B5B8-2946B50F0AFD}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_52 PM_08_606\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0016">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.581665625"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{53A81AB7-04CA-415E-A595-CBDC669260EB}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_57 PM_35_910\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0017">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5827312269"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{45762AAD-6E2D-45B3-8459-022EB12C8221}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_1_59 PM_07_978\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0018">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5849792014"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{63053832-1176-4989-B8FF-148E21857D5F}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_02 PM_22_203\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0019">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5856471181"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{A02B5644-D894-43E2-AEB2-89565A455014}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_03 PM_19_912\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0020">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5859795486"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{112C8E87-D6BA-48BA-A3EC-65574E01883B}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_03 PM_48_633\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0021">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5862334491"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{323E6F21-E589-48F7-9C18-37204FEE1262}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_04 PM_10_570\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0022">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5866367708"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{77714B8D-4EB1-47E3-850B-B489E4B25FD4}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_04 PM_45_417\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0023">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.589561875"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{55DAD4C2-1883-48EE-99C1-C2AE2A1BB047}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_08 PM_58_147\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0024">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5934004861"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{69E02A77-0D30-4393-AFF0-2EDB0B0C78C9}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_14 PM_29_803\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0025">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5942287847"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{9C7DDAE6-87CE-4641-B045-B0CACE91FD41}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_15 PM_41_367\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0026">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.5979828704"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{7B2EA7E6-52D7-4350-B013-2EA8EEDA25A5}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_21 PM_05_720\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0027">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.599674456"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{F8A2C3A0-CF74-4CEC-B489-16085318A7F9}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_23 PM_31_873\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0028">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.6027416551"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{FF21B66A-B63D-4FA2-BFC8-B85FF5178C77}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_27 PM_56_879\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0029">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.6030219907"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{B810777F-217E-40BA-9964-6EEA12122847}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_28 PM_21_100\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0030">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.6081498958"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{6B98A25C-7454-443F-BE43-463B591591CE}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_35 PM_44_151\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0031">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.6084297917"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{60530583-CA24-46F5-819A-E861F0F6E1D2}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_2_36 PM_08_334\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0032">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.6257962268"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{3E21B527-69BF-4FD4-AFBC-EBD64EC33FA0}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_3_01 PM_08_794\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0033">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.6259727431"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{94219FDD-7C7D-4492-979C-A88E76B71780}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_3_01 PM_24_45\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0034">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.6271310301"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{706FB210-377D-46EE-B389-15DCFC711FE8}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_3_03 PM_04_121\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0035">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.6367636806"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{2603D3C8-172C-4AA4-B38C-FB98A5BA55C9}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_3_16 PM_56_382\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0036">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.6391264468"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{97FB8587-05E7-4AF2-8BFB-437FD204FF7D}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_3_20 PM_20_525\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0037">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.6492933218"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{3BFB5385-072D-44AB-BC74-131EF7EA28BC}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_3_34 PM_58_943\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0038">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.6852921759"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{FB777596-39C1-45BE-9FB4-249040251601}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_4_26 PM_49_244\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0039">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.7389032755"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{DAC06D59-A92B-4314-A321-DD469892094D}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_5_44 PM_01_243\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0040">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.7562853935"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{E7D09EDD-5237-47E9-B8FA-94E76A45C6A4}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_6_09 PM_03_58\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0041">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.7702318866"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{53BC876A-6093-4124-8C56-0346BDA214C2}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_6_29 PM_08_35\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0042">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.8111014352"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{E01DDC11-377F-4353-9F6A-4570922D10FF}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_7_27 PM_59_164\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0043">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.8159292824"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{A3DCAA7F-41E6-48A5-982E-568E21BE6C1A}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_7_34 PM_56_291\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0044">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.8337069097"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{29ED1C40-7AA6-431D-B371-62DEFA868399}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_8_00 PM_32_277\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0045">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.9278291782"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{4556C370-CCBB-458A-802C-C7FB936730DC}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_10_16 PM_04_441\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0046">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.9280980903"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{B57282A8-FDAA-47ED-A696-71518B049005}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_10_16 PM_27_675\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0047">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.9287167477"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{2E6347CD-8B55-4DA0-B845-0F5D59C146CD}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_10_17 PM_21_127\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0048">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.9535057986"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{0BB6CBEA-87FE-44BB-9D63-AB15048AF2F5}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_10_53 PM_02_901\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0049">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.9594212153"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{65E8F610-7704-476F-8D6F-44A24368E8E6}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_11_01 PM_33_993\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0050">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.9697689352"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{8EAD791E-F4FD-4671-9C2E-52E429BBA6D2}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_11_16 PM_28_36\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0051">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45479.9723081829"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{D501900B-24E5-436F-B23C-84040DB65A07}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_6_2024_11_20 PM_07_427\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0052">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.074865081"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{093368C5-5D99-4013-8BD8-A2C84BD731DD}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_1_47 AM_48_343\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0053">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.2749993171"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{59AF4CB7-FECB-4D57-8BEE-78CB3D419832}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_6_35 AM_59_941\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0054">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.2765094213"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{90FB2E88-D4C2-4D7B-8183-01E4E77CD619}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_6_38 AM_10_414\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0055">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.4606205093"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{DA8A953F-1000-4AA5-A67C-028F5662EF5F}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_11_03 AM_17_612\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0056">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.4962397685"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{7BD35309-5CEA-4A40-9B2D-7889B11EB1B0}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_11_54 AM_35_116\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0057">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.4967267477"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{0B2FE72A-F9E5-44B1-AE3D-7519FC29C442}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_11_55 AM_17_191\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0058">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.4974334259"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{D866B7B1-D9E3-4D2B-9B46-0FAB5344DF51}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_11_56 AM_18_248\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0059">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.4984100694"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{53D1E29B-39E1-4695-A9FC-3E12006BB6EA}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_11_57 AM_42_630\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0060">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.4990339468"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{75DA6E2B-C8AA-4996-BD0B-DC8960194705}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_11_58 AM_36_533\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0061">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.5000236111"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{865A970D-B448-46EA-995A-29A1EE2D33B1}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_12_00 PM_02_40\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0062">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.5005179861"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{7B6CB853-95F7-468B-8AA5-4EA241FE5D8F}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_12_00 PM_44_754\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0063">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.5011585648"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{3A1ACA49-E917-4AAF-A7B8-6A0D2F2DA8A7}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_12_01 PM_40_100\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0064">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45480.5570267245"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{2BA03200-FB4C-4CFE-BC00-C21B067CB4B7}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_7_2024_1_22 PM_07_109\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0065">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45481.4138633218"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{CC3A1C54-F67A-48B8-B80D-5039B63F2CC9}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_8_2024_9_55 AM_57_791\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0066">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45481.5481194444"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{4EC3DA14-9E42-4C3B-971A-4435E493705D}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_8_2024_1_09 PM_17_520\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0067">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45481.5490685532"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{DB200239-9851-49C6-9A8D-29C25A6F8161}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_8_2024_1_10 PM_39_524\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0068">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45481.5791458218"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{3728F427-4990-4E14-96EF-3049005A0528}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_8_2024_1_53 PM_58_199\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0069">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45481.6105200116"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{89AF47B8-5FC5-41D6-9F13-A5CB37AB1DF4}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_8_2024_2_39 PM_08_929\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0070">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45481.6116931597"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{C2D1BEDD-910A-4DF4-B72C-F83C104B8D10}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_8_2024_2_40 PM_50_289\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0071">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45481.6522584838"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{524C91EE-AA26-4457-B8A0-5E32262B548C}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_8_2024_3_39 PM_15_133\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0072">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45481.6563312269"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{C43DBD93-4A94-455E-A296-E25D59AE7801}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_8_2024_3_45 PM_07_18\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0073">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45481.6645316088"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{BA8A6817-7031-4140-BC35-D71907FBDEF2}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_8_2024_3_56 PM_55_531\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0074">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45481.6754702315"/>
+				<Prp name="description" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="key" type="S" value="{66313A50-BFD1-4692-A5EE-C1142EB5332D}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_8_2024_4_12 PM_40_628\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0075">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45481.6793858796"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{FD810238-5FFF-489D-8F31-BD57F0DE8B35}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Main\automate_workbasket_process]"/>
+				<Prp name="relpath" type="S" value="7_8_2024_4_18 PM_18_940\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
+		<Prp name="version" type="S" value="11.0"/>
+	</Node>
+</Nodes>

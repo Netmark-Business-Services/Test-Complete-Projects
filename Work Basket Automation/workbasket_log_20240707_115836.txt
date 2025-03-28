@@ -1,0 +1,6 @@
+2024-07-07 11:58:36,814 - INFO - Starting workbasket automation process.
+2024-07-07 11:58:36,818 - ERROR - An error occurred: name 'datetime' is not defined
+Traceback (most recent call last):
+  File "<aq:Main>", line 28, in automate_workbasket_process
+  File "<aq:HealthEdgeManager>", line 10, in __init__
+NameError: name 'datetime' is not defined

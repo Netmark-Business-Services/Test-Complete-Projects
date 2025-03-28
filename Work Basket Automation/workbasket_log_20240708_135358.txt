@@ -1,0 +1,1272 @@
+2024-07-08 13:53:58,881 - INFO - Starting workbasket automation process.
+2024-07-08 13:53:58,885 - INFO - Starting the HealthEdge Manager application.
+2024-07-08 13:54:01,311 - INFO - Entering username.
+2024-07-08 13:54:02,713 - INFO - Entering password.
+2024-07-08 13:54:02,977 - INFO - Selecting server.
+2024-07-08 13:54:03,385 - INFO - Submitting login form.
+2024-07-08 13:54:13,528 - INFO - Logged in to HealthEdge Manager successfully.
+2024-07-08 13:54:13,533 - INFO - Navigating to workbasket.
+2024-07-08 13:54:13,533 - INFO - Navigating to the Enrollment Review Repair Workbasket.
+2024-07-08 13:54:31,715 - INFO - Navigation complete.
+2024-07-08 13:54:31,717 - INFO - Processing workbasket.
+2024-07-08 13:54:34,090 - INFO - Processing page 1, Initial Row Count: 122
+2024-07-08 13:54:34,105 - INFO - Processing row: 0
+2024-07-08 13:54:34,150 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 13:54:34,160 - INFO - Processing row: 1
+2024-07-08 13:54:34,189 - INFO - No match found for row 1 on page 1, moving to the next row.
+2024-07-08 13:54:34,198 - INFO - Processing row: 2
+2024-07-08 13:54:34,229 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 13:54:34,239 - INFO - Processing row: 3
+2024-07-08 13:54:34,259 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 13:54:34,269 - INFO - Processing row: 4
+2024-07-08 13:54:34,297 - INFO - No match found for row 4 on page 1, moving to the next row.
+2024-07-08 13:54:34,308 - INFO - Processing row: 5
+2024-07-08 13:54:34,336 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 13:54:34,347 - INFO - Processing row: 6
+2024-07-08 13:54:34,377 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 13:54:34,387 - INFO - Processing row: 7
+2024-07-08 13:54:34,428 - INFO - No match found for row 7 on page 1, moving to the next row.
+2024-07-08 13:54:34,438 - INFO - Processing row: 8
+2024-07-08 13:54:34,470 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 13:54:34,479 - INFO - Processing row: 9
+2024-07-08 13:54:34,508 - INFO - No match found for row 9 on page 1, moving to the next row.
+2024-07-08 13:54:34,518 - INFO - Processing row: 10
+2024-07-08 13:54:34,546 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 13:54:34,556 - INFO - Processing row: 11
+2024-07-08 13:54:34,586 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 13:54:34,596 - INFO - Processing row: 12
+2024-07-08 13:54:34,626 - INFO - No match found for row 12 on page 1, moving to the next row.
+2024-07-08 13:54:34,635 - INFO - Processing row: 13
+2024-07-08 13:54:34,665 - INFO - No match found for row 13 on page 1, moving to the next row.
+2024-07-08 13:54:34,678 - INFO - Processing row: 14
+2024-07-08 13:54:34,716 - INFO - No match found for row 14 on page 1, moving to the next row.
+2024-07-08 13:54:34,726 - INFO - Processing row: 15
+2024-07-08 13:54:34,758 - INFO - No match found for row 15 on page 1, moving to the next row.
+2024-07-08 13:54:34,767 - INFO - Processing row: 16
+2024-07-08 13:54:34,797 - INFO - No match found for row 16 on page 1, moving to the next row.
+2024-07-08 13:54:34,807 - INFO - Processing row: 17
+2024-07-08 13:54:34,837 - INFO - No match found for row 17 on page 1, moving to the next row.
+2024-07-08 13:54:34,845 - INFO - Processing row: 18
+2024-07-08 13:54:34,875 - INFO - No match found for row 18 on page 1, moving to the next row.
+2024-07-08 13:54:34,885 - INFO - Processing row: 19
+2024-07-08 13:54:34,907 - INFO - No match found for row 19 on page 1, moving to the next row.
+2024-07-08 13:54:34,917 - INFO - Processing row: 20
+2024-07-08 13:54:34,948 - INFO - No match found for row 20 on page 1, moving to the next row.
+2024-07-08 13:54:34,958 - INFO - Processing row: 21
+2024-07-08 13:54:35,000 - INFO - No match found for row 21 on page 1, moving to the next row.
+2024-07-08 13:54:35,010 - INFO - Processing row: 22
+2024-07-08 13:54:35,039 - INFO - No match found for row 22 on page 1, moving to the next row.
+2024-07-08 13:54:35,049 - INFO - Processing row: 23
+2024-07-08 13:54:35,070 - INFO - No match found for row 23 on page 1, moving to the next row.
+2024-07-08 13:54:35,080 - INFO - Processing row: 24
+2024-07-08 13:54:35,112 - INFO - No match found for row 24 on page 1, moving to the next row.
+2024-07-08 13:54:35,121 - INFO - Processing row: 25
+2024-07-08 13:54:35,152 - INFO - No match found for row 25 on page 1, moving to the next row.
+2024-07-08 13:54:35,162 - INFO - Processing row: 26
+2024-07-08 13:54:35,191 - INFO - No match found for row 26 on page 1, moving to the next row.
+2024-07-08 13:54:35,201 - INFO - Processing row: 27
+2024-07-08 13:54:35,231 - INFO - No match found for row 27 on page 1, moving to the next row.
+2024-07-08 13:54:35,240 - INFO - Processing row: 28
+2024-07-08 13:54:35,280 - INFO - No match found for row 28 on page 1, moving to the next row.
+2024-07-08 13:54:35,290 - INFO - Processing row: 29
+2024-07-08 13:54:35,322 - INFO - No match found for row 29 on page 1, moving to the next row.
+2024-07-08 13:54:35,331 - INFO - Processing row: 30
+2024-07-08 13:54:35,361 - INFO - No match found for row 30 on page 1, moving to the next row.
+2024-07-08 13:54:35,371 - INFO - Processing row: 31
+2024-07-08 13:54:35,410 - INFO - No match found for row 31 on page 1, moving to the next row.
+2024-07-08 13:54:35,420 - INFO - Processing row: 32
+2024-07-08 13:54:35,450 - INFO - No match found for row 32 on page 1, moving to the next row.
+2024-07-08 13:54:35,459 - INFO - Processing row: 33
+2024-07-08 13:54:35,490 - INFO - Matched Row 33 on page 1: Plan Selection Date Range UDT validation failed {Value X7 is not valid for this user defined term. > } for Start Date :: 2023-04-01 and End Date :: 3000-01-01, Subscription ID: 99984547F
+2024-07-08 13:54:37,780 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 13:55:11,601 - INFO - Processing page 1, Initial Row Count: 121
+2024-07-08 13:55:11,612 - INFO - Processing row: 0
+2024-07-08 13:55:11,650 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 13:55:11,666 - INFO - Processing row: 1
+2024-07-08 13:55:11,695 - INFO - No match found for row 1 on page 1, moving to the next row.
+2024-07-08 13:55:11,705 - INFO - Processing row: 2
+2024-07-08 13:55:11,735 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 13:55:11,745 - INFO - Processing row: 3
+2024-07-08 13:55:11,767 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 13:55:11,777 - INFO - Processing row: 4
+2024-07-08 13:55:11,806 - INFO - No match found for row 4 on page 1, moving to the next row.
+2024-07-08 13:55:11,816 - INFO - Processing row: 5
+2024-07-08 13:55:11,845 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 13:55:11,855 - INFO - Processing row: 6
+2024-07-08 13:55:11,884 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 13:55:11,902 - INFO - Processing row: 7
+2024-07-08 13:55:11,936 - INFO - No match found for row 7 on page 1, moving to the next row.
+2024-07-08 13:55:11,945 - INFO - Processing row: 8
+2024-07-08 13:55:11,976 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 13:55:11,986 - INFO - Processing row: 9
+2024-07-08 13:55:12,018 - INFO - No match found for row 9 on page 1, moving to the next row.
+2024-07-08 13:55:12,028 - INFO - Processing row: 10
+2024-07-08 13:55:12,058 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 13:55:12,067 - INFO - Processing row: 11
+2024-07-08 13:55:12,098 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 13:55:12,108 - INFO - Processing row: 12
+2024-07-08 13:55:12,140 - INFO - No match found for row 12 on page 1, moving to the next row.
+2024-07-08 13:55:12,150 - INFO - Processing row: 13
+2024-07-08 13:55:12,187 - INFO - No match found for row 13 on page 1, moving to the next row.
+2024-07-08 13:55:12,203 - INFO - Processing row: 14
+2024-07-08 13:55:12,237 - INFO - No match found for row 14 on page 1, moving to the next row.
+2024-07-08 13:55:12,248 - INFO - Processing row: 15
+2024-07-08 13:55:12,277 - INFO - No match found for row 15 on page 1, moving to the next row.
+2024-07-08 13:55:12,286 - INFO - Processing row: 16
+2024-07-08 13:55:12,317 - INFO - No match found for row 16 on page 1, moving to the next row.
+2024-07-08 13:55:12,326 - INFO - Processing row: 17
+2024-07-08 13:55:12,357 - INFO - No match found for row 17 on page 1, moving to the next row.
+2024-07-08 13:55:12,368 - INFO - Processing row: 18
+2024-07-08 13:55:12,399 - INFO - No match found for row 18 on page 1, moving to the next row.
+2024-07-08 13:55:12,410 - INFO - Processing row: 19
+2024-07-08 13:55:12,438 - INFO - No match found for row 19 on page 1, moving to the next row.
+2024-07-08 13:55:12,448 - INFO - Processing row: 20
+2024-07-08 13:55:12,484 - INFO - No match found for row 20 on page 1, moving to the next row.
+2024-07-08 13:55:12,493 - INFO - Processing row: 21
+2024-07-08 13:55:12,522 - INFO - No match found for row 21 on page 1, moving to the next row.
+2024-07-08 13:55:12,532 - INFO - Processing row: 22
+2024-07-08 13:55:12,560 - INFO - No match found for row 22 on page 1, moving to the next row.
+2024-07-08 13:55:12,572 - INFO - Processing row: 23
+2024-07-08 13:55:12,599 - INFO - No match found for row 23 on page 1, moving to the next row.
+2024-07-08 13:55:12,609 - INFO - Processing row: 24
+2024-07-08 13:55:12,638 - INFO - No match found for row 24 on page 1, moving to the next row.
+2024-07-08 13:55:12,646 - INFO - Processing row: 25
+2024-07-08 13:55:12,677 - INFO - No match found for row 25 on page 1, moving to the next row.
+2024-07-08 13:55:12,686 - INFO - Processing row: 26
+2024-07-08 13:55:12,726 - INFO - No match found for row 26 on page 1, moving to the next row.
+2024-07-08 13:55:12,739 - INFO - Processing row: 27
+2024-07-08 13:55:12,769 - INFO - No match found for row 27 on page 1, moving to the next row.
+2024-07-08 13:55:12,779 - INFO - Processing row: 28
+2024-07-08 13:55:12,809 - INFO - No match found for row 28 on page 1, moving to the next row.
+2024-07-08 13:55:12,820 - INFO - Processing row: 29
+2024-07-08 13:55:12,850 - INFO - No match found for row 29 on page 1, moving to the next row.
+2024-07-08 13:55:12,859 - INFO - Processing row: 30
+2024-07-08 13:55:12,889 - INFO - No match found for row 30 on page 1, moving to the next row.
+2024-07-08 13:55:12,898 - INFO - Processing row: 31
+2024-07-08 13:55:12,928 - INFO - No match found for row 31 on page 1, moving to the next row.
+2024-07-08 13:55:12,937 - INFO - Processing row: 32
+2024-07-08 13:55:12,975 - INFO - No match found for row 32 on page 1, moving to the next row.
+2024-07-08 13:55:12,984 - INFO - Processing row: 33
+2024-07-08 13:55:12,986 - INFO - Skipping row 33 with 95395316E on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:55:13,005 - INFO - Processing row: 34
+2024-07-08 13:55:13,035 - INFO - Matched Row 34 on page 1: Plan Selection Date Range UDT validation failed {Value X8 is not valid for this user defined term. > } for Start Date :: 2024-01-01 and End Date :: 3000-01-01, Subscription ID: 99127749D
+2024-07-08 13:55:14,374 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 13:55:42,284 - INFO - Processing page 1, Initial Row Count: 120
+2024-07-08 13:55:42,296 - INFO - Processing row: 0
+2024-07-08 13:55:42,325 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 13:55:42,335 - INFO - Processing row: 1
+2024-07-08 13:55:42,377 - INFO - No match found for row 1 on page 1, moving to the next row.
+2024-07-08 13:55:42,389 - INFO - Processing row: 2
+2024-07-08 13:55:42,426 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 13:55:42,440 - INFO - Processing row: 3
+2024-07-08 13:55:42,462 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 13:55:42,471 - INFO - Processing row: 4
+2024-07-08 13:55:42,505 - INFO - No match found for row 4 on page 1, moving to the next row.
+2024-07-08 13:55:42,514 - INFO - Processing row: 5
+2024-07-08 13:55:42,544 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 13:55:42,554 - INFO - Processing row: 6
+2024-07-08 13:55:42,585 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 13:55:42,599 - INFO - Processing row: 7
+2024-07-08 13:55:42,630 - INFO - No match found for row 7 on page 1, moving to the next row.
+2024-07-08 13:55:42,640 - INFO - Processing row: 8
+2024-07-08 13:55:42,668 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 13:55:42,678 - INFO - Processing row: 9
+2024-07-08 13:55:42,720 - INFO - No match found for row 9 on page 1, moving to the next row.
+2024-07-08 13:55:42,729 - INFO - Processing row: 10
+2024-07-08 13:55:42,760 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 13:55:42,772 - INFO - Processing row: 11
+2024-07-08 13:55:42,803 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 13:55:42,813 - INFO - Processing row: 12
+2024-07-08 13:55:42,844 - INFO - No match found for row 12 on page 1, moving to the next row.
+2024-07-08 13:55:42,854 - INFO - Processing row: 13
+2024-07-08 13:55:42,885 - INFO - No match found for row 13 on page 1, moving to the next row.
+2024-07-08 13:55:42,895 - INFO - Processing row: 14
+2024-07-08 13:55:42,924 - INFO - No match found for row 14 on page 1, moving to the next row.
+2024-07-08 13:55:42,935 - INFO - Processing row: 15
+2024-07-08 13:55:42,965 - INFO - No match found for row 15 on page 1, moving to the next row.
+2024-07-08 13:55:42,974 - INFO - Processing row: 16
+2024-07-08 13:55:43,017 - INFO - No match found for row 16 on page 1, moving to the next row.
+2024-07-08 13:55:43,027 - INFO - Processing row: 17
+2024-07-08 13:55:43,057 - INFO - No match found for row 17 on page 1, moving to the next row.
+2024-07-08 13:55:43,066 - INFO - Processing row: 18
+2024-07-08 13:55:43,097 - INFO - No match found for row 18 on page 1, moving to the next row.
+2024-07-08 13:55:43,107 - INFO - Processing row: 19
+2024-07-08 13:55:43,128 - INFO - No match found for row 19 on page 1, moving to the next row.
+2024-07-08 13:55:43,138 - INFO - Processing row: 20
+2024-07-08 13:55:43,168 - INFO - No match found for row 20 on page 1, moving to the next row.
+2024-07-08 13:55:43,178 - INFO - Processing row: 21
+2024-07-08 13:55:43,207 - INFO - No match found for row 21 on page 1, moving to the next row.
+2024-07-08 13:55:43,216 - INFO - Processing row: 22
+2024-07-08 13:55:43,246 - INFO - No match found for row 22 on page 1, moving to the next row.
+2024-07-08 13:55:43,255 - INFO - Processing row: 23
+2024-07-08 13:55:43,291 - INFO - No match found for row 23 on page 1, moving to the next row.
+2024-07-08 13:55:43,301 - INFO - Processing row: 24
+2024-07-08 13:55:43,334 - INFO - No match found for row 24 on page 1, moving to the next row.
+2024-07-08 13:55:43,346 - INFO - Processing row: 25
+2024-07-08 13:55:43,380 - INFO - No match found for row 25 on page 1, moving to the next row.
+2024-07-08 13:55:43,390 - INFO - Processing row: 26
+2024-07-08 13:55:43,422 - INFO - No match found for row 26 on page 1, moving to the next row.
+2024-07-08 13:55:43,432 - INFO - Processing row: 27
+2024-07-08 13:55:43,463 - INFO - No match found for row 27 on page 1, moving to the next row.
+2024-07-08 13:55:43,473 - INFO - Processing row: 28
+2024-07-08 13:55:43,504 - INFO - No match found for row 28 on page 1, moving to the next row.
+2024-07-08 13:55:43,513 - INFO - Processing row: 29
+2024-07-08 13:55:43,543 - INFO - No match found for row 29 on page 1, moving to the next row.
+2024-07-08 13:55:43,563 - INFO - Processing row: 30
+2024-07-08 13:55:43,597 - INFO - No match found for row 30 on page 1, moving to the next row.
+2024-07-08 13:55:43,607 - INFO - Processing row: 31
+2024-07-08 13:55:43,635 - INFO - No match found for row 31 on page 1, moving to the next row.
+2024-07-08 13:55:43,645 - INFO - Processing row: 32
+2024-07-08 13:55:43,674 - INFO - No match found for row 32 on page 1, moving to the next row.
+2024-07-08 13:55:43,684 - INFO - Processing row: 33
+2024-07-08 13:55:43,685 - INFO - Skipping row 33 with 95395316E on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:55:43,696 - INFO - Processing row: 34
+2024-07-08 13:55:43,697 - INFO - Skipping row 34 with 94560148D on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:55:43,709 - INFO - Processing row: 35
+2024-07-08 13:55:43,739 - INFO - No match found for row 35 on page 1, moving to the next row.
+2024-07-08 13:55:43,748 - INFO - Processing row: 36
+2024-07-08 13:55:43,777 - INFO - No match found for row 36 on page 1, moving to the next row.
+2024-07-08 13:55:43,787 - INFO - Processing row: 37
+2024-07-08 13:55:43,816 - INFO - No match found for row 37 on page 1, moving to the next row.
+2024-07-08 13:55:43,826 - INFO - Processing row: 38
+2024-07-08 13:55:43,868 - INFO - No match found for row 38 on page 1, moving to the next row.
+2024-07-08 13:55:43,878 - INFO - Processing row: 39
+2024-07-08 13:55:43,909 - INFO - No match found for row 39 on page 1, moving to the next row.
+2024-07-08 13:55:43,918 - INFO - Processing row: 40
+2024-07-08 13:55:43,951 - INFO - No match found for row 40 on page 1, moving to the next row.
+2024-07-08 13:55:43,961 - INFO - Processing row: 41
+2024-07-08 13:55:43,994 - INFO - No match found for row 41 on page 1, moving to the next row.
+2024-07-08 13:55:44,005 - INFO - Processing row: 42
+2024-07-08 13:55:44,025 - INFO - No match found for row 42 on page 1, moving to the next row.
+2024-07-08 13:55:44,035 - INFO - Processing row: 43
+2024-07-08 13:55:44,066 - INFO - No match found for row 43 on page 1, moving to the next row.
+2024-07-08 13:55:44,075 - INFO - Processing row: 44
+2024-07-08 13:55:44,105 - INFO - No match found for row 44 on page 1, moving to the next row.
+2024-07-08 13:55:44,127 - INFO - Processing row: 45
+2024-07-08 13:55:44,148 - INFO - No match found for row 45 on page 1, moving to the next row.
+2024-07-08 13:55:44,158 - INFO - Processing row: 46
+2024-07-08 13:55:44,188 - INFO - No match found for row 46 on page 1, moving to the next row.
+2024-07-08 13:55:44,197 - INFO - Processing row: 47
+2024-07-08 13:55:44,235 - INFO - No match found for row 47 on page 1, moving to the next row.
+2024-07-08 13:55:44,244 - INFO - Processing row: 48
+2024-07-08 13:55:44,274 - INFO - No match found for row 48 on page 1, moving to the next row.
+2024-07-08 13:55:44,285 - INFO - Processing row: 49
+2024-07-08 13:55:44,316 - INFO - No match found for row 49 on page 1, moving to the next row.
+2024-07-08 13:55:44,329 - INFO - Processing row: 50
+2024-07-08 13:55:44,365 - INFO - No match found for row 50 on page 1, moving to the next row.
+2024-07-08 13:55:44,376 - INFO - Processing row: 51
+2024-07-08 13:55:44,421 - INFO - No match found for row 51 on page 1, moving to the next row.
+2024-07-08 13:55:44,430 - INFO - Processing row: 52
+2024-07-08 13:55:44,461 - INFO - Matched Row 52 on page 1: Plan Selection Date Range UDT validation failed {Value X2 is not valid for this user defined term. > } for Start Date :: 2023-08-01 and End Date :: 3000-01-01, Subscription ID: 99938490H
+2024-07-08 13:55:45,799 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 13:56:13,739 - INFO - Processing page 1, Initial Row Count: 118
+2024-07-08 13:56:13,751 - INFO - Processing row: 0
+2024-07-08 13:56:13,794 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 13:56:13,804 - INFO - Processing row: 1
+2024-07-08 13:56:13,834 - INFO - No match found for row 1 on page 1, moving to the next row.
+2024-07-08 13:56:13,844 - INFO - Processing row: 2
+2024-07-08 13:56:13,873 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 13:56:13,882 - INFO - Processing row: 3
+2024-07-08 13:56:13,903 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 13:56:13,913 - INFO - Processing row: 4
+2024-07-08 13:56:13,945 - INFO - No match found for row 4 on page 1, moving to the next row.
+2024-07-08 13:56:13,954 - INFO - Processing row: 5
+2024-07-08 13:56:13,984 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 13:56:13,994 - INFO - Processing row: 6
+2024-07-08 13:56:14,028 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 13:56:14,037 - INFO - Processing row: 7
+2024-07-08 13:56:14,081 - INFO - No match found for row 7 on page 1, moving to the next row.
+2024-07-08 13:56:14,090 - INFO - Processing row: 8
+2024-07-08 13:56:14,119 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 13:56:14,129 - INFO - Processing row: 9
+2024-07-08 13:56:14,160 - INFO - No match found for row 9 on page 1, moving to the next row.
+2024-07-08 13:56:14,169 - INFO - Processing row: 10
+2024-07-08 13:56:14,200 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 13:56:14,213 - INFO - Processing row: 11
+2024-07-08 13:56:14,248 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 13:56:14,259 - INFO - Processing row: 12
+2024-07-08 13:56:14,290 - INFO - No match found for row 12 on page 1, moving to the next row.
+2024-07-08 13:56:14,300 - INFO - Processing row: 13
+2024-07-08 13:56:14,334 - INFO - No match found for row 13 on page 1, moving to the next row.
+2024-07-08 13:56:14,355 - INFO - Processing row: 14
+2024-07-08 13:56:14,388 - INFO - No match found for row 14 on page 1, moving to the next row.
+2024-07-08 13:56:14,399 - INFO - Processing row: 15
+2024-07-08 13:56:14,429 - INFO - No match found for row 15 on page 1, moving to the next row.
+2024-07-08 13:56:14,438 - INFO - Processing row: 16
+2024-07-08 13:56:14,468 - INFO - No match found for row 16 on page 1, moving to the next row.
+2024-07-08 13:56:14,478 - INFO - Processing row: 17
+2024-07-08 13:56:14,508 - INFO - No match found for row 17 on page 1, moving to the next row.
+2024-07-08 13:56:14,518 - INFO - Processing row: 18
+2024-07-08 13:56:14,550 - INFO - No match found for row 18 on page 1, moving to the next row.
+2024-07-08 13:56:14,559 - INFO - Processing row: 19
+2024-07-08 13:56:14,581 - INFO - No match found for row 19 on page 1, moving to the next row.
+2024-07-08 13:56:14,592 - INFO - Processing row: 20
+2024-07-08 13:56:14,635 - INFO - No match found for row 20 on page 1, moving to the next row.
+2024-07-08 13:56:14,645 - INFO - Processing row: 21
+2024-07-08 13:56:14,675 - INFO - No match found for row 21 on page 1, moving to the next row.
+2024-07-08 13:56:14,685 - INFO - Processing row: 22
+2024-07-08 13:56:14,715 - INFO - No match found for row 22 on page 1, moving to the next row.
+2024-07-08 13:56:14,725 - INFO - Processing row: 23
+2024-07-08 13:56:14,746 - INFO - No match found for row 23 on page 1, moving to the next row.
+2024-07-08 13:56:14,757 - INFO - Processing row: 24
+2024-07-08 13:56:14,788 - INFO - No match found for row 24 on page 1, moving to the next row.
+2024-07-08 13:56:14,798 - INFO - Processing row: 25
+2024-07-08 13:56:14,829 - INFO - No match found for row 25 on page 1, moving to the next row.
+2024-07-08 13:56:14,838 - INFO - Processing row: 26
+2024-07-08 13:56:14,868 - INFO - No match found for row 26 on page 1, moving to the next row.
+2024-07-08 13:56:14,878 - INFO - Processing row: 27
+2024-07-08 13:56:14,917 - INFO - No match found for row 27 on page 1, moving to the next row.
+2024-07-08 13:56:14,927 - INFO - Processing row: 28
+2024-07-08 13:56:14,962 - INFO - No match found for row 28 on page 1, moving to the next row.
+2024-07-08 13:56:14,972 - INFO - Processing row: 29
+2024-07-08 13:56:15,002 - INFO - No match found for row 29 on page 1, moving to the next row.
+2024-07-08 13:56:15,012 - INFO - Processing row: 30
+2024-07-08 13:56:15,044 - INFO - No match found for row 30 on page 1, moving to the next row.
+2024-07-08 13:56:15,054 - INFO - Processing row: 31
+2024-07-08 13:56:15,084 - INFO - No match found for row 31 on page 1, moving to the next row.
+2024-07-08 13:56:15,093 - INFO - Processing row: 32
+2024-07-08 13:56:15,123 - INFO - No match found for row 32 on page 1, moving to the next row.
+2024-07-08 13:56:15,133 - INFO - Processing row: 33
+2024-07-08 13:56:15,134 - INFO - Skipping row 33 with 95395316E on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:56:15,144 - INFO - Processing row: 34
+2024-07-08 13:56:15,146 - INFO - Skipping row 34 with 94560148D on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:56:15,156 - INFO - Processing row: 35
+2024-07-08 13:56:15,199 - INFO - No match found for row 35 on page 1, moving to the next row.
+2024-07-08 13:56:15,209 - INFO - Processing row: 36
+2024-07-08 13:56:15,241 - INFO - No match found for row 36 on page 1, moving to the next row.
+2024-07-08 13:56:15,249 - INFO - Processing row: 37
+2024-07-08 13:56:15,281 - INFO - No match found for row 37 on page 1, moving to the next row.
+2024-07-08 13:56:15,290 - INFO - Processing row: 38
+2024-07-08 13:56:15,324 - INFO - No match found for row 38 on page 1, moving to the next row.
+2024-07-08 13:56:15,336 - INFO - Processing row: 39
+2024-07-08 13:56:15,370 - INFO - No match found for row 39 on page 1, moving to the next row.
+2024-07-08 13:56:15,381 - INFO - Processing row: 40
+2024-07-08 13:56:15,412 - INFO - No match found for row 40 on page 1, moving to the next row.
+2024-07-08 13:56:15,422 - INFO - Processing row: 41
+2024-07-08 13:56:15,452 - INFO - No match found for row 41 on page 1, moving to the next row.
+2024-07-08 13:56:15,467 - INFO - Processing row: 42
+2024-07-08 13:56:15,495 - INFO - No match found for row 42 on page 1, moving to the next row.
+2024-07-08 13:56:15,505 - INFO - Processing row: 43
+2024-07-08 13:56:15,536 - INFO - No match found for row 43 on page 1, moving to the next row.
+2024-07-08 13:56:15,546 - INFO - Processing row: 44
+2024-07-08 13:56:15,578 - INFO - No match found for row 44 on page 1, moving to the next row.
+2024-07-08 13:56:15,588 - INFO - Processing row: 45
+2024-07-08 13:56:15,610 - INFO - No match found for row 45 on page 1, moving to the next row.
+2024-07-08 13:56:15,627 - INFO - Processing row: 46
+2024-07-08 13:56:15,658 - INFO - No match found for row 46 on page 1, moving to the next row.
+2024-07-08 13:56:15,668 - INFO - Processing row: 47
+2024-07-08 13:56:15,700 - INFO - No match found for row 47 on page 1, moving to the next row.
+2024-07-08 13:56:15,710 - INFO - Processing row: 48
+2024-07-08 13:56:15,740 - INFO - No match found for row 48 on page 1, moving to the next row.
+2024-07-08 13:56:15,761 - INFO - Processing row: 49
+2024-07-08 13:56:15,792 - INFO - No match found for row 49 on page 1, moving to the next row.
+2024-07-08 13:56:15,801 - INFO - Processing row: 50
+2024-07-08 13:56:15,831 - INFO - No match found for row 50 on page 1, moving to the next row.
+2024-07-08 13:56:15,842 - INFO - Processing row: 51
+2024-07-08 13:56:15,872 - INFO - No match found for row 51 on page 1, moving to the next row.
+2024-07-08 13:56:15,881 - INFO - Processing row: 52
+2024-07-08 13:56:15,883 - INFO - Skipping row 52 with 93921520G on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:56:15,893 - INFO - Processing row: 53
+2024-07-08 13:56:15,923 - INFO - No match found for row 53 on page 1, moving to the next row.
+2024-07-08 13:56:15,933 - INFO - Processing row: 54
+2024-07-08 13:56:15,965 - INFO - No match found for row 54 on page 1, moving to the next row.
+2024-07-08 13:56:15,974 - INFO - Processing row: 55
+2024-07-08 13:56:16,005 - INFO - No match found for row 55 on page 1, moving to the next row.
+2024-07-08 13:56:16,015 - INFO - Processing row: 56
+2024-07-08 13:56:16,060 - INFO - No match found for row 56 on page 1, moving to the next row.
+2024-07-08 13:56:16,070 - INFO - Processing row: 57
+2024-07-08 13:56:16,101 - INFO - No match found for row 57 on page 1, moving to the next row.
+2024-07-08 13:56:16,111 - INFO - Processing row: 58
+2024-07-08 13:56:16,141 - INFO - No match found for row 58 on page 1, moving to the next row.
+2024-07-08 13:56:16,151 - INFO - Processing row: 59
+2024-07-08 13:56:16,181 - INFO - No match found for row 59 on page 1, moving to the next row.
+2024-07-08 13:56:16,191 - INFO - Processing row: 60
+2024-07-08 13:56:16,222 - INFO - No match found for row 60 on page 1, moving to the next row.
+2024-07-08 13:56:16,232 - INFO - Processing row: 61
+2024-07-08 13:56:16,263 - INFO - No match found for row 61 on page 1, moving to the next row.
+2024-07-08 13:56:16,273 - INFO - Processing row: 62
+2024-07-08 13:56:16,305 - INFO - No match found for row 62 on page 1, moving to the next row.
+2024-07-08 13:56:16,327 - INFO - Processing row: 63
+2024-07-08 13:56:16,361 - INFO - No match found for row 63 on page 1, moving to the next row.
+2024-07-08 13:56:16,371 - INFO - Processing row: 64
+2024-07-08 13:56:16,392 - INFO - No match found for row 64 on page 1, moving to the next row.
+2024-07-08 13:56:16,402 - INFO - Processing row: 65
+2024-07-08 13:56:16,435 - INFO - No match found for row 65 on page 1, moving to the next row.
+2024-07-08 13:56:16,445 - INFO - Processing row: 66
+2024-07-08 13:56:16,476 - INFO - No match found for row 66 on page 1, moving to the next row.
+2024-07-08 13:56:16,486 - INFO - Processing row: 67
+2024-07-08 13:56:16,517 - INFO - No match found for row 67 on page 1, moving to the next row.
+2024-07-08 13:56:16,526 - INFO - Processing row: 68
+2024-07-08 13:56:16,557 - INFO - No match found for row 68 on page 1, moving to the next row.
+2024-07-08 13:56:16,566 - INFO - Processing row: 69
+2024-07-08 13:56:16,608 - INFO - No match found for row 69 on page 1, moving to the next row.
+2024-07-08 13:56:16,618 - INFO - Processing row: 70
+2024-07-08 13:56:16,649 - INFO - Matched Row 70 on page 1: Plan Selection Date Range UDT validation failed {Value X7 is not valid for this user defined term. > } for Start Date :: 2023-09-01 and End Date :: 3000-01-01, Subscription ID: 99885396D
+2024-07-08 13:56:18,034 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 13:56:45,911 - INFO - Processing page 1, Initial Row Count: 116
+2024-07-08 13:56:45,922 - INFO - Processing row: 0
+2024-07-08 13:56:45,955 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 13:56:45,964 - INFO - Processing row: 1
+2024-07-08 13:56:45,996 - INFO - No match found for row 1 on page 1, moving to the next row.
+2024-07-08 13:56:46,007 - INFO - Processing row: 2
+2024-07-08 13:56:46,037 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 13:56:46,046 - INFO - Processing row: 3
+2024-07-08 13:56:46,071 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 13:56:46,089 - INFO - Processing row: 4
+2024-07-08 13:56:46,120 - INFO - No match found for row 4 on page 1, moving to the next row.
+2024-07-08 13:56:46,129 - INFO - Processing row: 5
+2024-07-08 13:56:46,162 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 13:56:46,172 - INFO - Processing row: 6
+2024-07-08 13:56:46,203 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 13:56:46,213 - INFO - Processing row: 7
+2024-07-08 13:56:46,244 - INFO - No match found for row 7 on page 1, moving to the next row.
+2024-07-08 13:56:46,253 - INFO - Processing row: 8
+2024-07-08 13:56:46,286 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 13:56:46,296 - INFO - Processing row: 9
+2024-07-08 13:56:46,326 - INFO - No match found for row 9 on page 1, moving to the next row.
+2024-07-08 13:56:46,336 - INFO - Processing row: 10
+2024-07-08 13:56:46,382 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 13:56:46,392 - INFO - Processing row: 11
+2024-07-08 13:56:46,424 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 13:56:46,433 - INFO - Processing row: 12
+2024-07-08 13:56:46,463 - INFO - No match found for row 12 on page 1, moving to the next row.
+2024-07-08 13:56:46,472 - INFO - Processing row: 13
+2024-07-08 13:56:46,503 - INFO - No match found for row 13 on page 1, moving to the next row.
+2024-07-08 13:56:46,512 - INFO - Processing row: 14
+2024-07-08 13:56:46,545 - INFO - No match found for row 14 on page 1, moving to the next row.
+2024-07-08 13:56:46,556 - INFO - Processing row: 15
+2024-07-08 13:56:46,586 - INFO - No match found for row 15 on page 1, moving to the next row.
+2024-07-08 13:56:46,599 - INFO - Processing row: 16
+2024-07-08 13:56:46,637 - INFO - No match found for row 16 on page 1, moving to the next row.
+2024-07-08 13:56:46,652 - INFO - Processing row: 17
+2024-07-08 13:56:46,683 - INFO - No match found for row 17 on page 1, moving to the next row.
+2024-07-08 13:56:46,693 - INFO - Processing row: 18
+2024-07-08 13:56:46,723 - INFO - No match found for row 18 on page 1, moving to the next row.
+2024-07-08 13:56:46,731 - INFO - Processing row: 19
+2024-07-08 13:56:46,754 - INFO - No match found for row 19 on page 1, moving to the next row.
+2024-07-08 13:56:46,764 - INFO - Processing row: 20
+2024-07-08 13:56:46,794 - INFO - No match found for row 20 on page 1, moving to the next row.
+2024-07-08 13:56:46,804 - INFO - Processing row: 21
+2024-07-08 13:56:46,835 - INFO - No match found for row 21 on page 1, moving to the next row.
+2024-07-08 13:56:46,843 - INFO - Processing row: 22
+2024-07-08 13:56:46,875 - INFO - No match found for row 22 on page 1, moving to the next row.
+2024-07-08 13:56:46,885 - INFO - Processing row: 23
+2024-07-08 13:56:46,906 - INFO - No match found for row 23 on page 1, moving to the next row.
+2024-07-08 13:56:46,929 - INFO - Processing row: 24
+2024-07-08 13:56:46,959 - INFO - No match found for row 24 on page 1, moving to the next row.
+2024-07-08 13:56:46,969 - INFO - Processing row: 25
+2024-07-08 13:56:46,999 - INFO - No match found for row 25 on page 1, moving to the next row.
+2024-07-08 13:56:47,009 - INFO - Processing row: 26
+2024-07-08 13:56:47,039 - INFO - No match found for row 26 on page 1, moving to the next row.
+2024-07-08 13:56:47,048 - INFO - Processing row: 27
+2024-07-08 13:56:47,079 - INFO - No match found for row 27 on page 1, moving to the next row.
+2024-07-08 13:56:47,089 - INFO - Processing row: 28
+2024-07-08 13:56:47,120 - INFO - No match found for row 28 on page 1, moving to the next row.
+2024-07-08 13:56:47,129 - INFO - Processing row: 29
+2024-07-08 13:56:47,179 - INFO - No match found for row 29 on page 1, moving to the next row.
+2024-07-08 13:56:47,188 - INFO - Processing row: 30
+2024-07-08 13:56:47,231 - INFO - No match found for row 30 on page 1, moving to the next row.
+2024-07-08 13:56:47,240 - INFO - Processing row: 31
+2024-07-08 13:56:47,271 - INFO - No match found for row 31 on page 1, moving to the next row.
+2024-07-08 13:56:47,280 - INFO - Processing row: 32
+2024-07-08 13:56:47,310 - INFO - No match found for row 32 on page 1, moving to the next row.
+2024-07-08 13:56:47,319 - INFO - Processing row: 33
+2024-07-08 13:56:47,321 - INFO - Skipping row 33 with 95395316E on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:56:47,331 - INFO - Processing row: 34
+2024-07-08 13:56:47,333 - INFO - Skipping row 34 with 94560148D on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:56:47,344 - INFO - Processing row: 35
+2024-07-08 13:56:47,376 - INFO - No match found for row 35 on page 1, moving to the next row.
+2024-07-08 13:56:47,387 - INFO - Processing row: 36
+2024-07-08 13:56:47,419 - INFO - No match found for row 36 on page 1, moving to the next row.
+2024-07-08 13:56:47,431 - INFO - Processing row: 37
+2024-07-08 13:56:47,461 - INFO - No match found for row 37 on page 1, moving to the next row.
+2024-07-08 13:56:47,470 - INFO - Processing row: 38
+2024-07-08 13:56:47,513 - INFO - No match found for row 38 on page 1, moving to the next row.
+2024-07-08 13:56:47,524 - INFO - Processing row: 39
+2024-07-08 13:56:47,557 - INFO - No match found for row 39 on page 1, moving to the next row.
+2024-07-08 13:56:47,567 - INFO - Processing row: 40
+2024-07-08 13:56:47,599 - INFO - No match found for row 40 on page 1, moving to the next row.
+2024-07-08 13:56:47,608 - INFO - Processing row: 41
+2024-07-08 13:56:47,638 - INFO - No match found for row 41 on page 1, moving to the next row.
+2024-07-08 13:56:47,648 - INFO - Processing row: 42
+2024-07-08 13:56:47,669 - INFO - No match found for row 42 on page 1, moving to the next row.
+2024-07-08 13:56:47,678 - INFO - Processing row: 43
+2024-07-08 13:56:47,709 - INFO - No match found for row 43 on page 1, moving to the next row.
+2024-07-08 13:56:47,722 - INFO - Processing row: 44
+2024-07-08 13:56:47,754 - INFO - No match found for row 44 on page 1, moving to the next row.
+2024-07-08 13:56:47,772 - INFO - Processing row: 45
+2024-07-08 13:56:47,796 - INFO - No match found for row 45 on page 1, moving to the next row.
+2024-07-08 13:56:47,806 - INFO - Processing row: 46
+2024-07-08 13:56:47,837 - INFO - No match found for row 46 on page 1, moving to the next row.
+2024-07-08 13:56:47,846 - INFO - Processing row: 47
+2024-07-08 13:56:47,876 - INFO - No match found for row 47 on page 1, moving to the next row.
+2024-07-08 13:56:47,886 - INFO - Processing row: 48
+2024-07-08 13:56:47,917 - INFO - No match found for row 48 on page 1, moving to the next row.
+2024-07-08 13:56:47,926 - INFO - Processing row: 49
+2024-07-08 13:56:47,959 - INFO - No match found for row 49 on page 1, moving to the next row.
+2024-07-08 13:56:47,968 - INFO - Processing row: 50
+2024-07-08 13:56:47,997 - INFO - No match found for row 50 on page 1, moving to the next row.
+2024-07-08 13:56:48,007 - INFO - Processing row: 51
+2024-07-08 13:56:48,038 - INFO - No match found for row 51 on page 1, moving to the next row.
+2024-07-08 13:56:48,058 - INFO - Processing row: 52
+2024-07-08 13:56:48,060 - INFO - Skipping row 52 with 93921520G on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:56:48,072 - INFO - Processing row: 53
+2024-07-08 13:56:48,102 - INFO - No match found for row 53 on page 1, moving to the next row.
+2024-07-08 13:56:48,112 - INFO - Processing row: 54
+2024-07-08 13:56:48,143 - INFO - No match found for row 54 on page 1, moving to the next row.
+2024-07-08 13:56:48,154 - INFO - Processing row: 55
+2024-07-08 13:56:48,186 - INFO - No match found for row 55 on page 1, moving to the next row.
+2024-07-08 13:56:48,196 - INFO - Processing row: 56
+2024-07-08 13:56:48,226 - INFO - No match found for row 56 on page 1, moving to the next row.
+2024-07-08 13:56:48,235 - INFO - Processing row: 57
+2024-07-08 13:56:48,266 - INFO - No match found for row 57 on page 1, moving to the next row.
+2024-07-08 13:56:48,274 - INFO - Processing row: 58
+2024-07-08 13:56:48,308 - INFO - No match found for row 58 on page 1, moving to the next row.
+2024-07-08 13:56:48,317 - INFO - Processing row: 59
+2024-07-08 13:56:48,361 - INFO - No match found for row 59 on page 1, moving to the next row.
+2024-07-08 13:56:48,371 - INFO - Processing row: 60
+2024-07-08 13:56:48,405 - INFO - No match found for row 60 on page 1, moving to the next row.
+2024-07-08 13:56:48,414 - INFO - Processing row: 61
+2024-07-08 13:56:48,444 - INFO - No match found for row 61 on page 1, moving to the next row.
+2024-07-08 13:56:48,453 - INFO - Processing row: 62
+2024-07-08 13:56:48,484 - INFO - No match found for row 62 on page 1, moving to the next row.
+2024-07-08 13:56:48,493 - INFO - Processing row: 63
+2024-07-08 13:56:48,524 - INFO - No match found for row 63 on page 1, moving to the next row.
+2024-07-08 13:56:48,534 - INFO - Processing row: 64
+2024-07-08 13:56:48,555 - INFO - No match found for row 64 on page 1, moving to the next row.
+2024-07-08 13:56:48,566 - INFO - Processing row: 65
+2024-07-08 13:56:48,600 - INFO - No match found for row 65 on page 1, moving to the next row.
+2024-07-08 13:56:48,618 - INFO - Processing row: 66
+2024-07-08 13:56:48,652 - INFO - No match found for row 66 on page 1, moving to the next row.
+2024-07-08 13:56:48,661 - INFO - Processing row: 67
+2024-07-08 13:56:48,692 - INFO - No match found for row 67 on page 1, moving to the next row.
+2024-07-08 13:56:48,701 - INFO - Processing row: 68
+2024-07-08 13:56:48,733 - INFO - No match found for row 68 on page 1, moving to the next row.
+2024-07-08 13:56:48,743 - INFO - Processing row: 69
+2024-07-08 13:56:48,774 - INFO - No match found for row 69 on page 1, moving to the next row.
+2024-07-08 13:56:48,784 - INFO - Processing row: 70
+2024-07-08 13:56:48,785 - INFO - Skipping row 70 with 99476212H on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:56:48,796 - INFO - Processing row: 71
+2024-07-08 13:56:48,829 - INFO - Matched Row 71 on page 1: Plan Selection Date Range UDT validation failed {Value X3 is not valid for this user defined term. > } for Start Date :: 2024-03-01 and End Date :: 3000-01-01, Subscription ID: 99663440G
+2024-07-08 13:56:50,183 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 13:57:18,572 - INFO - Processing page 1, Initial Row Count: 114
+2024-07-08 13:57:18,583 - INFO - Processing row: 0
+2024-07-08 13:57:18,630 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 13:57:18,647 - INFO - Processing row: 1
+2024-07-08 13:57:18,682 - INFO - No match found for row 1 on page 1, moving to the next row.
+2024-07-08 13:57:18,691 - INFO - Processing row: 2
+2024-07-08 13:57:18,724 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 13:57:18,734 - INFO - Processing row: 3
+2024-07-08 13:57:18,756 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 13:57:18,769 - INFO - Processing row: 4
+2024-07-08 13:57:18,801 - INFO - No match found for row 4 on page 1, moving to the next row.
+2024-07-08 13:57:18,810 - INFO - Processing row: 5
+2024-07-08 13:57:18,842 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 13:57:18,853 - INFO - Processing row: 6
+2024-07-08 13:57:18,883 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 13:57:18,906 - INFO - Processing row: 7
+2024-07-08 13:57:18,936 - INFO - No match found for row 7 on page 1, moving to the next row.
+2024-07-08 13:57:18,946 - INFO - Processing row: 8
+2024-07-08 13:57:18,975 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 13:57:18,985 - INFO - Processing row: 9
+2024-07-08 13:57:19,017 - INFO - No match found for row 9 on page 1, moving to the next row.
+2024-07-08 13:57:19,027 - INFO - Processing row: 10
+2024-07-08 13:57:19,059 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 13:57:19,068 - INFO - Processing row: 11
+2024-07-08 13:57:19,102 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 13:57:19,112 - INFO - Processing row: 12
+2024-07-08 13:57:19,143 - INFO - No match found for row 12 on page 1, moving to the next row.
+2024-07-08 13:57:19,153 - INFO - Processing row: 13
+2024-07-08 13:57:19,196 - INFO - No match found for row 13 on page 1, moving to the next row.
+2024-07-08 13:57:19,205 - INFO - Processing row: 14
+2024-07-08 13:57:19,236 - INFO - No match found for row 14 on page 1, moving to the next row.
+2024-07-08 13:57:19,246 - INFO - Processing row: 15
+2024-07-08 13:57:19,282 - INFO - No match found for row 15 on page 1, moving to the next row.
+2024-07-08 13:57:19,292 - INFO - Processing row: 16
+2024-07-08 13:57:19,323 - INFO - No match found for row 16 on page 1, moving to the next row.
+2024-07-08 13:57:19,333 - INFO - Processing row: 17
+2024-07-08 13:57:19,366 - INFO - No match found for row 17 on page 1, moving to the next row.
+2024-07-08 13:57:19,379 - INFO - Processing row: 18
+2024-07-08 13:57:19,413 - INFO - No match found for row 18 on page 1, moving to the next row.
+2024-07-08 13:57:19,423 - INFO - Processing row: 19
+2024-07-08 13:57:19,447 - INFO - No match found for row 19 on page 1, moving to the next row.
+2024-07-08 13:57:19,466 - INFO - Processing row: 20
+2024-07-08 13:57:19,497 - INFO - No match found for row 20 on page 1, moving to the next row.
+2024-07-08 13:57:19,507 - INFO - Processing row: 21
+2024-07-08 13:57:19,537 - INFO - No match found for row 21 on page 1, moving to the next row.
+2024-07-08 13:57:19,547 - INFO - Processing row: 22
+2024-07-08 13:57:19,577 - INFO - No match found for row 22 on page 1, moving to the next row.
+2024-07-08 13:57:19,586 - INFO - Processing row: 23
+2024-07-08 13:57:19,608 - INFO - No match found for row 23 on page 1, moving to the next row.
+2024-07-08 13:57:19,619 - INFO - Processing row: 24
+2024-07-08 13:57:19,651 - INFO - No match found for row 24 on page 1, moving to the next row.
+2024-07-08 13:57:19,660 - INFO - Processing row: 25
+2024-07-08 13:57:19,690 - INFO - No match found for row 25 on page 1, moving to the next row.
+2024-07-08 13:57:19,700 - INFO - Processing row: 26
+2024-07-08 13:57:19,740 - INFO - No match found for row 26 on page 1, moving to the next row.
+2024-07-08 13:57:19,752 - INFO - Processing row: 27
+2024-07-08 13:57:19,783 - INFO - No match found for row 27 on page 1, moving to the next row.
+2024-07-08 13:57:19,792 - INFO - Processing row: 28
+2024-07-08 13:57:19,823 - INFO - No match found for row 28 on page 1, moving to the next row.
+2024-07-08 13:57:19,832 - INFO - Processing row: 29
+2024-07-08 13:57:19,863 - INFO - No match found for row 29 on page 1, moving to the next row.
+2024-07-08 13:57:19,873 - INFO - Processing row: 30
+2024-07-08 13:57:19,902 - INFO - No match found for row 30 on page 1, moving to the next row.
+2024-07-08 13:57:19,912 - INFO - Processing row: 31
+2024-07-08 13:57:19,943 - INFO - No match found for row 31 on page 1, moving to the next row.
+2024-07-08 13:57:19,952 - INFO - Processing row: 32
+2024-07-08 13:57:19,983 - INFO - No match found for row 32 on page 1, moving to the next row.
+2024-07-08 13:57:19,993 - INFO - Processing row: 33
+2024-07-08 13:57:19,995 - INFO - Skipping row 33 with 95395316E on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:57:20,006 - INFO - Processing row: 34
+2024-07-08 13:57:20,010 - INFO - Skipping row 34 with 94560148D on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:57:20,030 - INFO - Processing row: 35
+2024-07-08 13:57:20,063 - INFO - No match found for row 35 on page 1, moving to the next row.
+2024-07-08 13:57:20,073 - INFO - Processing row: 36
+2024-07-08 13:57:20,104 - INFO - No match found for row 36 on page 1, moving to the next row.
+2024-07-08 13:57:20,114 - INFO - Processing row: 37
+2024-07-08 13:57:20,143 - INFO - No match found for row 37 on page 1, moving to the next row.
+2024-07-08 13:57:20,153 - INFO - Processing row: 38
+2024-07-08 13:57:20,183 - INFO - No match found for row 38 on page 1, moving to the next row.
+2024-07-08 13:57:20,193 - INFO - Processing row: 39
+2024-07-08 13:57:20,223 - INFO - No match found for row 39 on page 1, moving to the next row.
+2024-07-08 13:57:20,232 - INFO - Processing row: 40
+2024-07-08 13:57:20,264 - INFO - No match found for row 40 on page 1, moving to the next row.
+2024-07-08 13:57:20,274 - INFO - Processing row: 41
+2024-07-08 13:57:20,316 - INFO - No match found for row 41 on page 1, moving to the next row.
+2024-07-08 13:57:20,327 - INFO - Processing row: 42
+2024-07-08 13:57:20,352 - INFO - No match found for row 42 on page 1, moving to the next row.
+2024-07-08 13:57:20,362 - INFO - Processing row: 43
+2024-07-08 13:57:20,394 - INFO - No match found for row 43 on page 1, moving to the next row.
+2024-07-08 13:57:20,405 - INFO - Processing row: 44
+2024-07-08 13:57:20,439 - INFO - No match found for row 44 on page 1, moving to the next row.
+2024-07-08 13:57:20,449 - INFO - Processing row: 45
+2024-07-08 13:57:20,471 - INFO - No match found for row 45 on page 1, moving to the next row.
+2024-07-08 13:57:20,481 - INFO - Processing row: 46
+2024-07-08 13:57:20,513 - INFO - No match found for row 46 on page 1, moving to the next row.
+2024-07-08 13:57:20,522 - INFO - Processing row: 47
+2024-07-08 13:57:20,551 - INFO - No match found for row 47 on page 1, moving to the next row.
+2024-07-08 13:57:20,560 - INFO - Processing row: 48
+2024-07-08 13:57:20,602 - INFO - No match found for row 48 on page 1, moving to the next row.
+2024-07-08 13:57:20,612 - INFO - Processing row: 49
+2024-07-08 13:57:20,645 - INFO - No match found for row 49 on page 1, moving to the next row.
+2024-07-08 13:57:20,655 - INFO - Processing row: 50
+2024-07-08 13:57:20,687 - INFO - No match found for row 50 on page 1, moving to the next row.
+2024-07-08 13:57:20,696 - INFO - Processing row: 51
+2024-07-08 13:57:20,725 - INFO - No match found for row 51 on page 1, moving to the next row.
+2024-07-08 13:57:20,736 - INFO - Processing row: 52
+2024-07-08 13:57:20,738 - INFO - Skipping row 52 with 93921520G on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:57:20,748 - INFO - Processing row: 53
+2024-07-08 13:57:20,784 - INFO - No match found for row 53 on page 1, moving to the next row.
+2024-07-08 13:57:20,794 - INFO - Processing row: 54
+2024-07-08 13:57:20,830 - INFO - No match found for row 54 on page 1, moving to the next row.
+2024-07-08 13:57:20,840 - INFO - Processing row: 55
+2024-07-08 13:57:20,884 - INFO - No match found for row 55 on page 1, moving to the next row.
+2024-07-08 13:57:20,896 - INFO - Processing row: 56
+2024-07-08 13:57:20,932 - INFO - No match found for row 56 on page 1, moving to the next row.
+2024-07-08 13:57:20,944 - INFO - Processing row: 57
+2024-07-08 13:57:20,978 - INFO - No match found for row 57 on page 1, moving to the next row.
+2024-07-08 13:57:20,989 - INFO - Processing row: 58
+2024-07-08 13:57:21,025 - INFO - No match found for row 58 on page 1, moving to the next row.
+2024-07-08 13:57:21,037 - INFO - Processing row: 59
+2024-07-08 13:57:21,071 - INFO - No match found for row 59 on page 1, moving to the next row.
+2024-07-08 13:57:21,082 - INFO - Processing row: 60
+2024-07-08 13:57:21,118 - INFO - No match found for row 60 on page 1, moving to the next row.
+2024-07-08 13:57:21,129 - INFO - Processing row: 61
+2024-07-08 13:57:21,174 - INFO - No match found for row 61 on page 1, moving to the next row.
+2024-07-08 13:57:21,183 - INFO - Processing row: 62
+2024-07-08 13:57:21,217 - INFO - No match found for row 62 on page 1, moving to the next row.
+2024-07-08 13:57:21,227 - INFO - Processing row: 63
+2024-07-08 13:57:21,259 - INFO - No match found for row 63 on page 1, moving to the next row.
+2024-07-08 13:57:21,270 - INFO - Processing row: 64
+2024-07-08 13:57:21,292 - INFO - No match found for row 64 on page 1, moving to the next row.
+2024-07-08 13:57:21,306 - INFO - Processing row: 65
+2024-07-08 13:57:21,351 - INFO - No match found for row 65 on page 1, moving to the next row.
+2024-07-08 13:57:21,361 - INFO - Processing row: 66
+2024-07-08 13:57:21,393 - INFO - No match found for row 66 on page 1, moving to the next row.
+2024-07-08 13:57:21,403 - INFO - Processing row: 67
+2024-07-08 13:57:21,447 - INFO - No match found for row 67 on page 1, moving to the next row.
+2024-07-08 13:57:21,459 - INFO - Processing row: 68
+2024-07-08 13:57:21,491 - INFO - No match found for row 68 on page 1, moving to the next row.
+2024-07-08 13:57:21,501 - INFO - Processing row: 69
+2024-07-08 13:57:21,531 - INFO - No match found for row 69 on page 1, moving to the next row.
+2024-07-08 13:57:21,542 - INFO - Processing row: 70
+2024-07-08 13:57:21,543 - INFO - Skipping row 70 with 99476212H on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:57:21,554 - INFO - Processing row: 71
+2024-07-08 13:57:21,556 - INFO - Skipping row 71 with 99799834F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:57:21,566 - INFO - Processing row: 72
+2024-07-08 13:57:21,596 - INFO - No match found for row 72 on page 1, moving to the next row.
+2024-07-08 13:57:21,605 - INFO - Processing row: 73
+2024-07-08 13:57:21,635 - INFO - No match found for row 73 on page 1, moving to the next row.
+2024-07-08 13:57:21,645 - INFO - Processing row: 74
+2024-07-08 13:57:21,682 - INFO - No match found for row 74 on page 1, moving to the next row.
+2024-07-08 13:57:21,692 - INFO - Processing row: 75
+2024-07-08 13:57:21,733 - INFO - No match found for row 75 on page 1, moving to the next row.
+2024-07-08 13:57:21,743 - INFO - Processing row: 76
+2024-07-08 13:57:21,774 - INFO - Matched Row 76 on page 1: Plan Selection Date Range UDT validation failed {Value X4 is not valid for this user defined term. > } for Start Date :: 2023-09-01 and End Date :: 3000-01-01, Subscription ID: 99509860H
+2024-07-08 13:57:23,125 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 13:57:51,028 - INFO - Processing page 1, Initial Row Count: 112
+2024-07-08 13:57:51,038 - INFO - Processing row: 0
+2024-07-08 13:57:51,074 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 13:57:51,088 - INFO - Processing row: 1
+2024-07-08 13:57:51,128 - INFO - No match found for row 1 on page 1, moving to the next row.
+2024-07-08 13:57:51,138 - INFO - Processing row: 2
+2024-07-08 13:57:51,170 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 13:57:51,181 - INFO - Processing row: 3
+2024-07-08 13:57:51,203 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 13:57:51,213 - INFO - Processing row: 4
+2024-07-08 13:57:51,244 - INFO - No match found for row 4 on page 1, moving to the next row.
+2024-07-08 13:57:51,254 - INFO - Processing row: 5
+2024-07-08 13:57:51,284 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 13:57:51,294 - INFO - Processing row: 6
+2024-07-08 13:57:51,341 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 13:57:51,353 - INFO - Processing row: 7
+2024-07-08 13:57:51,397 - INFO - No match found for row 7 on page 1, moving to the next row.
+2024-07-08 13:57:51,407 - INFO - Processing row: 8
+2024-07-08 13:57:51,440 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 13:57:51,450 - INFO - Processing row: 9
+2024-07-08 13:57:51,483 - INFO - No match found for row 9 on page 1, moving to the next row.
+2024-07-08 13:57:51,493 - INFO - Processing row: 10
+2024-07-08 13:57:51,524 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 13:57:51,534 - INFO - Processing row: 11
+2024-07-08 13:57:51,570 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 13:57:51,580 - INFO - Processing row: 12
+2024-07-08 13:57:51,610 - INFO - No match found for row 12 on page 1, moving to the next row.
+2024-07-08 13:57:51,620 - INFO - Processing row: 13
+2024-07-08 13:57:51,662 - INFO - No match found for row 13 on page 1, moving to the next row.
+2024-07-08 13:57:51,673 - INFO - Processing row: 14
+2024-07-08 13:57:51,708 - INFO - No match found for row 14 on page 1, moving to the next row.
+2024-07-08 13:57:51,719 - INFO - Processing row: 15
+2024-07-08 13:57:51,748 - INFO - No match found for row 15 on page 1, moving to the next row.
+2024-07-08 13:57:51,758 - INFO - Processing row: 16
+2024-07-08 13:57:51,791 - INFO - No match found for row 16 on page 1, moving to the next row.
+2024-07-08 13:57:51,799 - INFO - Processing row: 17
+2024-07-08 13:57:51,830 - INFO - No match found for row 17 on page 1, moving to the next row.
+2024-07-08 13:57:51,840 - INFO - Processing row: 18
+2024-07-08 13:57:51,870 - INFO - No match found for row 18 on page 1, moving to the next row.
+2024-07-08 13:57:51,879 - INFO - Processing row: 19
+2024-07-08 13:57:51,901 - INFO - No match found for row 19 on page 1, moving to the next row.
+2024-07-08 13:57:51,911 - INFO - Processing row: 20
+2024-07-08 13:57:51,955 - INFO - No match found for row 20 on page 1, moving to the next row.
+2024-07-08 13:57:51,965 - INFO - Processing row: 21
+2024-07-08 13:57:51,997 - INFO - No match found for row 21 on page 1, moving to the next row.
+2024-07-08 13:57:52,007 - INFO - Processing row: 22
+2024-07-08 13:57:52,038 - INFO - No match found for row 22 on page 1, moving to the next row.
+2024-07-08 13:57:52,048 - INFO - Processing row: 23
+2024-07-08 13:57:52,070 - INFO - No match found for row 23 on page 1, moving to the next row.
+2024-07-08 13:57:52,079 - INFO - Processing row: 24
+2024-07-08 13:57:52,110 - INFO - No match found for row 24 on page 1, moving to the next row.
+2024-07-08 13:57:52,121 - INFO - Processing row: 25
+2024-07-08 13:57:52,152 - INFO - No match found for row 25 on page 1, moving to the next row.
+2024-07-08 13:57:52,162 - INFO - Processing row: 26
+2024-07-08 13:57:52,192 - INFO - No match found for row 26 on page 1, moving to the next row.
+2024-07-08 13:57:52,202 - INFO - Processing row: 27
+2024-07-08 13:57:52,246 - INFO - No match found for row 27 on page 1, moving to the next row.
+2024-07-08 13:57:52,255 - INFO - Processing row: 28
+2024-07-08 13:57:52,286 - INFO - No match found for row 28 on page 1, moving to the next row.
+2024-07-08 13:57:52,295 - INFO - Processing row: 29
+2024-07-08 13:57:52,329 - INFO - No match found for row 29 on page 1, moving to the next row.
+2024-07-08 13:57:52,339 - INFO - Processing row: 30
+2024-07-08 13:57:52,371 - INFO - No match found for row 30 on page 1, moving to the next row.
+2024-07-08 13:57:52,381 - INFO - Processing row: 31
+2024-07-08 13:57:52,414 - INFO - No match found for row 31 on page 1, moving to the next row.
+2024-07-08 13:57:52,424 - INFO - Processing row: 32
+2024-07-08 13:57:52,454 - INFO - No match found for row 32 on page 1, moving to the next row.
+2024-07-08 13:57:52,463 - INFO - Processing row: 33
+2024-07-08 13:57:52,465 - INFO - Skipping row 33 with 95395316E on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:57:52,475 - INFO - Processing row: 34
+2024-07-08 13:57:52,477 - INFO - Skipping row 34 with 94560148D on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:57:52,488 - INFO - Processing row: 35
+2024-07-08 13:57:52,529 - INFO - No match found for row 35 on page 1, moving to the next row.
+2024-07-08 13:57:52,539 - INFO - Processing row: 36
+2024-07-08 13:57:52,570 - INFO - No match found for row 36 on page 1, moving to the next row.
+2024-07-08 13:57:52,581 - INFO - Processing row: 37
+2024-07-08 13:57:52,611 - INFO - No match found for row 37 on page 1, moving to the next row.
+2024-07-08 13:57:52,620 - INFO - Processing row: 38
+2024-07-08 13:57:52,655 - INFO - No match found for row 38 on page 1, moving to the next row.
+2024-07-08 13:57:52,665 - INFO - Processing row: 39
+2024-07-08 13:57:52,695 - INFO - No match found for row 39 on page 1, moving to the next row.
+2024-07-08 13:57:52,704 - INFO - Processing row: 40
+2024-07-08 13:57:52,736 - INFO - No match found for row 40 on page 1, moving to the next row.
+2024-07-08 13:57:52,745 - INFO - Processing row: 41
+2024-07-08 13:57:52,776 - INFO - No match found for row 41 on page 1, moving to the next row.
+2024-07-08 13:57:52,795 - INFO - Processing row: 42
+2024-07-08 13:57:52,818 - INFO - No match found for row 42 on page 1, moving to the next row.
+2024-07-08 13:57:52,829 - INFO - Processing row: 43
+2024-07-08 13:57:52,860 - INFO - No match found for row 43 on page 1, moving to the next row.
+2024-07-08 13:57:52,869 - INFO - Processing row: 44
+2024-07-08 13:57:52,903 - INFO - No match found for row 44 on page 1, moving to the next row.
+2024-07-08 13:57:52,913 - INFO - Processing row: 45
+2024-07-08 13:57:52,934 - INFO - No match found for row 45 on page 1, moving to the next row.
+2024-07-08 13:57:52,945 - INFO - Processing row: 46
+2024-07-08 13:57:52,976 - INFO - No match found for row 46 on page 1, moving to the next row.
+2024-07-08 13:57:52,988 - INFO - Processing row: 47
+2024-07-08 13:57:53,020 - INFO - No match found for row 47 on page 1, moving to the next row.
+2024-07-08 13:57:53,029 - INFO - Processing row: 48
+2024-07-08 13:57:53,063 - INFO - No match found for row 48 on page 1, moving to the next row.
+2024-07-08 13:57:53,081 - INFO - Processing row: 49
+2024-07-08 13:57:53,115 - INFO - No match found for row 49 on page 1, moving to the next row.
+2024-07-08 13:57:53,124 - INFO - Processing row: 50
+2024-07-08 13:57:53,155 - INFO - No match found for row 50 on page 1, moving to the next row.
+2024-07-08 13:57:53,164 - INFO - Processing row: 51
+2024-07-08 13:57:53,194 - INFO - No match found for row 51 on page 1, moving to the next row.
+2024-07-08 13:57:53,204 - INFO - Processing row: 52
+2024-07-08 13:57:53,205 - INFO - Skipping row 52 with 93921520G on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:57:53,215 - INFO - Processing row: 53
+2024-07-08 13:57:53,246 - INFO - No match found for row 53 on page 1, moving to the next row.
+2024-07-08 13:57:53,259 - INFO - Processing row: 54
+2024-07-08 13:57:53,290 - INFO - No match found for row 54 on page 1, moving to the next row.
+2024-07-08 13:57:53,300 - INFO - Processing row: 55
+2024-07-08 13:57:53,343 - INFO - No match found for row 55 on page 1, moving to the next row.
+2024-07-08 13:57:53,355 - INFO - Processing row: 56
+2024-07-08 13:57:53,387 - INFO - No match found for row 56 on page 1, moving to the next row.
+2024-07-08 13:57:53,397 - INFO - Processing row: 57
+2024-07-08 13:57:53,429 - INFO - No match found for row 57 on page 1, moving to the next row.
+2024-07-08 13:57:53,439 - INFO - Processing row: 58
+2024-07-08 13:57:53,470 - INFO - No match found for row 58 on page 1, moving to the next row.
+2024-07-08 13:57:53,479 - INFO - Processing row: 59
+2024-07-08 13:57:53,512 - INFO - No match found for row 59 on page 1, moving to the next row.
+2024-07-08 13:57:53,522 - INFO - Processing row: 60
+2024-07-08 13:57:53,554 - INFO - No match found for row 60 on page 1, moving to the next row.
+2024-07-08 13:57:53,564 - INFO - Processing row: 61
+2024-07-08 13:57:53,597 - INFO - No match found for row 61 on page 1, moving to the next row.
+2024-07-08 13:57:53,607 - INFO - Processing row: 62
+2024-07-08 13:57:53,651 - INFO - No match found for row 62 on page 1, moving to the next row.
+2024-07-08 13:57:53,661 - INFO - Processing row: 63
+2024-07-08 13:57:53,691 - INFO - No match found for row 63 on page 1, moving to the next row.
+2024-07-08 13:57:53,701 - INFO - Processing row: 64
+2024-07-08 13:57:53,723 - INFO - No match found for row 64 on page 1, moving to the next row.
+2024-07-08 13:57:53,733 - INFO - Processing row: 65
+2024-07-08 13:57:53,763 - INFO - No match found for row 65 on page 1, moving to the next row.
+2024-07-08 13:57:53,774 - INFO - Processing row: 66
+2024-07-08 13:57:53,804 - INFO - No match found for row 66 on page 1, moving to the next row.
+2024-07-08 13:57:53,814 - INFO - Processing row: 67
+2024-07-08 13:57:53,846 - INFO - No match found for row 67 on page 1, moving to the next row.
+2024-07-08 13:57:53,856 - INFO - Processing row: 68
+2024-07-08 13:57:53,885 - INFO - No match found for row 68 on page 1, moving to the next row.
+2024-07-08 13:57:53,901 - INFO - Processing row: 69
+2024-07-08 13:57:53,938 - INFO - No match found for row 69 on page 1, moving to the next row.
+2024-07-08 13:57:53,947 - INFO - Processing row: 70
+2024-07-08 13:57:53,949 - INFO - Skipping row 70 with 99476212H on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:57:53,960 - INFO - Processing row: 71
+2024-07-08 13:57:53,962 - INFO - Skipping row 71 with 99799834F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:57:53,972 - INFO - Processing row: 72
+2024-07-08 13:57:54,004 - INFO - No match found for row 72 on page 1, moving to the next row.
+2024-07-08 13:57:54,013 - INFO - Processing row: 73
+2024-07-08 13:57:54,044 - INFO - No match found for row 73 on page 1, moving to the next row.
+2024-07-08 13:57:54,054 - INFO - Processing row: 74
+2024-07-08 13:57:54,084 - INFO - No match found for row 74 on page 1, moving to the next row.
+2024-07-08 13:57:54,094 - INFO - Processing row: 75
+2024-07-08 13:57:54,123 - INFO - No match found for row 75 on page 1, moving to the next row.
+2024-07-08 13:57:54,133 - INFO - Processing row: 76
+2024-07-08 13:57:54,135 - INFO - Skipping row 76 with 94968450A on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:57:54,147 - INFO - Processing row: 77
+2024-07-08 13:57:54,187 - INFO - No match found for row 77 on page 1, moving to the next row.
+2024-07-08 13:57:54,200 - INFO - Processing row: 78
+2024-07-08 13:57:54,232 - INFO - No match found for row 78 on page 1, moving to the next row.
+2024-07-08 13:57:54,242 - INFO - Processing row: 79
+2024-07-08 13:57:54,272 - INFO - No match found for row 79 on page 1, moving to the next row.
+2024-07-08 13:57:54,281 - INFO - Processing row: 80
+2024-07-08 13:57:54,303 - INFO - No match found for row 80 on page 1, moving to the next row.
+2024-07-08 13:57:54,313 - INFO - Processing row: 81
+2024-07-08 13:57:54,345 - INFO - Matched Row 81 on page 1: Plan Selection Date Range UDT validation failed {Value X7 is not valid for this user defined term. > } for Start Date :: 2024-07-01 and End Date :: 3000-01-01, Subscription ID: 99733138D
+2024-07-08 13:57:55,719 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 13:58:23,701 - INFO - Processing page 1, Initial Row Count: 110
+2024-07-08 13:58:23,735 - INFO - Processing row: 0
+2024-07-08 13:58:23,772 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 13:58:23,784 - INFO - Processing row: 1
+2024-07-08 13:58:23,817 - INFO - No match found for row 1 on page 1, moving to the next row.
+2024-07-08 13:58:23,827 - INFO - Processing row: 2
+2024-07-08 13:58:23,864 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 13:58:23,879 - INFO - Processing row: 3
+2024-07-08 13:58:23,900 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 13:58:23,910 - INFO - Processing row: 4
+2024-07-08 13:58:23,941 - INFO - No match found for row 4 on page 1, moving to the next row.
+2024-07-08 13:58:23,951 - INFO - Processing row: 5
+2024-07-08 13:58:23,982 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 13:58:23,991 - INFO - Processing row: 6
+2024-07-08 13:58:24,023 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 13:58:24,034 - INFO - Processing row: 7
+2024-07-08 13:58:24,065 - INFO - No match found for row 7 on page 1, moving to the next row.
+2024-07-08 13:58:24,076 - INFO - Processing row: 8
+2024-07-08 13:58:24,105 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 13:58:24,115 - INFO - Processing row: 9
+2024-07-08 13:58:24,155 - INFO - No match found for row 9 on page 1, moving to the next row.
+2024-07-08 13:58:24,165 - INFO - Processing row: 10
+2024-07-08 13:58:24,198 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 13:58:24,208 - INFO - Processing row: 11
+2024-07-08 13:58:24,237 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 13:58:24,247 - INFO - Processing row: 12
+2024-07-08 13:58:24,277 - INFO - No match found for row 12 on page 1, moving to the next row.
+2024-07-08 13:58:24,287 - INFO - Processing row: 13
+2024-07-08 13:58:24,318 - INFO - No match found for row 13 on page 1, moving to the next row.
+2024-07-08 13:58:24,328 - INFO - Processing row: 14
+2024-07-08 13:58:24,361 - INFO - No match found for row 14 on page 1, moving to the next row.
+2024-07-08 13:58:24,385 - INFO - Processing row: 15
+2024-07-08 13:58:24,416 - INFO - No match found for row 15 on page 1, moving to the next row.
+2024-07-08 13:58:24,436 - INFO - Processing row: 16
+2024-07-08 13:58:24,469 - INFO - No match found for row 16 on page 1, moving to the next row.
+2024-07-08 13:58:24,479 - INFO - Processing row: 17
+2024-07-08 13:58:24,510 - INFO - No match found for row 17 on page 1, moving to the next row.
+2024-07-08 13:58:24,519 - INFO - Processing row: 18
+2024-07-08 13:58:24,550 - INFO - No match found for row 18 on page 1, moving to the next row.
+2024-07-08 13:58:24,559 - INFO - Processing row: 19
+2024-07-08 13:58:24,581 - INFO - No match found for row 19 on page 1, moving to the next row.
+2024-07-08 13:58:24,591 - INFO - Processing row: 20
+2024-07-08 13:58:24,626 - INFO - No match found for row 20 on page 1, moving to the next row.
+2024-07-08 13:58:24,636 - INFO - Processing row: 21
+2024-07-08 13:58:24,672 - INFO - No match found for row 21 on page 1, moving to the next row.
+2024-07-08 13:58:24,682 - INFO - Processing row: 22
+2024-07-08 13:58:24,727 - INFO - No match found for row 22 on page 1, moving to the next row.
+2024-07-08 13:58:24,738 - INFO - Processing row: 23
+2024-07-08 13:58:24,766 - INFO - No match found for row 23 on page 1, moving to the next row.
+2024-07-08 13:58:24,780 - INFO - Processing row: 24
+2024-07-08 13:58:24,813 - INFO - No match found for row 24 on page 1, moving to the next row.
+2024-07-08 13:58:24,825 - INFO - Processing row: 25
+2024-07-08 13:58:24,859 - INFO - No match found for row 25 on page 1, moving to the next row.
+2024-07-08 13:58:24,871 - INFO - Processing row: 26
+2024-07-08 13:58:24,904 - INFO - No match found for row 26 on page 1, moving to the next row.
+2024-07-08 13:58:24,914 - INFO - Processing row: 27
+2024-07-08 13:58:24,952 - INFO - No match found for row 27 on page 1, moving to the next row.
+2024-07-08 13:58:24,964 - INFO - Processing row: 28
+2024-07-08 13:58:25,015 - INFO - No match found for row 28 on page 1, moving to the next row.
+2024-07-08 13:58:25,030 - INFO - Processing row: 29
+2024-07-08 13:58:25,066 - INFO - No match found for row 29 on page 1, moving to the next row.
+2024-07-08 13:58:25,079 - INFO - Processing row: 30
+2024-07-08 13:58:25,114 - INFO - No match found for row 30 on page 1, moving to the next row.
+2024-07-08 13:58:25,124 - INFO - Processing row: 31
+2024-07-08 13:58:25,159 - INFO - No match found for row 31 on page 1, moving to the next row.
+2024-07-08 13:58:25,171 - INFO - Processing row: 32
+2024-07-08 13:58:25,206 - INFO - No match found for row 32 on page 1, moving to the next row.
+2024-07-08 13:58:25,220 - INFO - Processing row: 33
+2024-07-08 13:58:25,222 - INFO - Skipping row 33 with 95395316E on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:58:25,233 - INFO - Processing row: 34
+2024-07-08 13:58:25,235 - INFO - Skipping row 34 with 94560148D on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:58:25,249 - INFO - Processing row: 35
+2024-07-08 13:58:25,295 - INFO - No match found for row 35 on page 1, moving to the next row.
+2024-07-08 13:58:25,306 - INFO - Processing row: 36
+2024-07-08 13:58:25,349 - INFO - No match found for row 36 on page 1, moving to the next row.
+2024-07-08 13:58:25,362 - INFO - Processing row: 37
+2024-07-08 13:58:25,400 - INFO - No match found for row 37 on page 1, moving to the next row.
+2024-07-08 13:58:25,412 - INFO - Processing row: 38
+2024-07-08 13:58:25,446 - INFO - No match found for row 38 on page 1, moving to the next row.
+2024-07-08 13:58:25,457 - INFO - Processing row: 39
+2024-07-08 13:58:25,491 - INFO - No match found for row 39 on page 1, moving to the next row.
+2024-07-08 13:58:25,503 - INFO - Processing row: 40
+2024-07-08 13:58:25,537 - INFO - No match found for row 40 on page 1, moving to the next row.
+2024-07-08 13:58:25,556 - INFO - Processing row: 41
+2024-07-08 13:58:25,592 - INFO - No match found for row 41 on page 1, moving to the next row.
+2024-07-08 13:58:25,602 - INFO - Processing row: 42
+2024-07-08 13:58:25,625 - INFO - No match found for row 42 on page 1, moving to the next row.
+2024-07-08 13:58:25,634 - INFO - Processing row: 43
+2024-07-08 13:58:25,666 - INFO - No match found for row 43 on page 1, moving to the next row.
+2024-07-08 13:58:25,677 - INFO - Processing row: 44
+2024-07-08 13:58:25,707 - INFO - No match found for row 44 on page 1, moving to the next row.
+2024-07-08 13:58:25,717 - INFO - Processing row: 45
+2024-07-08 13:58:25,747 - INFO - No match found for row 45 on page 1, moving to the next row.
+2024-07-08 13:58:25,758 - INFO - Processing row: 46
+2024-07-08 13:58:25,789 - INFO - No match found for row 46 on page 1, moving to the next row.
+2024-07-08 13:58:25,799 - INFO - Processing row: 47
+2024-07-08 13:58:25,844 - INFO - No match found for row 47 on page 1, moving to the next row.
+2024-07-08 13:58:25,855 - INFO - Processing row: 48
+2024-07-08 13:58:25,885 - INFO - No match found for row 48 on page 1, moving to the next row.
+2024-07-08 13:58:25,894 - INFO - Processing row: 49
+2024-07-08 13:58:25,928 - INFO - No match found for row 49 on page 1, moving to the next row.
+2024-07-08 13:58:25,938 - INFO - Processing row: 50
+2024-07-08 13:58:25,969 - INFO - No match found for row 50 on page 1, moving to the next row.
+2024-07-08 13:58:25,978 - INFO - Processing row: 51
+2024-07-08 13:58:26,009 - INFO - No match found for row 51 on page 1, moving to the next row.
+2024-07-08 13:58:26,019 - INFO - Processing row: 52
+2024-07-08 13:58:26,021 - INFO - Skipping row 52 with 93921520G on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:58:26,031 - INFO - Processing row: 53
+2024-07-08 13:58:26,061 - INFO - No match found for row 53 on page 1, moving to the next row.
+2024-07-08 13:58:26,070 - INFO - Processing row: 54
+2024-07-08 13:58:26,102 - INFO - No match found for row 54 on page 1, moving to the next row.
+2024-07-08 13:58:26,125 - INFO - Processing row: 55
+2024-07-08 13:58:26,157 - INFO - No match found for row 55 on page 1, moving to the next row.
+2024-07-08 13:58:26,166 - INFO - Processing row: 56
+2024-07-08 13:58:26,199 - INFO - No match found for row 56 on page 1, moving to the next row.
+2024-07-08 13:58:26,209 - INFO - Processing row: 57
+2024-07-08 13:58:26,241 - INFO - No match found for row 57 on page 1, moving to the next row.
+2024-07-08 13:58:26,250 - INFO - Processing row: 58
+2024-07-08 13:58:26,282 - INFO - No match found for row 58 on page 1, moving to the next row.
+2024-07-08 13:58:26,294 - INFO - Processing row: 59
+2024-07-08 13:58:26,326 - INFO - No match found for row 59 on page 1, moving to the next row.
+2024-07-08 13:58:26,335 - INFO - Processing row: 60
+2024-07-08 13:58:26,367 - INFO - No match found for row 60 on page 1, moving to the next row.
+2024-07-08 13:58:26,377 - INFO - Processing row: 61
+2024-07-08 13:58:26,421 - INFO - No match found for row 61 on page 1, moving to the next row.
+2024-07-08 13:58:26,432 - INFO - Processing row: 62
+2024-07-08 13:58:26,465 - INFO - No match found for row 62 on page 1, moving to the next row.
+2024-07-08 13:58:26,473 - INFO - Processing row: 63
+2024-07-08 13:58:26,505 - INFO - No match found for row 63 on page 1, moving to the next row.
+2024-07-08 13:58:26,516 - INFO - Processing row: 64
+2024-07-08 13:58:26,538 - INFO - No match found for row 64 on page 1, moving to the next row.
+2024-07-08 13:58:26,548 - INFO - Processing row: 65
+2024-07-08 13:58:26,579 - INFO - No match found for row 65 on page 1, moving to the next row.
+2024-07-08 13:58:26,589 - INFO - Processing row: 66
+2024-07-08 13:58:26,621 - INFO - No match found for row 66 on page 1, moving to the next row.
+2024-07-08 13:58:26,630 - INFO - Processing row: 67
+2024-07-08 13:58:26,664 - INFO - No match found for row 67 on page 1, moving to the next row.
+2024-07-08 13:58:26,684 - INFO - Processing row: 68
+2024-07-08 13:58:26,716 - INFO - No match found for row 68 on page 1, moving to the next row.
+2024-07-08 13:58:26,725 - INFO - Processing row: 69
+2024-07-08 13:58:26,757 - INFO - No match found for row 69 on page 1, moving to the next row.
+2024-07-08 13:58:26,768 - INFO - Processing row: 70
+2024-07-08 13:58:26,770 - INFO - Skipping row 70 with 99476212H on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:58:26,780 - INFO - Processing row: 71
+2024-07-08 13:58:26,782 - INFO - Skipping row 71 with 99799834F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:58:26,792 - INFO - Processing row: 72
+2024-07-08 13:58:26,821 - INFO - No match found for row 72 on page 1, moving to the next row.
+2024-07-08 13:58:26,831 - INFO - Processing row: 73
+2024-07-08 13:58:26,862 - INFO - No match found for row 73 on page 1, moving to the next row.
+2024-07-08 13:58:26,872 - INFO - Processing row: 74
+2024-07-08 13:58:26,902 - INFO - No match found for row 74 on page 1, moving to the next row.
+2024-07-08 13:58:26,912 - INFO - Processing row: 75
+2024-07-08 13:58:26,944 - INFO - No match found for row 75 on page 1, moving to the next row.
+2024-07-08 13:58:26,957 - INFO - Processing row: 76
+2024-07-08 13:58:26,959 - INFO - Skipping row 76 with 94968450A on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:58:26,979 - INFO - Processing row: 77
+2024-07-08 13:58:27,011 - INFO - No match found for row 77 on page 1, moving to the next row.
+2024-07-08 13:58:27,021 - INFO - Processing row: 78
+2024-07-08 13:58:27,055 - INFO - No match found for row 78 on page 1, moving to the next row.
+2024-07-08 13:58:27,064 - INFO - Processing row: 79
+2024-07-08 13:58:27,094 - INFO - No match found for row 79 on page 1, moving to the next row.
+2024-07-08 13:58:27,103 - INFO - Processing row: 80
+2024-07-08 13:58:27,126 - INFO - No match found for row 80 on page 1, moving to the next row.
+2024-07-08 13:58:27,136 - INFO - Processing row: 81
+2024-07-08 13:58:27,138 - INFO - Skipping row 81 with 91043393E on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:58:27,150 - INFO - Processing row: 82
+2024-07-08 13:58:27,181 - INFO - No match found for row 82 on page 1, moving to the next row.
+2024-07-08 13:58:27,192 - INFO - Processing row: 83
+2024-07-08 13:58:27,222 - INFO - Matched Row 83 on page 1: Plan Selection Date Range UDT validation failed {Value X7 is not valid for this user defined term. > } for Start Date :: 2023-05-01 and End Date :: 3000-01-01, Subscription ID: 99766355D
+2024-07-08 13:58:28,620 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 13:58:56,995 - INFO - Processing page 1, Initial Row Count: 108
+2024-07-08 13:58:57,006 - INFO - Processing row: 0
+2024-07-08 13:58:57,040 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 13:58:57,051 - INFO - Processing row: 1
+2024-07-08 13:58:57,084 - INFO - No match found for row 1 on page 1, moving to the next row.
+2024-07-08 13:58:57,094 - INFO - Processing row: 2
+2024-07-08 13:58:57,127 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 13:58:57,137 - INFO - Processing row: 3
+2024-07-08 13:58:57,158 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 13:58:57,169 - INFO - Processing row: 4
+2024-07-08 13:58:57,217 - INFO - No match found for row 4 on page 1, moving to the next row.
+2024-07-08 13:58:57,229 - INFO - Processing row: 5
+2024-07-08 13:58:57,261 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 13:58:57,271 - INFO - Processing row: 6
+2024-07-08 13:58:57,302 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 13:58:57,311 - INFO - Processing row: 7
+2024-07-08 13:58:57,344 - INFO - No match found for row 7 on page 1, moving to the next row.
+2024-07-08 13:58:57,354 - INFO - Processing row: 8
+2024-07-08 13:58:57,386 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 13:58:57,396 - INFO - Processing row: 9
+2024-07-08 13:58:57,428 - INFO - No match found for row 9 on page 1, moving to the next row.
+2024-07-08 13:58:57,437 - INFO - Processing row: 10
+2024-07-08 13:58:57,468 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 13:58:57,485 - INFO - Processing row: 11
+2024-07-08 13:58:57,525 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 13:58:57,535 - INFO - Processing row: 12
+2024-07-08 13:58:57,565 - INFO - No match found for row 12 on page 1, moving to the next row.
+2024-07-08 13:58:57,576 - INFO - Processing row: 13
+2024-07-08 13:58:57,608 - INFO - No match found for row 13 on page 1, moving to the next row.
+2024-07-08 13:58:57,618 - INFO - Processing row: 14
+2024-07-08 13:58:57,648 - INFO - No match found for row 14 on page 1, moving to the next row.
+2024-07-08 13:58:57,667 - INFO - Processing row: 15
+2024-07-08 13:58:57,698 - INFO - No match found for row 15 on page 1, moving to the next row.
+2024-07-08 13:58:57,708 - INFO - Processing row: 16
+2024-07-08 13:58:57,739 - INFO - No match found for row 16 on page 1, moving to the next row.
+2024-07-08 13:58:57,754 - INFO - Processing row: 17
+2024-07-08 13:58:57,800 - INFO - No match found for row 17 on page 1, moving to the next row.
+2024-07-08 13:58:57,810 - INFO - Processing row: 18
+2024-07-08 13:58:57,840 - INFO - No match found for row 18 on page 1, moving to the next row.
+2024-07-08 13:58:57,850 - INFO - Processing row: 19
+2024-07-08 13:58:57,871 - INFO - No match found for row 19 on page 1, moving to the next row.
+2024-07-08 13:58:57,880 - INFO - Processing row: 20
+2024-07-08 13:58:57,909 - INFO - No match found for row 20 on page 1, moving to the next row.
+2024-07-08 13:58:57,919 - INFO - Processing row: 21
+2024-07-08 13:58:57,948 - INFO - No match found for row 21 on page 1, moving to the next row.
+2024-07-08 13:58:57,958 - INFO - Processing row: 22
+2024-07-08 13:58:57,986 - INFO - No match found for row 22 on page 1, moving to the next row.
+2024-07-08 13:58:57,997 - INFO - Processing row: 23
+2024-07-08 13:58:58,018 - INFO - No match found for row 23 on page 1, moving to the next row.
+2024-07-08 13:58:58,029 - INFO - Processing row: 24
+2024-07-08 13:58:58,069 - INFO - No match found for row 24 on page 1, moving to the next row.
+2024-07-08 13:58:58,078 - INFO - Processing row: 25
+2024-07-08 13:58:58,108 - INFO - No match found for row 25 on page 1, moving to the next row.
+2024-07-08 13:58:58,119 - INFO - Processing row: 26
+2024-07-08 13:58:58,147 - INFO - No match found for row 26 on page 1, moving to the next row.
+2024-07-08 13:58:58,158 - INFO - Processing row: 27
+2024-07-08 13:58:58,188 - INFO - No match found for row 27 on page 1, moving to the next row.
+2024-07-08 13:58:58,198 - INFO - Processing row: 28
+2024-07-08 13:58:58,230 - INFO - No match found for row 28 on page 1, moving to the next row.
+2024-07-08 13:58:58,239 - INFO - Processing row: 29
+2024-07-08 13:58:58,268 - INFO - No match found for row 29 on page 1, moving to the next row.
+2024-07-08 13:58:58,278 - INFO - Processing row: 30
+2024-07-08 13:58:58,308 - INFO - No match found for row 30 on page 1, moving to the next row.
+2024-07-08 13:58:58,322 - INFO - Processing row: 31
+2024-07-08 13:58:58,364 - INFO - No match found for row 31 on page 1, moving to the next row.
+2024-07-08 13:58:58,375 - INFO - Processing row: 32
+2024-07-08 13:58:58,406 - INFO - No match found for row 32 on page 1, moving to the next row.
+2024-07-08 13:58:58,416 - INFO - Processing row: 33
+2024-07-08 13:58:58,418 - INFO - Skipping row 33 with 95395316E on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:58:58,428 - INFO - Processing row: 34
+2024-07-08 13:58:58,430 - INFO - Skipping row 34 with 94560148D on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:58:58,440 - INFO - Processing row: 35
+2024-07-08 13:58:58,469 - INFO - No match found for row 35 on page 1, moving to the next row.
+2024-07-08 13:58:58,478 - INFO - Processing row: 36
+2024-07-08 13:58:58,508 - INFO - No match found for row 36 on page 1, moving to the next row.
+2024-07-08 13:58:58,518 - INFO - Processing row: 37
+2024-07-08 13:58:58,552 - INFO - No match found for row 37 on page 1, moving to the next row.
+2024-07-08 13:58:58,562 - INFO - Processing row: 38
+2024-07-08 13:58:58,595 - INFO - No match found for row 38 on page 1, moving to the next row.
+2024-07-08 13:58:58,609 - INFO - Processing row: 39
+2024-07-08 13:58:58,646 - INFO - No match found for row 39 on page 1, moving to the next row.
+2024-07-08 13:58:58,656 - INFO - Processing row: 40
+2024-07-08 13:58:58,687 - INFO - No match found for row 40 on page 1, moving to the next row.
+2024-07-08 13:58:58,701 - INFO - Processing row: 41
+2024-07-08 13:58:58,732 - INFO - No match found for row 41 on page 1, moving to the next row.
+2024-07-08 13:58:58,741 - INFO - Processing row: 42
+2024-07-08 13:58:58,765 - INFO - No match found for row 42 on page 1, moving to the next row.
+2024-07-08 13:58:58,774 - INFO - Processing row: 43
+2024-07-08 13:58:58,805 - INFO - No match found for row 43 on page 1, moving to the next row.
+2024-07-08 13:58:58,815 - INFO - Processing row: 44
+2024-07-08 13:58:58,845 - INFO - No match found for row 44 on page 1, moving to the next row.
+2024-07-08 13:58:58,855 - INFO - Processing row: 45
+2024-07-08 13:58:58,876 - INFO - No match found for row 45 on page 1, moving to the next row.
+2024-07-08 13:58:58,888 - INFO - Processing row: 46
+2024-07-08 13:58:58,926 - INFO - No match found for row 46 on page 1, moving to the next row.
+2024-07-08 13:58:58,936 - INFO - Processing row: 47
+2024-07-08 13:58:58,967 - INFO - No match found for row 47 on page 1, moving to the next row.
+2024-07-08 13:58:58,976 - INFO - Processing row: 48
+2024-07-08 13:58:59,006 - INFO - No match found for row 48 on page 1, moving to the next row.
+2024-07-08 13:58:59,016 - INFO - Processing row: 49
+2024-07-08 13:58:59,051 - INFO - No match found for row 49 on page 1, moving to the next row.
+2024-07-08 13:58:59,062 - INFO - Processing row: 50
+2024-07-08 13:58:59,093 - INFO - No match found for row 50 on page 1, moving to the next row.
+2024-07-08 13:58:59,103 - INFO - Processing row: 51
+2024-07-08 13:58:59,132 - INFO - No match found for row 51 on page 1, moving to the next row.
+2024-07-08 13:58:59,143 - INFO - Processing row: 52
+2024-07-08 13:58:59,145 - INFO - Skipping row 52 with 93921520G on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:58:59,156 - INFO - Processing row: 53
+2024-07-08 13:58:59,196 - INFO - No match found for row 53 on page 1, moving to the next row.
+2024-07-08 13:58:59,210 - INFO - Processing row: 54
+2024-07-08 13:58:59,242 - INFO - No match found for row 54 on page 1, moving to the next row.
+2024-07-08 13:58:59,252 - INFO - Processing row: 55
+2024-07-08 13:58:59,282 - INFO - No match found for row 55 on page 1, moving to the next row.
+2024-07-08 13:58:59,291 - INFO - Processing row: 56
+2024-07-08 13:58:59,322 - INFO - No match found for row 56 on page 1, moving to the next row.
+2024-07-08 13:58:59,332 - INFO - Processing row: 57
+2024-07-08 13:58:59,364 - INFO - No match found for row 57 on page 1, moving to the next row.
+2024-07-08 13:58:59,374 - INFO - Processing row: 58
+2024-07-08 13:58:59,405 - INFO - No match found for row 58 on page 1, moving to the next row.
+2024-07-08 13:58:59,415 - INFO - Processing row: 59
+2024-07-08 13:58:59,445 - INFO - No match found for row 59 on page 1, moving to the next row.
+2024-07-08 13:58:59,457 - INFO - Processing row: 60
+2024-07-08 13:58:59,494 - INFO - No match found for row 60 on page 1, moving to the next row.
+2024-07-08 13:58:59,504 - INFO - Processing row: 61
+2024-07-08 13:58:59,535 - INFO - No match found for row 61 on page 1, moving to the next row.
+2024-07-08 13:58:59,544 - INFO - Processing row: 62
+2024-07-08 13:58:59,573 - INFO - No match found for row 62 on page 1, moving to the next row.
+2024-07-08 13:58:59,583 - INFO - Processing row: 63
+2024-07-08 13:58:59,613 - INFO - No match found for row 63 on page 1, moving to the next row.
+2024-07-08 13:58:59,623 - INFO - Processing row: 64
+2024-07-08 13:58:59,645 - INFO - No match found for row 64 on page 1, moving to the next row.
+2024-07-08 13:58:59,655 - INFO - Processing row: 65
+2024-07-08 13:58:59,684 - INFO - No match found for row 65 on page 1, moving to the next row.
+2024-07-08 13:58:59,693 - INFO - Processing row: 66
+2024-07-08 13:58:59,725 - INFO - No match found for row 66 on page 1, moving to the next row.
+2024-07-08 13:58:59,736 - INFO - Processing row: 67
+2024-07-08 13:58:59,780 - INFO - No match found for row 67 on page 1, moving to the next row.
+2024-07-08 13:58:59,791 - INFO - Processing row: 68
+2024-07-08 13:58:59,820 - INFO - No match found for row 68 on page 1, moving to the next row.
+2024-07-08 13:58:59,830 - INFO - Processing row: 69
+2024-07-08 13:58:59,863 - INFO - No match found for row 69 on page 1, moving to the next row.
+2024-07-08 13:58:59,873 - INFO - Processing row: 70
+2024-07-08 13:58:59,874 - INFO - Skipping row 70 with 99476212H on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:58:59,885 - INFO - Processing row: 71
+2024-07-08 13:58:59,887 - INFO - Skipping row 71 with 99799834F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:58:59,898 - INFO - Processing row: 72
+2024-07-08 13:58:59,929 - INFO - No match found for row 72 on page 1, moving to the next row.
+2024-07-08 13:58:59,940 - INFO - Processing row: 73
+2024-07-08 13:58:59,970 - INFO - No match found for row 73 on page 1, moving to the next row.
+2024-07-08 13:58:59,981 - INFO - Processing row: 74
+2024-07-08 13:59:00,014 - INFO - No match found for row 74 on page 1, moving to the next row.
+2024-07-08 13:59:00,035 - INFO - Processing row: 75
+2024-07-08 13:59:00,073 - INFO - No match found for row 75 on page 1, moving to the next row.
+2024-07-08 13:59:00,085 - INFO - Processing row: 76
+2024-07-08 13:59:00,088 - INFO - Skipping row 76 with 94968450A on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:59:00,100 - INFO - Processing row: 77
+2024-07-08 13:59:00,131 - INFO - No match found for row 77 on page 1, moving to the next row.
+2024-07-08 13:59:00,142 - INFO - Processing row: 78
+2024-07-08 13:59:00,173 - INFO - No match found for row 78 on page 1, moving to the next row.
+2024-07-08 13:59:00,184 - INFO - Processing row: 79
+2024-07-08 13:59:00,214 - INFO - No match found for row 79 on page 1, moving to the next row.
+2024-07-08 13:59:00,225 - INFO - Processing row: 80
+2024-07-08 13:59:00,250 - INFO - No match found for row 80 on page 1, moving to the next row.
+2024-07-08 13:59:00,261 - INFO - Processing row: 81
+2024-07-08 13:59:00,264 - INFO - Skipping row 81 with 91043393E on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:59:00,275 - INFO - Processing row: 82
+2024-07-08 13:59:00,312 - INFO - No match found for row 82 on page 1, moving to the next row.
+2024-07-08 13:59:00,341 - INFO - Processing row: 83
+2024-07-08 13:59:00,344 - INFO - Skipping row 83 with 98103472F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 13:59:00,360 - INFO - Processing row: 84
+2024-07-08 13:59:00,395 - INFO - No match found for row 84 on page 1, moving to the next row.
+2024-07-08 13:59:00,410 - INFO - Processing row: 85
+2024-07-08 13:59:00,440 - INFO - No match found for row 85 on page 1, moving to the next row.
+2024-07-08 13:59:00,451 - INFO - Processing row: 86
+2024-07-08 13:59:00,482 - INFO - No match found for row 86 on page 1, moving to the next row.
+2024-07-08 13:59:00,492 - INFO - Processing row: 87
+2024-07-08 13:59:00,525 - INFO - No match found for row 87 on page 1, moving to the next row.
+2024-07-08 13:59:00,536 - INFO - Processing row: 88
+2024-07-08 13:59:00,567 - INFO - No match found for row 88 on page 1, moving to the next row.
+2024-07-08 13:59:00,577 - INFO - Processing row: 89
+2024-07-08 13:59:00,624 - INFO - No match found for row 89 on page 1, moving to the next row.
+2024-07-08 13:59:00,635 - INFO - Processing row: 90
+2024-07-08 13:59:00,666 - INFO - No match found for row 90 on page 1, moving to the next row.
+2024-07-08 13:59:00,676 - INFO - Processing row: 91
+2024-07-08 13:59:00,706 - INFO - No match found for row 91 on page 1, moving to the next row.
+2024-07-08 13:59:00,715 - INFO - Processing row: 92
+2024-07-08 13:59:00,746 - INFO - No match found for row 92 on page 1, moving to the next row.
+2024-07-08 13:59:00,762 - INFO - Processing row: 93
+2024-07-08 13:59:00,794 - INFO - No match found for row 93 on page 1, moving to the next row.
+2024-07-08 13:59:00,804 - INFO - Processing row: 94
+2024-07-08 13:59:00,834 - INFO - No match found for row 94 on page 1, moving to the next row.
+2024-07-08 13:59:00,843 - INFO - Processing row: 95
+2024-07-08 13:59:00,875 - INFO - No match found for row 95 on page 1, moving to the next row.
+2024-07-08 13:59:00,893 - INFO - Processing row: 96
+2024-07-08 13:59:00,913 - INFO - No match found for row 96 on page 1, moving to the next row.
+2024-07-08 13:59:00,924 - INFO - Processing row: 97
+2024-07-08 13:59:00,952 - INFO - No match found for row 97 on page 1, moving to the next row.
+2024-07-08 13:59:00,961 - INFO - Processing row: 98
+2024-07-08 13:59:00,994 - INFO - No match found for row 98 on page 1, moving to the next row.
+2024-07-08 13:59:01,005 - INFO - Processing row: 99
+2024-07-08 13:59:01,035 - INFO - No match found for row 99 on page 1, moving to the next row.
+2024-07-08 13:59:01,045 - INFO - Processing row: 100
+2024-07-08 13:59:01,075 - INFO - No match found for row 100 on page 1, moving to the next row.
+2024-07-08 13:59:01,086 - INFO - Processing row: 101
+2024-07-08 13:59:01,118 - INFO - No match found for row 101 on page 1, moving to the next row.
+2024-07-08 13:59:01,128 - INFO - Processing row: 102
+2024-07-08 13:59:01,164 - INFO - No match found for row 102 on page 1, moving to the next row.
+2024-07-08 13:59:01,178 - INFO - Processing row: 103
+2024-07-08 13:59:01,208 - INFO - No match found for row 103 on page 1, moving to the next row.
+2024-07-08 13:59:01,221 - INFO - Processing row: 104
+2024-07-08 13:59:01,253 - INFO - No match found for row 104 on page 1, moving to the next row.
+2024-07-08 13:59:01,262 - INFO - Processing row: 105
+2024-07-08 13:59:01,293 - INFO - No match found for row 105 on page 1, moving to the next row.
+2024-07-08 13:59:01,302 - INFO - Processing row: 106
+2024-07-08 13:59:01,332 - INFO - No match found for row 106 on page 1, moving to the next row.
+2024-07-08 13:59:01,343 - INFO - Processing row: 107
+2024-07-08 13:59:01,375 - INFO - No match found for row 107 on page 1, moving to the next row.
+2024-07-08 13:59:01,896 - ERROR - An error occurred: 
+Traceback (most recent call last):
+  File "<aq:Main>", line 36, in automate_workbasket_process
+  File "<aq:HealthEdgeManager>", line 75, in process_workbasket
+  File "<aq:HealthEdgeManager>", line 89, in has_next_page
+  File "C:\Program Files (x86)\SmartBear\TestComplete 15\x64\Bin\Extensions\Python\Python311\Lib\bdb.py", line 90, in trace_dispatch
+    return self.dispatch_line(frame)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\SmartBear\TestComplete 15\x64\Bin\Extensions\Python\Python311\Lib\bdb.py", line 115, in dispatch_line
+    if self.quitting: raise BdbQuit
+                      ^^^^^^^^^^^^^
+bdb.BdbQuit

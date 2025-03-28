@@ -1,0 +1,196 @@
+2024-07-08 16:18:19,245 - INFO - Starting workbasket automation process.
+2024-07-08 16:18:19,250 - INFO - Navigating to workbasket.
+2024-07-08 16:18:19,251 - INFO - Navigating to the Enrollment Review Repair Workbasket.
+2024-07-08 16:18:20,992 - INFO - Navigation complete.
+2024-07-08 16:18:20,993 - INFO - Processing workbasket.
+2024-07-08 16:18:21,792 - INFO - Processing page 1, Initial Row Count: 21
+2024-07-08 16:18:21,811 - INFO - Processing row: 0
+2024-07-08 16:18:21,843 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 16:18:21,856 - INFO - Processing row: 1
+2024-07-08 16:18:21,883 - INFO - Matched Row 1 on page 1: Plan Selection Date Range UDT validation failed {Value F0 is not valid for this user defined term. > } for Start Date :: 2023-10-01 and End Date :: 3000-01-01, Subscription ID: 94676274F
+2024-07-08 16:18:23,198 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 16:18:32,411 - INFO - Processing page 1, Initial Row Count: 21
+2024-07-08 16:18:32,421 - INFO - Processing row: 0
+2024-07-08 16:18:32,445 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 16:18:32,460 - INFO - Processing row: 1
+2024-07-08 16:18:32,462 - INFO - Skipping row 1 with 94676274F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:18:32,474 - INFO - Processing row: 2
+2024-07-08 16:18:32,498 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 16:18:32,517 - INFO - Processing row: 3
+2024-07-08 16:18:32,541 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 16:18:32,553 - INFO - Processing row: 4
+2024-07-08 16:18:32,578 - INFO - Matched Row 4 on page 1: Plan Selection Date Range UDT validation failed {Value IE is not valid for this user defined term. > } for Start Date :: 2023-08-01 and End Date :: 2024-04-30, Subscription ID: 99282016D
+2024-07-08 16:18:33,977 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 16:18:51,805 - INFO - Processing page 1, Initial Row Count: 20
+2024-07-08 16:18:51,816 - INFO - Processing row: 0
+2024-07-08 16:18:51,839 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 16:18:51,850 - INFO - Processing row: 1
+2024-07-08 16:18:51,852 - INFO - Skipping row 1 with 94676274F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:18:51,864 - INFO - Processing row: 2
+2024-07-08 16:18:51,891 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 16:18:51,902 - INFO - Processing row: 3
+2024-07-08 16:18:51,930 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 16:18:51,941 - INFO - Processing row: 4
+2024-07-08 16:18:51,942 - INFO - Skipping row 4 with 96919030H on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:18:51,954 - INFO - Processing row: 5
+2024-07-08 16:18:51,977 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 16:18:51,987 - INFO - Processing row: 6
+2024-07-08 16:18:52,010 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 16:18:52,020 - INFO - Processing row: 7
+2024-07-08 16:18:52,058 - INFO - Matched Row 7 on page 1: Plan Selection Date Range UDT validation failed {Value IE is not valid for this user defined term. > } for Start Date :: 2024-04-01 and End Date :: 3000-01-01, Subscription ID: 97652249G
+2024-07-08 16:18:53,397 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 16:19:10,332 - INFO - Processing page 1, Initial Row Count: 19
+2024-07-08 16:19:10,347 - INFO - Processing row: 0
+2024-07-08 16:19:10,373 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 16:19:10,391 - INFO - Processing row: 1
+2024-07-08 16:19:10,394 - INFO - Skipping row 1 with 94676274F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:19:10,407 - INFO - Processing row: 2
+2024-07-08 16:19:10,432 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 16:19:10,443 - INFO - Processing row: 3
+2024-07-08 16:19:10,476 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 16:19:10,486 - INFO - Processing row: 4
+2024-07-08 16:19:10,488 - INFO - Skipping row 4 with 96919030H on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:19:10,499 - INFO - Processing row: 5
+2024-07-08 16:19:10,524 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 16:19:10,534 - INFO - Processing row: 6
+2024-07-08 16:19:10,557 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 16:19:10,568 - INFO - Processing row: 7
+2024-07-08 16:19:10,570 - INFO - Skipping row 7 with 92458855F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:19:10,581 - INFO - Processing row: 8
+2024-07-08 16:19:10,603 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 16:19:10,613 - INFO - Processing row: 9
+2024-07-08 16:19:10,638 - INFO - Matched Row 9 on page 1: Plan Selection Date Range UDT validation failed {Value IE is not valid for this user defined term. > } for Start Date :: 2024-02-01 and End Date :: 3000-01-01, Subscription ID: 98945644F
+2024-07-08 16:19:12,034 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 16:19:29,015 - INFO - Processing page 1, Initial Row Count: 18
+2024-07-08 16:19:29,026 - INFO - Processing row: 0
+2024-07-08 16:19:29,050 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 16:19:29,060 - INFO - Processing row: 1
+2024-07-08 16:19:29,062 - INFO - Skipping row 1 with 94676274F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:19:29,074 - INFO - Processing row: 2
+2024-07-08 16:19:29,097 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 16:19:29,107 - INFO - Processing row: 3
+2024-07-08 16:19:29,133 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 16:19:29,152 - INFO - Processing row: 4
+2024-07-08 16:19:29,154 - INFO - Skipping row 4 with 96919030H on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:19:29,167 - INFO - Processing row: 5
+2024-07-08 16:19:29,190 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 16:19:29,202 - INFO - Processing row: 6
+2024-07-08 16:19:29,225 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 16:19:29,236 - INFO - Processing row: 7
+2024-07-08 16:19:29,237 - INFO - Skipping row 7 with 92458855F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:19:29,248 - INFO - Processing row: 8
+2024-07-08 16:19:29,270 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 16:19:29,282 - INFO - Processing row: 9
+2024-07-08 16:19:29,283 - INFO - Skipping row 9 with 90308091F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:19:29,295 - INFO - Processing row: 10
+2024-07-08 16:19:29,321 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 16:19:29,333 - INFO - Processing row: 11
+2024-07-08 16:19:29,357 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 16:19:29,368 - INFO - Processing row: 12
+2024-07-08 16:19:29,393 - INFO - Matched Row 12 on page 1: Plan Selection Date Range UDT validation failed {Value IE is not valid for this user defined term. > } for Start Date :: 2024-04-01 and End Date :: 3000-01-01, Subscription ID: 90727151H
+2024-07-08 16:19:30,889 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 16:19:47,827 - INFO - Processing page 1, Initial Row Count: 17
+2024-07-08 16:19:47,839 - INFO - Processing row: 0
+2024-07-08 16:19:47,862 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 16:19:47,874 - INFO - Processing row: 1
+2024-07-08 16:19:47,876 - INFO - Skipping row 1 with 94676274F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:19:47,888 - INFO - Processing row: 2
+2024-07-08 16:19:47,910 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 16:19:47,921 - INFO - Processing row: 3
+2024-07-08 16:19:47,948 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 16:19:47,961 - INFO - Processing row: 4
+2024-07-08 16:19:47,962 - INFO - Skipping row 4 with 96919030H on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:19:47,973 - INFO - Processing row: 5
+2024-07-08 16:19:47,995 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 16:19:48,005 - INFO - Processing row: 6
+2024-07-08 16:19:48,027 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 16:19:48,038 - INFO - Processing row: 7
+2024-07-08 16:19:48,040 - INFO - Skipping row 7 with 92458855F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:19:48,050 - INFO - Processing row: 8
+2024-07-08 16:19:48,077 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 16:19:48,095 - INFO - Processing row: 9
+2024-07-08 16:19:48,097 - INFO - Skipping row 9 with 90308091F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:19:48,108 - INFO - Processing row: 10
+2024-07-08 16:19:48,130 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 16:19:48,141 - INFO - Processing row: 11
+2024-07-08 16:19:48,163 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 16:19:48,174 - INFO - Processing row: 12
+2024-07-08 16:19:48,176 - INFO - Skipping row 12 with 96296599D on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:19:48,187 - INFO - Processing row: 13
+2024-07-08 16:19:48,212 - INFO - Matched Row 13 on page 1: Plan Selection Date Range UDT validation failed {Value IE is not valid for this user defined term. > } for Start Date :: 2024-01-01 and End Date :: 3000-01-01, Subscription ID: 99782460H
+2024-07-08 16:19:49,641 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 16:20:07,707 - INFO - Processing page 1, Initial Row Count: 16
+2024-07-08 16:20:07,719 - INFO - Processing row: 0
+2024-07-08 16:20:07,746 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 16:20:07,758 - INFO - Processing row: 1
+2024-07-08 16:20:07,760 - INFO - Skipping row 1 with 94676274F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:07,772 - INFO - Processing row: 2
+2024-07-08 16:20:07,795 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 16:20:07,807 - INFO - Processing row: 3
+2024-07-08 16:20:07,840 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 16:20:07,852 - INFO - Processing row: 4
+2024-07-08 16:20:07,853 - INFO - Skipping row 4 with 96919030H on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:07,865 - INFO - Processing row: 5
+2024-07-08 16:20:07,888 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 16:20:07,901 - INFO - Processing row: 6
+2024-07-08 16:20:07,924 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 16:20:07,935 - INFO - Processing row: 7
+2024-07-08 16:20:07,937 - INFO - Skipping row 7 with 92458855F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:07,947 - INFO - Processing row: 8
+2024-07-08 16:20:07,969 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 16:20:07,980 - INFO - Processing row: 9
+2024-07-08 16:20:07,982 - INFO - Skipping row 9 with 90308091F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:07,993 - INFO - Processing row: 10
+2024-07-08 16:20:08,017 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 16:20:08,029 - INFO - Processing row: 11
+2024-07-08 16:20:08,053 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 16:20:08,065 - INFO - Processing row: 12
+2024-07-08 16:20:08,067 - INFO - Skipping row 12 with 96296599D on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:08,077 - INFO - Processing row: 13
+2024-07-08 16:20:08,079 - INFO - Skipping row 13 with 92606381D on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:08,090 - INFO - Processing row: 14
+2024-07-08 16:20:08,126 - INFO - Matched Row 14 on page 1: Plan Selection Date Range UDT validation failed {Value IE is not valid for this user defined term. > } for Start Date :: 2024-01-01 and End Date :: 3000-01-01, Subscription ID: 91444815D
+2024-07-08 16:20:09,574 - INFO - Setting 'Do Not Reprocess Claims' option.
+2024-07-08 16:20:26,663 - INFO - Processing page 1, Initial Row Count: 15
+2024-07-08 16:20:26,675 - INFO - Processing row: 0
+2024-07-08 16:20:26,700 - INFO - No match found for row 0 on page 1, moving to the next row.
+2024-07-08 16:20:26,711 - INFO - Processing row: 1
+2024-07-08 16:20:26,714 - INFO - Skipping row 1 with 94676274F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:26,726 - INFO - Processing row: 2
+2024-07-08 16:20:26,754 - INFO - No match found for row 2 on page 1, moving to the next row.
+2024-07-08 16:20:26,769 - INFO - Processing row: 3
+2024-07-08 16:20:26,809 - INFO - No match found for row 3 on page 1, moving to the next row.
+2024-07-08 16:20:26,820 - INFO - Processing row: 4
+2024-07-08 16:20:26,822 - INFO - Skipping row 4 with 96919030H on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:26,835 - INFO - Processing row: 5
+2024-07-08 16:20:26,861 - INFO - No match found for row 5 on page 1, moving to the next row.
+2024-07-08 16:20:26,874 - INFO - Processing row: 6
+2024-07-08 16:20:26,900 - INFO - No match found for row 6 on page 1, moving to the next row.
+2024-07-08 16:20:26,912 - INFO - Processing row: 7
+2024-07-08 16:20:26,914 - INFO - Skipping row 7 with 92458855F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:26,925 - INFO - Processing row: 8
+2024-07-08 16:20:26,951 - INFO - No match found for row 8 on page 1, moving to the next row.
+2024-07-08 16:20:26,961 - INFO - Processing row: 9
+2024-07-08 16:20:26,963 - INFO - Skipping row 9 with 90308091F on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:26,974 - INFO - Processing row: 10
+2024-07-08 16:20:26,997 - INFO - No match found for row 10 on page 1, moving to the next row.
+2024-07-08 16:20:27,008 - INFO - Processing row: 11
+2024-07-08 16:20:27,030 - INFO - No match found for row 11 on page 1, moving to the next row.
+2024-07-08 16:20:27,041 - INFO - Processing row: 12
+2024-07-08 16:20:27,042 - INFO - Skipping row 12 with 96296599D on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:27,053 - INFO - Processing row: 13
+2024-07-08 16:20:27,055 - INFO - Skipping row 13 with 92606381D on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:27,073 - INFO - Processing row: 14
+2024-07-08 16:20:27,076 - INFO - Skipping row 14 with 95543287E on page 1 as it previously failed to move out of workbasket.
+2024-07-08 16:20:27,222 - ERROR - An error occurred: 
+Traceback (most recent call last):
+  File "<aq:Main>", line 36, in automate_workbasket_process
+  File "<aq:HealthEdgeManager>", line 76, in process_workbasket
+  File "<aq:HealthEdgeManager>", line 90, in has_next_page
+  File "C:\Program Files (x86)\SmartBear\TestComplete 15\x64\Bin\Extensions\Python\Python311\Lib\bdb.py", line 90, in trace_dispatch
+    return self.dispatch_line(frame)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\SmartBear\TestComplete 15\x64\Bin\Extensions\Python\Python311\Lib\bdb.py", line 115, in dispatch_line
+    if self.quitting: raise BdbQuit
+                      ^^^^^^^^^^^^^
+bdb.BdbQuit

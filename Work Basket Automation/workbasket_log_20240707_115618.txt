@@ -1,0 +1,12 @@
+2024-07-07 11:56:18,921 - INFO - Starting workbasket automation process.
+2024-07-07 11:56:18,926 - INFO - Starting the HealthEdge Manager application.
+2024-07-07 11:56:21,184 - INFO - Entering username.
+2024-07-07 11:56:22,531 - INFO - Entering password.
+2024-07-07 11:56:22,774 - INFO - Selecting server.
+2024-07-07 11:56:23,175 - INFO - Submitting login form.
+2024-07-07 11:56:33,306 - INFO - Logged in to HealthEdge Manager successfully.
+2024-07-07 11:56:33,311 - ERROR - An error occurred: name 'datetime' is not defined
+Traceback (most recent call last):
+  File "<aq:Main>", line 28, in automate_workbasket_process
+  File "<aq:HealthEdgeManager>", line 10, in __init__
+NameError: name 'datetime' is not defined

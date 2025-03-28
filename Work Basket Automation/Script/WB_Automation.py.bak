@@ -1,0 +1,75 @@
+﻿class HealthEdgeManager:
+    def __init__(self, aliases):
+        self.healthEdge_Manager = aliases.HealthEdge_Manager
+
+    def navigate_to_workbasket(self):
+        Log.Message("Navigating to the Enrollment Review Repair Workbasket.")
+        self.healthEdge_Manager.HomeForm.BarDockControl.DockedBarControl.ClickItem("Workbasket|Enrollment Review Repair")
+        Log.Message("Navigation complete.")
+
+    def process_workbasket(self):
+        gridControl = self.healthEdge_Manager.WorkbasketForm.panelControlRight.panelControlBaseResults.panelControlResults.ResultGridEnrollmentReviewRepair.gridControlResults
+        targetDescription = "Plan Selection Date Range UDT validation failed"
+        reviewRepairReasonColumnIndex = 12
+        
+        Log.Message("Fetching initial row count.")
+        rowCount = gridControl.wRowCount
+        Log.Message(f"Initial Row Count: {rowCount}")
+
+        i = 0
+        Log.Message("Starting to process rows.")
+        
+        while i < rowCount:
+            Log.Message(f"Processing row: {i}")
+            reviewReason = gridControl.wValue[i, reviewRepairReasonColumnIndex]
+
+            if reviewReason.contains(targetDescription):
+                Log.Message(f"Matched Row {i}: {reviewReason}")
+                self.edit_row(gridControl, i)
+                self.save_changes()
+                self.add_comment()
+                self.confirm_changes()
+                self.refresh_workbasket(gridControl)
+                rowCount = gridControl.wRowCount
+                Log.Message(f"Updated Row Count: {rowCount}")
+                i = 0  # Reset index to start from the beginning
+            else:
+                Log.Message(f"No match found for row {i}, moving to the next row.")
+                i += 1
+
+        Log.Message("Completed processing all rows.")
+
+    def edit_row(self, gridControl, rowIndex):
+        gridControl.ClickCellXY(rowIndex, "Edit", 18, 36)
+        asOfDate = self.healthEdge_Manager.AsOfDate
+        if asOfDate.Exists:
+            Log.Message("Setting 'Do Not Reprocess Claims' option.")
+            asOfDate.panelControlTop.radioGroupReprocessClaims.ClickItem("Do Not Reprocess Claims")
+            asOfDate.panelControlBottom.simpleButtonOK.ClickButton()
+        else:
+            Log.Warning("asOfDate object does not exist.")
+
+    def save_changes(self):
+        dockedBarControl = self.healthEdge_Manager.EntityEditForm.BarDockControl.DockedBarControl
+        dockedBarControl.ClickItem("Save")
+
+    def add_comment(self):
+        selectMemberReasonCodes = self.healthEdge_Manager.SelectMemberReasonCodes
+        panelControl = selectMemberReasonCodes.panelControl1
+        panelControl.lookUpReasonCodes.Click(125, 16)
+        self.healthEdge_Manager.PopupLookUpEditForm.Click(149, 14)
+        textBoxMaskBox = panelControl.memoEditMemberComment.TextBoxMaskBox
+        textBoxMaskBox.Click(53, 24)
+        textBoxMaskBox.Keys("WB_Automation")
+        selectMemberReasonCodes.simpleButtonOK.ClickButton()
+
+    def confirm_changes(self):
+        aqUtils.Delay(3000)
+        if self.healthEdge_Manager.XtraMessageBoxForm.Exists:
+            self.healthEdge_Manager.XtraMessageBoxForm.SimpleButton.ClickButton()
+
+    def refresh_workbasket(self, gridControl):
+        dockedBarControl = self.healthEdge_Manager.WorkbasketForm.panelControlRight.panelControlBaseResults.panelControlResults.ResultGridEnrollmentReviewRepair.BarDockControl.DockedBarControl
+        aqUtils.Delay(5000)
+        dockedBarControl.ClickItem("Refresh")
+        aqUtils.Delay(5000)
