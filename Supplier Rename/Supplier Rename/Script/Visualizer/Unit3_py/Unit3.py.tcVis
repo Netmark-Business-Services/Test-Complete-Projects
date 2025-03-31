@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{E1F1435D-569E-4B08-85B0-E5FF6245449D}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45506.5737384259" objectName="Aliases.HealthEdge_Manager.WorkbasketForm.panelControlRight.panelControlBaseResults.panelControlResults.ResultGridClaimReviewRepair.BarDockControl.DockedBarControl" objectLeft="5" objectTop="981" objectRight="2560" objectBottom="1012" clickPointX="67" clickPointY="993" imageFileName="tcvi346758609361440.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

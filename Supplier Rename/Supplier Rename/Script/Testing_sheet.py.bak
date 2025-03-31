@@ -1,0 +1,19 @@
+﻿def Test1():
+  healthEdge_Manager = Aliases.HealthEdge_Manager
+  healthEdge_Manager.HomeForm.BarDockControl.DockedBarControl.ClickItem("Search")
+  textEdit = healthEdge_Manager.SearchDialog.panelTop.panelSearchCriteria.tabControlSearchCriteria.tabPageGeneral.SimpleSupplierSearchCriteria.entityPanelSupplierSearchInput.autoEditSupplierHccIdentifier.panelControlAutoEdit.TextEdit
+  textEdit.SetText("1215903018")
+  textEdit.TextBoxMaskBox.Keys("[Enter]")
+  
+  
+  xtraMessageBoxForm = healthEdge_Manager.XtraMessageBoxForm2
+  if xtraMessageBoxForm is None:
+    Log.Message("No issues")
+    #break
+  else:
+    
+    xtraMessageBoxForm.Click(70, 9)
+    aqObject.CheckProperty(xtraMessageBoxForm, "Text", cmpEqual, "No Data Found")
+    Log.Message("data not found")
+      #1205218641
+  #1215903018

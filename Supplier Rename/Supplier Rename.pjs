@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{57E6DACD-CD67-4750-8683-DE75667AC477}">
+	<children>
+		<child name="Supplier Rename" key="{FFB15190-D1A9-43A3-BB66-4E9DC71CF5D5}" path="Supplier Rename\Supplier Rename.mds" />
+		<child name="Supplier_Rename_Prod" key="{69D0DAC2-C54D-4CCC-898E-DF314BFBF29B}" path="Supplier_Rename_Prod\Supplier_Rename_Prod.mds" />
+		<child name="Pay to location" key="{630292CA-A5F3-4F4D-83A5-9C6303E95276}" path="Pay to location\Pay to location.mds" />
+	</children>
+	<testItems key="{A2BCD018-DB75-49E3-9016-1EE503BFEB71}">
+		<children>
+			<testItem key="{FFB15190-D1A9-43A3-BB66-4E9DC71CF5D5}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{69D0DAC2-C54D-4CCC-898E-DF314BFBF29B}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{630292CA-A5F3-4F4D-83A5-9C6303E95276}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{3427D157-EDE9-46F6-A55B-99A1544C1E73}" />
+	<analysis key="{70968BCB-7BCD-4A00-8509-4C789CAD2364}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
